@@ -6,6 +6,5 @@ description: 'A research friendly tribe'
 image: null
 author: null
 show_tile: false
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ---
 

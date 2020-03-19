@@ -14,7 +14,7 @@ phone: +8801791925491
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 7
 
 # social settings
 500px_url:

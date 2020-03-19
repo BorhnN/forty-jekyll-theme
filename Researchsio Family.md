@@ -1,6 +1,6 @@
 ---
-title: Landing
-layout: Page
+title: Researchsio Family
+layout: landing
 description: 'Learn about our members'
 image: assets/images/pic07.jpg
 nav-menu: true

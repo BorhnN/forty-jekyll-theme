@@ -5,6 +5,6 @@ landing-title: 'Hi, We are Researchsio'
 description: A research friendly tribe.
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What We Do
+title: What We Do...
 description: Learn about our work field
 image: assets/images/pic11.jpg
 nav-menu: true

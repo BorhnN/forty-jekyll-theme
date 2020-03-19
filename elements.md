@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Who We Are...
 nav-menu: true
 ---
 
@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>Research work: We gather ourselves for a Nobel purpose which is to find the truth and providing ethical research work to the Science community. Our work will be mainly computational Chemistry, Data analysis and Survey Based. If someone comes with a study plan for a research work and it meets our criteria then we will provide our best efforts to make a paper of worthy for publications.</p
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>

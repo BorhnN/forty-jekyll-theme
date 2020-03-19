@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: What We Do
+description: Learn about our work field
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

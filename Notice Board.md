@@ -18,13 +18,14 @@ show_tile: false
 <h2 id="content">Have a look of important notice.</h2>
 <p>Never miss any important announcement:</p>
 
-<div style="background-color:lightwhite">
 <table class="blueTable">
 <thead>
 <tr>
+	<div style="background-color:gray">
 <th>Notice Name</th>
 <th>Date of Published</th>
 <th>Download</th>
+		</div>
 </tr>
 </thead>
 <tbody>
@@ -80,4 +81,4 @@ show_tile: false
 </tr>
 </tbody>
 </table>
-</div>
+

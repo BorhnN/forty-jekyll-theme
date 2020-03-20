@@ -22,7 +22,7 @@ show_tile: false
 <thead>
 <tr>
 <th> Notice Name </th>
-<th>Date of Published</th>
+<th>Date of Publish</th>
 <th>Download</th>
 </tr>
 </thead>

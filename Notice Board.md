@@ -15,8 +15,8 @@ show_tile: false
 			<h1>Notice Board</h1>
 		</header>
     <!-- Content -->
-<h2 id="content">Have a look of important notice</h2>
-<p>Never miss any important announcement.</p>
+<h2 id="content">Have a look of important notice.</h2>
+<p>Never miss any important announcement:</p>
 <table class="blueTable">
 <thead>
 <tr>

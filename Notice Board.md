@@ -16,11 +16,11 @@ show_tile: false
 		</header>
     <!-- Content -->
 <h2 id="content">Have a look of important notice</h2>
-<br> </br>
+<p>Never miss any important announcement.</p>
 <table class="blueTable">
 <thead>
 <tr>
-<th>Name of Notice</th>
+<th>Notice Name</th>
 <th>Date of Published</th>
 <th>Download</th>
 </tr>
@@ -78,5 +78,3 @@ show_tile: false
 </tr>
 </tbody>
 </table>
-
-

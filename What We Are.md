@@ -2,7 +2,7 @@
 layout: page
 title: What We Are...
 description: 'Know about us'
-image: assets/images/logoj.jpg
+image: assets/images/pic12.jpg
 nav-menu: true
 ---
 

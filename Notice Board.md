@@ -30,7 +30,7 @@ show_tile: false
 <tr>
 <td> 1. Extended deadline for member collection</td>
 <td>21 March, 2020</td>
-<td><img src="pdf.png" alt="Download" width="42" height="42"></td>
+<td><img src="assets/images/pdf.png" alt="Download" width="42" height="42"></td>
 </tr>
 <tr>
 <td>cell1_2</td>

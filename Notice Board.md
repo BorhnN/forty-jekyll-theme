@@ -24,7 +24,7 @@ show_tile: false
 <th>Download</th>
 </tr>
 </thead>
-<tfoot>
+
 <tr>
 <tbody>
 <tr>

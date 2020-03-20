@@ -19,7 +19,7 @@ show_tile: false
 		<table class="paleBlueRows">
 <thead>
 <tr>
-<th>Name of Notice</th>
+<th> <font size="20" Name of Notice</font> </th>
 <th>Time of Published</th>
 <th>Download</th>
 </tr>

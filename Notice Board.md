@@ -26,7 +26,6 @@ show_tile: false
 </thead>
 <tfoot>
 <tr>
-
 <tbody>
 <tr>
 <td>cell1_1</td>

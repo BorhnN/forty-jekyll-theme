@@ -19,9 +19,9 @@ show_tile: false
 		<table class="paleBlueRows">
 <thead>
 <tr>
-<th>head1</th>
-<th>head2</th>
-<th>head3</th>
+<th>Name of Notice</th>
+<th>Time of Published</th>
+<th>Download</th>
 </tr>
 </thead>
 <tfoot>

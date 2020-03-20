@@ -17,15 +17,14 @@ show_tile: false
     <!-- Content -->
 <h2 id="content">Have a look of important notice</h2>
 		
-<table class="paleBlueRows">
+<table class="blueTable">
 <thead>
 <tr>
-<th>Name of Notice</th>
-<th>Time of Published</th>
-<th>Download</th>
+<th>head1</th>
+<th>head2</th>
+<th>head3</th>
 </tr>
 </thead>
-<tr>
 <tbody>
 <tr>
 <td>cell1_1</td>

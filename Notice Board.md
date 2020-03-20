@@ -85,46 +85,70 @@ show_tile: false
 </tbody>
 </table>
 
-table.paleBlueRows {
-  font-family: "Times New Roman", Times, serif;
-  border: 1px solid #FFFFFF;
-  width: 350px;
-  height: 200px;
-  text-align: center;
-  border-collapse: collapse;
-}
-table.paleBlueRows td, table.paleBlueRows th {
-  border: 1px solid #FFFFFF;
-  padding: 3px 2px;
-}
-table.paleBlueRows tbody td {
-  font-size: 13px;
-}
-table.paleBlueRows tr:nth-child(even) {
-  background: #D0E4F5;
-}
-table.paleBlueRows thead {
-  background: #0B6FA4;
-  border-bottom: 5px solid #FFFFFF;
-}
-table.paleBlueRows thead th {
-  font-size: 17px;
-  font-weight: bold;
-  color: #FFFFFF;
-  text-align: center;
-  border-left: 2px solid #FFFFFF;
-}
-table.paleBlueRows thead th:first-child {
-  border-left: none;
-}
 
-table.paleBlueRows tfoot {
-  font-size: 14px;
-  font-weight: bold;
-  color: #333333;
-  background: #D0E4F5;
-  border-top: 3px solid #444444;
-}
-table.paleBlueRows tfoot td {
-  font-size: 14px;
-}
+<div class="divTable blueTable">
+<div class="divTableHeading">
+<div class="divTableRow">
+<div class="divTableHead">head1</div>
+<div class="divTableHead">head2</div>
+<div class="divTableHead">head3</div>
+</div>
+</div>
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell">cell1_1</div>
+<div class="divTableCell">cell2_1</div>
+<div class="divTableCell">cell3_1</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">cell1_2</div>
+<div class="divTableCell">cell2_2</div>
+<div class="divTableCell">cell3_2</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">cell1_3</div>
+<div class="divTableCell">cell2_3</div>
+<div class="divTableCell">cell3_3</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">cell1_4</div>
+<div class="divTableCell">cell2_4</div>
+<div class="divTableCell">cell3_4</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">cell1_5</div>
+<div class="divTableCell">cell2_5</div>
+<div class="divTableCell">cell3_5</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">cell1_6</div>
+<div class="divTableCell">cell2_6</div>
+<div class="divTableCell">cell3_6</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">cell1_7</div>
+<div class="divTableCell">cell2_7</div>
+<div class="divTableCell">cell3_7</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">cell1_8</div>
+<div class="divTableCell">cell2_8</div>
+<div class="divTableCell">cell3_8</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">cell1_9</div>
+<div class="divTableCell">cell2_9</div>
+<div class="divTableCell">cell3_9</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">cell1_10</div>
+<div class="divTableCell">cell2_10</div>
+<div class="divTableCell">cell3_10</div>
+</div>
+</div>
+</div>
+<div class="blueTable outerTableFooter">
+<div class="tableFootStyle">
+<div class="links"><a href="#">&laquo;</a> <a class="active" href="#">1</a> <a href="#">2</a> <a href="#">3</a> <a href="#">4</a> <a href="#">&raquo;</a></div>
+</div>
+</div>

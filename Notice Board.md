@@ -16,7 +16,8 @@ show_tile: false
 		</header>
     <!-- Content -->
 <h2 id="content">Have a look of important notice</h2>
-		<table class="paleBlueRows">
+		
+<table class="paleBlueRows">
 <thead>
 <tr>
 <th>Name of Notice</th>
@@ -24,7 +25,6 @@ show_tile: false
 <th>Download</th>
 </tr>
 </thead>
-
 <tr>
 <tbody>
 <tr>

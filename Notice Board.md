@@ -21,14 +21,14 @@ show_tile: false
 <table class="blueTable">
 <thead>
 <tr>
-<th>Notice Name</th>
+<th bgcolor="#D0E4F5"> <font color="black"> <b>Notice Name</b> </font></th>
 <th>Date of Published</th>
 <th>Download</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td bgcolor="#D0E4F5"> <font color="black"> Extended deadline for member collection </font> </td>
+<td>Extended deadline for member collection</td>
 <td>cell2_1</td>
 <td>cell3_1</td>
 </tr>

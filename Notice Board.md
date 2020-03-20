@@ -20,9 +20,9 @@ show_tile: false
 <table class="blueTable">
 <thead>
 <tr>
-<th>head1</th>
-<th>head2</th>
-<th>head3</th>
+<th>Name of Notice</th>
+<th>Date of Published</th>
+<th>Download</th>
 </tr>
 </thead>
 <tbody>

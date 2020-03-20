@@ -29,15 +29,15 @@ show_tile: false
 <tbody>
 <tr>
 <td> 1. Extended deadline for member collection</td>
-<td>21 March, 2020</td>
+<td>20 March, 2020</td>
 <td>
 	<a href="assets/Notice 2.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a>
 	</td>
 </tr>
 <tr>
-<td>cell1_2</td>
-<td>cell2_2</td>
-<td>cell3_2</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>cell1_3</td>

@@ -17,6 +17,8 @@ show_tile: false
     <!-- Content -->
 <h2 id="content">Have a look of important notice.</h2>
 <p>Never miss any important announcement:</p>
+
+<div id="borderDemo">
 <table class="blueTable">
 <thead>
 <tr>
@@ -78,3 +80,4 @@ show_tile: false
 </tr>
 </tbody>
 </table>
+</div>

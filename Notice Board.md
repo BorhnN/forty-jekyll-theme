@@ -16,7 +16,7 @@ show_tile: false
 		</header>
     <!-- Content -->
 <h2 id="content">Have a look of important notice</h2>
-		
+<br> </br>
 <table class="blueTable">
 <thead>
 <tr>

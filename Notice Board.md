@@ -28,7 +28,7 @@ show_tile: false
 </thead>
 <tbody>
 <tr>
-<td bgcolor="#A1D6E2">Extended deadline for member collection</td>
+<td bgcolor="#D0E4F5"> <font color="black"> Extended deadline for member collection </font> </td>
 <td>cell2_1</td>
 <td>cell3_1</td>
 </tr>

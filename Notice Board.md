@@ -18,7 +18,7 @@ show_tile: false
 <h2 id="content">Have a look of important notice.</h2>
 <p>Never miss any important announcement:</p>
 
-<div id="borderDemo">
+<div style="background-color:lightblue">
 <table class="blueTable">
 <thead>
 <tr>

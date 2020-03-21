@@ -5,15 +5,6 @@ description: 'Have a look of our projects'
 nav-menu: false
 show_tile: false
 ---
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			
-		</header>
   <!-- Content -->
 
 <html lang="en">
@@ -23,7 +14,6 @@ show_tile: false
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <title>One Page Portfolio</title>
-
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/bootstrap-theme.css" rel="stylesheet">

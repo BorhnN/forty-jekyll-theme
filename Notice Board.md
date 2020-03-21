@@ -15,8 +15,8 @@ show_tile: false
 			<h1>Notice Board</h1>
 		</header>
     <!-- Content -->
-<h2 id="content">Have a look of important notice.</h2>
-<p>Never miss any important announcement:</p>
+
+<p>Have a look of important notices. Never miss any important announcement:</p>
 
 <table class="blueTable">
 <thead>
@@ -28,7 +28,7 @@ show_tile: false
 </thead>
 <tbody>
 <tr>
-<td> 1. Extended deadline for member collection</td>
+<td> 1. Suspension of member collection due to Corona Outbreak</td>
 <td>20 March, 2020</td>
 <td>
 	<a href="assets/Notice 2.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a>
@@ -40,44 +40,9 @@ show_tile: false
 <td> </td>
 </tr>
 <tr>
-<td>cell1_3</td>
-<td>cell2_3</td>
-<td>cell3_3</td>
-</tr>
-<tr>
-<td>cell1_4</td>
-<td>cell2_4</td>
-<td>cell3_4</td>
-</tr>
-<tr>
-<td>cell1_5</td>
-<td>cell2_5</td>
-<td>cell3_5</td>
-</tr>
-<tr>
-<td>cell1_6</td>
-<td>cell2_6</td>
-<td>cell3_6</td>
-</tr>
-<tr>
-<td>cell1_7</td>
-<td>cell2_7</td>
-<td>cell3_7</td>
-</tr>
-<tr>
-<td>cell1_8</td>
-<td>cell2_8</td>
-<td>cell3_8</td>
-</tr>
-<tr>
-<td>cell1_9</td>
-<td>cell2_9</td>
-<td>cell3_9</td>
-</tr>
-<tr>
-<td>cell1_10</td>
-<td>cell2_10</td>
-<td>cell3_10</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

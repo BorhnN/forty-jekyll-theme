@@ -15,7 +15,7 @@ show_tile: false
 			<h1> Our Work Field</h1>
 		</header>
   <!-- Content -->
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -67,8 +67,8 @@ show_tile: false
               </nav>
               <!-- <a href="#" class="menu"><img src="assets/menu.png"></a> -->
               <div class="hero-text">
-                <h1><span>Hi, I am</span><br>Maria Ferrero.</h1>
-                <h3>Freelance designer from Melbourne</h3>
+                <h2><span>Hi,we are </span><br> Researchsio Family.</h2>
+                <h3> Let's know about our Family!</h3>
                 <a href="#" class="btn btn-lg btn-primary">Know More</a>
                 <ul class="social-links">
                   <li class="label">Join me here</li>

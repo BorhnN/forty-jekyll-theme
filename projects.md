@@ -91,7 +91,7 @@ h1 {
 <div class="main">
 
 
-<h2>Our Researchsio Family/h2>
+<h2>Our Researchsio Family</h2>
 <p>Resize the browser window to see the responsive effect.</p>
 
 <!-- Portfolio Gallery Grid -->

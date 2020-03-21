@@ -25,7 +25,7 @@ show_tile: false
 }
 
 body {
-  background-color: #f1f1f1;
+  background-color: #A1D6E2
   padding: 20px;
   font-family: Arial;
 }

@@ -18,7 +18,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
-<a href="docs/pages/projects.html"> Projects Page Trial </a> 
+<a href="projects.html"> Projects Page Trial </a> 
 <p>Research work: We gather ourselves for a Nobel purpose which is to find the truth and providing ethical research work to the Science community. Our work will be mainly computational Chemistry, Data analysis and Survey Based. If someone comes with a study plan for a research work and it meets our criteria then we will provide our best efforts to make a paper of worthy for publications.</p
 <div class="row">
 	<div class="6u 12u$(small)">

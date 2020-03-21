@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projects
 title: What we Do
 description: 'Have a look of our projects'
 nav-menu: false

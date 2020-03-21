@@ -15,23 +15,16 @@ show_tile: false
 			<h1> Our Work Field</h1>
 		</header>
   <!-- Content -->
-<div class="wow animated fadeIn" data-wow-delay=".15s">
-  <a href="{{ project_url }}" class="project card text-dark">
-    {%- if project_img -%}
-    <img id="{{ project_id }}-img" class="card-img-top" src="{{ project_img }}" alt="{{ project_name }}" />
-    {%- endif -%}
-    <div class="card-body">
-      <h5 id="{{ project_id }}-name" class="card-title">
-          {%- if project_type == "remote" -%}
-          <i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;
-          {%- endif -%}
-        {{ project_name }}
-      </h5>
-      <p id="{{ project_id }}-desc" class="card-text">{{ project_desc }}</p>
-      <p id="{{ project_id }}-tools" class="card-text">
-        {%- for tool in project_tools -%}
-        <span class="badge badge-pill text-primary border border-primary ml-1">{{ tool }}</span>
-        {%- endfor -%}
-      </p>
-    </div>
-  </a>
+# The Movies Project
+
+The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+
+![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+
+## Search Movies
+
+![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+
+<p class="text-center">
+{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+</p>

@@ -15,171 +15,349 @@ show_tile: false
 			<h1> Our Work Field</h1>
 		</header>
   <!-- Content -->
-<body>
-      <div class="header-bg">
-  <div class="container-full">
-    <div class="header ">
-      <nav class="container grid-xl navbar">
-  <div class="flex-vertical-center hide-sm">
-    <a style="width: 20%;" href="https://teaguns.github.io/odin" class="logo">
-      <img style="max-width: 100%;" src="/odin/assets/logo.png">
-    </a>
-    <p class="m-0 ml-2 text-light d-inline">Knowledge Base</p>
-  </div>
-  <div class="text-center show-sm">
-    <a style="width: 100%;" href="https://teaguns.github.io/odin" class="logo flex-centered">
-      <img style="max-width: 150px;" src="/odin/assets/logo.png">
-    </a>
-    <p class="m-0 text-light">Knowledge Base</p>
-    <a style="height: auto;" class="btn btn-lg btn-outline py-2 mt-4">Return to Odin Home</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>One Page Portfolio</title>
 
-  </div>
-  <ul class="main-nav">
-    
-    <li class="mx-4">
-      <a class="nav-links" href="https://github.com/TeaGuns/odin">Github</a>
-    </li>
-    
-    
-    <li class="mx-4">
-      <a class="nav-links" href="https://twitter.com/TheTeaGuns">Twitter</a>
-    </li>
-    
-    
-    
-    <li>
-      <a href="https://teaguns.github.io/odin/" style="height: auto;" class="btn btn-lg btn-outline py-2">Return to Odin Home</a>
-    </li>
-  </ul>
-</nav>
-      <header class="container grid-xl landing-header">
-        <div class="columns pt-12 pb-8">
-          <div class="column col-11 col-mx-auto text-center">
-            <h1 class="mt-2 super-h1">How can we help you?</h1>
-            <h4 class="text-secondary">Support and documentation for Odin</h4>
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap-theme.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/swiper.min.css">
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Open+Sans:300,400,700" rel="stylesheet">
+
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    </head>
+    <body>
+      <header class="hero">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 col-md-offset-6 col-xs-12">
+              <nav>
+                <div id="menu-toggle">
+                  <div class="hamburger">
+                    <span class="line"></span>
+                    <span class="line"></span>
+                    <span class="line"></span>
+                  </div>
+                  <div class="cross">
+                    <span class="line"></span>
+                    <span class="line"></span>
+                  </div>
+                </div>
+                <ul class="main-nav">
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">Portfolio</a></li>
+                  <li><a href="#">About</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </nav>
+              <!-- <a href="#" class="menu"><img src="assets/menu.png"></a> -->
+              <div class="hero-text">
+                <h1><span>Hi, I am</span><br>Maria Ferrero.</h1>
+                <h3>Freelance designer from Melbourne</h3>
+                <a href="#" class="btn btn-lg btn-primary">Know More</a>
+                <ul class="social-links">
+                  <li class="label">Join me here</li>
+                  <li><a href="#"><img src="assets/behance.png"></a></li>
+                  <li><a href="#"><img src="assets/dribbble.png"></a></li>
+                  <li><a href="#"><img src="assets/twitter.png"></a></li>
+                  <li><a href="#"><img src="assets/github.png"></a></li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </header>
-    </div>
-  </div>
-</div>
-    <div class="container-full">
-      <div class="container grid-xl">
-        <div class="columns negative-m-s">
-          <div class="column col-12 text-center">
-            <h6 class="text-secondary">Select a Category</h6>
-          </div>
-          
-          
-          
-          <div class="column col-4 col-md-6 col-sm-12">
-            <a href="/odin/customizing-odin">
-              <div class="card card-link">
-                <div class="card-body text-center my-4">
-                  <h5 class="text-bold">Customizing Odin</h5>
-                      
-                  
-                  <p class="m-0">4 articles</p>
-                  
+
+      <section class="case-study">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h4 class="sub-heading">Exclusively</h4>
+              <h1 class="heading purple"><span class="purple">works</span> with <br>Startups and founders</h1>
+              <!-- Swiper -->
+              <div class="swiper-container client-swiper">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide client-box">
+                    <img src="assets/logo-1.png" class="client-logo">
+                    <h3 class="text-left title">Visual identity for upsidedown</h3>
+                    <p class="text-left tag">Branding, UI, Website</p>
+                    <p class="text-left"><a href="#">Know More &#8594;</a></p>
+                  </div>
+                  <div class="swiper-slide client-box">
+                    <img src="assets/logo-2.png" class="client-logo">
+                    <h3 class="text-left title">User Experience design for the AI</h3>
+                    <p class="text-left tag">Branding, UI, Website</p>
+                    <p class="text-left"><a href="#">Know More &#8594;</a></p>
+                  </div>
+                  <div class="swiper-slide client-box">
+                    <img src="assets/logo-3.png" class="client-logo">
+                    <h3 class="text-left title">Rebranding of the best motion studio</h3>
+                    <p class="text-left tag">Branding, UI, Website</p>
+                    <p class="text-left"><a href="#">Know More &#8594;</a></p>
+                  </div>
+                  <div class="swiper-slide client-box">
+                    <img src="assets/logo-1.png" class="client-logo">
+                    <h3 class="text-left title">Visual identity for upsidedown</h3>
+                    <p class="text-left tag">Branding, UI, Website</p>
+                    <p class="text-left"><a href="#">Know More &#8594;</a></p>
+                  </div>
+                  <div class="swiper-slide client-box">
+                    <img src="assets/logo-2.png" class="client-logo">
+                    <h3 class="text-left title">Visual identity for upsidedown</h3>
+                    <p class="text-left tag">Branding, UI, Website</p>
+                    <p class="text-left"><a href="#">Know More &#8594;</a></p>
+                  </div>
                 </div>
+                
               </div>
-            </a>
+              <!-- Add Arrows -->
+              <div class="swiper-button-next"></div>
+              <div class="swiper-button-prev"></div>
+            </div>
           </div>
-          
-          
-          
-          <div class="column col-4 col-md-6 col-sm-12">
-            <a href="/odin/getting-started">
-              <div class="card card-link">
-                <div class="card-body text-center my-4">
-                  <h5 class="text-bold">Getting Started</h5>
-                      
-                  
-                  <p class="m-0">1 article</p>
-                  
-                </div>
-              </div>
-            </a>
-          </div>
-          
-          
-          
-          <div class="column col-4 col-md-6 col-sm-12">
-            <a href="/odin/using-odin">
-              <div class="card card-link">
-                <div class="card-body text-center my-4">
-                  <h5 class="text-bold">Using Odin</h5>
-                      
-                  
-                  <p class="m-0">4 articles</p>
-                  
-                </div>
-              </div>
-            </a>
-          </div>
-           
-
-          
-<div class="column col-12 text-center mt-16">
-  <h4>Still Need Help?</h4>
-</div>
-<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  <h5>Odin Bugs</h5>
-  <p>If you find any bugs or problems with this theme, please open an issue over on Github.</p>
-  <a href="https://github.com/TeaGuns/odin/issues">Github <i class="uil uil-arrow-right arrow-hover"></i></a>
-</div>
-
-
-<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  <h5>Twitter</h5>
-  <p>Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.</p>
-  <a href="https://twitter.com/theteaguns" target="_blank">Twitter <i class="uil uil-arrow-right arrow-hover"></i></a>
-</div>
-
         </div>
-      </div>
-    </div>
+      </section>
 
-    
-<section class="container-full footer">
-  <svg id="anglesvg" viewBox="0 0 1440 60" xmlns="http://www.w3.org/2000/svg"><path d="M720 60l720-60H0z" fill="#f5f6ff"></path></svg>
-  <div class="container grid-xl footer-contents mb-0">
-    <div class="columns text-center">
-      <div class="column col-12">
-        <img style="max-width: 10%; min-width: 150px; opacity: 0.7;" src="/odin/assets/logo.png">
-        <div class="footer-social my-4">
-            
-            <a href="https://www.twitter.com/TheTeaGuns" target="_blank"><i class="uil uil-twitter"></i></a>
-            
-
-            
-            <a href="https://github.com/TeaGuns" target="_blank"><i class="uil uil-github"></i></a>
-            
-
-            
-            
-
-            
-            
-
-            
-            <a href="mailto:m@credd.in"><i class="uil uil-envelope" target="_blank"></i></a>
-            
-
-            
-            
+      <section class="testimonial">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h4 class="sub-heading">Happy</h4>
+              <h1 class="heading pink"><span class="pink">Client's</span> hello <br>testimonials</h1>
+            </div>
+          </div>  
+        </div>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-12">
+              <!-- Swiper -->
+              <div class="swiper-container testimonial-swiper">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide testimonial-box yellow">
+                    <h1>Pixel Perfect design</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                    <div class="text-right">
+                      <p class="name">- John Doe</p>
+                      <p class="designation">Founder, Arrow</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide testimonial-box purple">
+                    <h1>Minimal and Clean</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                    <div class="text-right">
+                      <p class="name">- Rocky Hych</p>
+                      <p class="designation">CTO, Upside Down</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide testimonial-box blue">
+                    <h1>Built with Bootstrap</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                    <div class="text-right">
+                      <p class="name">- John Doe</p>
+                      <p class="designation">Founder, Arrow</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide testimonial-box pink">
+                    <h1>Responsive template</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                    <div class="text-right">
+                      <p class="name">- Rocky Hych</p>
+                      <p class="designation">CTO, Upside Down</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide testimonial-box yellow">
+                    <h1>Pixel Perfect</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                    <div class="text-right">
+                      <p class="name">- John Doe</p>
+                      <p class="designation">Founder, Arrow</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide testimonial-box purple">
+                    <h1>Minimal and Clean</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                    <div class="text-right">
+                      <p class="name">- Rocky Hych</p>
+                      <p class="designation">CTO, Upside Down</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide testimonial-box blue">
+                    <h1>Pixel Perfect</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                    <div class="text-right">
+                      <p class="name">- John Doe</p>
+                      <p class="designation">Founder, Arrow</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide testimonial-box pink">
+                    <h1>Minimal and Clean</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                    <div class="text-right">
+                      <p class="name">- Rocky Hych</p>
+                      <p class="designation">CTO, Upside Down</p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Add Pagination -->
+                <div class="swiper-pagination"></div>
+              </div>
+            </div>
           </div>
-        <p>© 2020 All rights reserved.</p>
-        
-        <a class="text-small" href="https://github.com/TeaGuns/odin" target="_blank">Powered by Odin</a>
-      </div>
-    </div>
-  </div>
-</section>
+        </div>
+      </section>
 
-    <script async="" defer="" src="https://cdn.simpleanalytics.io/hello.js"></script>
-    <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
-    
-  
+      <!-- Statistics -->
+      <section class="stats">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 text-center stat-box">
+              <h1 class="purple"><span class="counter">3.2</span>k</h1>
+              <h3>Hours</h3>
+            </div>
+            <div class="col-md-4 text-center stat-box">
+              <h1 class="blue counter">217</h1>
+              <h3>Projects</h3>
+            </div>
+            <div class="col-md-4 text-center stat-box">
+              <h1 class="pink"><span class="counter">18.3</span>k</h1>
+              <h3>Cups of Coffee</h3>
+            </div>
+          </div>
+        </div>
+      </section>
 
-</body>
+      <!-- Contact Banner -->
+      <section class="contact-banner">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <h1>Let’s talk about your product</h1>
+              <a href="#" class="btn btn-lg btn-primary">Get in touch now</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Footer -->
+      <footer>
+        <div class="container-fluid">
+          <div class="row footer">
+            <div class="col-md-12 text-center">
+              <h1>Maria<br><span>Ferrero</span></h1>
+              <ul class="social-links">
+                <li><a href="#"><img src="assets/behance.png"></a></li>
+                <li><a href="#"><img src="assets/dribbble.png"></a></li>
+                <li><a href="#"><img src="assets/twitter.png"></a></li>
+                <li><a href="#"><img src="assets/github.png"></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="row sub-footer">
+            <div class="col-md-12 text-center">
+              <p>Designed by <a href="#" target="_blank">@realvjy</a> | Download <a href="http://designerdada.com/free-bootstrap-one-page-portfolio-template/">here</a></p>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+      <!-- Some Javascript -->
+      <script src="js/jquery-2.1.1.js"></script>
+      <script src="js/swiper.jquery.min.js"></script>
+      <!-- Initialize Client Swiper -->
+      <script>
+      var swiper1 = new Swiper('.client-swiper', {
+        slidesPerView: 3,
+        paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        spaceBetween: 60,
+        // Responsive breakpoints
+        breakpoints: {
+          // when window width is <= 320px
+          320: {
+            slidesPerView: 1,
+            spaceBetween: 10,
+            pagination: '.swiper-pagination'
+          },
+          // when window width is <= 480px
+          480: {
+            slidesPerView: 1,
+            spaceBetween: 20
+          },
+          // when window width is <= 640px
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 30
+          }
+        }
+      });
+      // Initialize Testimonial Swiper
+      var swiper2 = new Swiper('.testimonial-swiper', {
+        slidesPerView: 3,
+        pagination: '.swiper-pagination',
+        paginationClickable: true,
+        spaceBetween: 30,
+        grabCursor: true,
+        freeMode: true,
+        breakpoints: {
+          // when window width is <= 320px
+          320: {
+            slidesPerView: 1,
+            spaceBetween: 10,
+          },
+          // when window width is <= 480px
+          480: {
+            slidesPerView: 1,
+            spaceBetween: 10
+          },
+          // when window width is <= 640px
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 10
+          }
+        }
+      });
+      </script>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+      <script src="js/jquery.counterup.min.js"></script>
+      <script>
+      // Counterup
+      $('.counter').counterUp({
+        time: 1000
+      });
+
+      // Main Navigation
+      $('#menu-toggle').click(function(){
+        $(this).toggleClass('open'),
+        $('.main-nav').toggleClass('show-it');
+      })
+      </script>
+
+      <!-- Google Analytics - You should remove this -->
+      <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-29231762-2', 'auto');
+      ga('send', 'pageview');
+
+      </script>
+    </body>
+    </html>

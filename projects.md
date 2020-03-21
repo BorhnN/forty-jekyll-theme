@@ -62,67 +62,6 @@ show_tile: false
             </a>
           </div>
            
-
-          
-<div class="column col-12 text-center mt-16">
-  <h4>Still Need Help?</h4>
-</div>
-<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  <h5>Odin Bugs</h5>
-  <p>If you find any bugs or problems with this theme, please open an issue over on Github.</p>
-  <a href="https://github.com/TeaGuns/odin/issues">Github <i class="uil uil-arrow-right arrow-hover"></i></a>
-</div>
-
-
-<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
-  <h5>Twitter</h5>
-  <p>Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.</p>
-  <a href="https://twitter.com/theteaguns" target="_blank">Twitter <i class="uil uil-arrow-right arrow-hover"></i></a>
-</div>
-
-        </div>
-      </div>
-    </div>
-
-    
-<section class="container-full footer">
-  <svg id="anglesvg" viewBox="0 0 1440 60" xmlns="http://www.w3.org/2000/svg"><path d="M720 60l720-60H0z" fill="#f5f6ff"></path></svg>
-  <div class="container grid-xl footer-contents mb-0">
-    <div class="columns text-center">
-      <div class="column col-12">
-        <img style="max-width: 10%; min-width: 150px; opacity: 0.7;" src="/odin/assets/logo.png">
-        <div class="footer-social my-4">
-            
-            <a href="https://www.twitter.com/TheTeaGuns" target="_blank"><i class="uil uil-twitter"></i></a>
-            
-
-            
-            <a href="https://github.com/TeaGuns" target="_blank"><i class="uil uil-github"></i></a>
-            
-
-            
-            
-
-            
-            
-
-            
-            <a href="mailto:m@credd.in"><i class="uil uil-envelope" target="_blank"></i></a>
-            
-
-            
-            
-          </div>
-        <p>© 2020 All rights reserved.</p>
-        
-        <a class="text-small" href="https://github.com/TeaGuns/odin" target="_blank">Powered by Odin</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-    <script async="" defer="" src="https://cdn.simpleanalytics.io/hello.js"></script>
-    <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
     
   
 

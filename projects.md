@@ -96,7 +96,6 @@ h1 {
 
 <!-- Portfolio Gallery Grid -->
 <div class="row">
-	<div class="wow animated fadeIn" data-wow-delay=".15s">
   <div class="column">
     <div class="content">
       <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">

@@ -12,7 +12,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1> Our Work Field</h1>
+			
 		</header>
   <!-- Content -->
 

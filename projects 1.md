@@ -25,6 +25,7 @@ show_tile: false
     <meta name="description" content="">
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
+<title>What We Do</title>
 <!--
 SOFTY PINKO
 https://templatemo.com/tm-535-softy-pinko

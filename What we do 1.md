@@ -576,7 +576,7 @@ https://templatemo.com/tm-535-softy-pinko
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 			
 				<li>Developed & maintained by: <a href="http://facebook.com/mahmud128" target="_blank">Hamidur Rahman MahmuD</a></li>
-				<li>Website is Under-development.</li>
+				<li><font color="black">Website is Under-development.</font></li>
 
 			</ul>
 		</div>

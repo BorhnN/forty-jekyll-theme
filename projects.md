@@ -258,7 +258,7 @@ https://templatemo.com/tm-535-softy-pinko
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Follow on</a></h3>
-                                <span>Facebook</span>
+                                <span><a href="https://www.facebook.com/pugnacious.sak">Facebook</a></span>
                             </div>
                         </div>
                     </div>

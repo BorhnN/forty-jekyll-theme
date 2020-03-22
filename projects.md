@@ -63,7 +63,7 @@ show_tile: false
       <div class="container">
         <!-- Start: Desc -->
         <div class="row me-row content-ct">
-          <h2 class="row-title">Why This Event Is Super Cool?</h2>
+          <h2 class="row-title">Why This Event Is Super Cool?</h2> <br>
           <div class="col-md-4 feature">
             <span class="ti-ticket"></span>
             <h3>Buy Early Bird Tickets</h3>

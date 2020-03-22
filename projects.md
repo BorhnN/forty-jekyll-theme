@@ -102,7 +102,6 @@ https://templatemo.com/tm-535-softy-pinko
     <!-- ***** Features Small End ***** -->
 
     <!-- ***** Features Big Item Start ***** -->
- 
     <section class="section padding-top-70 padding-bottom-0" id="features">
         <div class="container">
             <div class="row">

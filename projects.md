@@ -32,7 +32,6 @@ show_tile: false
       <![endif]-->
 
     </head>
-    
     <body id="page-top" data-spy="scroll" data-target=".side-menu">
     
       <div class="container-fluid">

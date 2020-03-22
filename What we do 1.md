@@ -573,7 +573,7 @@ https://templatemo.com/tm-535-softy-pinko
 				{% endif %}
 			</ul>
 			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+				<li><font color="black">&copy; {{ site.title }} {{ site.subtitle }}</font></li>
 			
 				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank">Hamidur Rahman MahmuD</a></li>
 				<li><font color="black">Website is Under-development.</font></li>
@@ -581,8 +581,6 @@ https://templatemo.com/tm-535-softy-pinko
 			</ul>
 		</div>
 	</footer>
-
-</div>
 
 <!-- Scripts -->
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>

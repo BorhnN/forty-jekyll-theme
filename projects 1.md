@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: projects 1
+title: Our Projects
+description: 'Have a look of our projects'
+nav-menu: false
+show_tile: false
+---
+  <!-- Content -->
 <html lang="en">
 
   <head>

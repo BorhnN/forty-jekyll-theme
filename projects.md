@@ -151,7 +151,7 @@ https://templatemo.com/tm-535-softy-pinko
     
 <!-- Start: Speakers -->
         <div class="row me-row content-ct speaker" id="speakers">
-          <h2 class="row-title">Meet the Speakers</h2>
+          <h2>Meet the Speakers</h2>
           <div class="col-md-4 col-sm-6 feature">
             <img src="img/speaker-1.png" class="speaker-img">
             <h3>Simon Collins</h3>

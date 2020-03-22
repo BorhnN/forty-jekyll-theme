@@ -56,10 +56,9 @@ https://templatemo.com/tm-535-softy-pinko
                            
                             <li><a href="#features">CEO</a></li>
                             <li><a href="#work-process">Teacher Pannel</a></li>
-                            <li><a href="#testimonials">Members</a></li>
-                            <li><a href="#pricing-plans">Pricing Tables</a></li>
-                            <li><a href="#blog">Blog Entries</a></li>
-                            <li><a href="#contact-us">Contact Us</a></li>
+                            <li><a href="#testimonials"> Founding Members</a></li>
+                            <li><a href="#pricing-plans">Members</a></li>
+                            
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>

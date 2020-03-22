@@ -156,6 +156,31 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Features Big Item End ***** -->
+  <!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-top-70 padding-bottom-0" id="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <img src="assets/images/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
+                    <div class="left-heading">
+                        <h2 class="section-title">We Provide Research Materials</h2>
+                    </div>
+                    <div class="left-text">
+                        <p>We always there to help you on completing your projects. Are you looking for any research materials e.g. solvent, reagent, test tube, beaker etc ? No need to be panicked, just knock us and tell what you need! We will provide your desired goods as early as possible at a minimum cost. So, why you are wasting your precious time and energy on searching for them? Knock us and have a smile :-) </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
 
     <!-- ***** Home Parallax Start ***** -->
     <section class="mini" id="work-process">

@@ -13,7 +13,7 @@ show_tile: false
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <title>One Page Portfolio</title>
+  <title>Researchio Family</title>
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/bootstrap-theme.css" rel="stylesheet">
@@ -60,13 +60,6 @@ show_tile: false
                 <h2><span>Hi,we are </span><br> Researchsio Family.</h2>
                 <h3> Let's know about our Family!</h3>
                 <a href="#" class="btn btn-lg btn-primary">Know More</a>
-                <ul class="social-links">
-                  <li class="label">Join me here</li>
-                  <li><a href="#"><img src="assets/behance.png"></a></li>
-                  <li><a href="#"><img src="assets/dribbble.png"></a></li>
-                  <li><a href="#"><img src="assets/twitter.png"></a></li>
-                  <li><a href="#"><img src="assets/github.png"></a></li>
-                </ul>
               </div>
             </div>
           </div>

@@ -150,7 +150,7 @@ https://templatemo.com/tm-535-softy-pinko
     <!-- ***** Features Big Item End ***** -->
     
 <!-- Start: Speakers -->
-        <div class="row me-row content-ct speaker" id="speakers">
+        <div class="row me-me-row content-ct speaker" id="speakers">
           <h2>Meet the Speakers</h2>
           <div class="col-md-4 col-sm-6 feature">
             <img src="img/speaker-1.png" class="speaker-img">
@@ -182,7 +182,7 @@ https://templatemo.com/tm-535-softy-pinko
               <li><a href="#"><span class="ti-linkedin"></span></a></li>
             </ul>
           </div>
-          <div class="col-md-4 col-sm-6 col-sm-6 feature">
+          <div class="col-md-4 col-sm-6 feature">
             <img src="img/speaker-4.png" class="speaker-img">
             <h3>Geri Coady</h3>
             <p>Harry is a freelance designer, developer, writer, speaker and front-end architect from the UK, previously working as Senior UI Developer for Sky. He Tweets at...</p>
@@ -192,7 +192,7 @@ https://templatemo.com/tm-535-softy-pinko
               <li><a href="#"><span class="ti-linkedin"></span></a></li>
             </ul>
           </div>
-	 <div class="col-md-4 col-sm-6 col-sm-6 feature">
+	 <div class="col-md-4 col-sm-6 feature">
             <img src="img/speaker-4.png" class="speaker-img">
             <h3>Geri Coady</h3>
             <p>Harry is a freelance designer, developer, writer, speaker and front-end architect from the UK, previously working as Senior UI Developer for Sky. He Tweets at...</p>
@@ -202,7 +202,7 @@ https://templatemo.com/tm-535-softy-pinko
               <li><a href="#"><span class="ti-linkedin"></span></a></li>
             </ul>
           </div>
-          <div class="col-md-4 col-sm-6 col-sm-6 feature">
+          <div class="col-md-4 col-sm-6 feature">
             <img src="img/speaker-5.png" class="speaker-img">
             <h3>Andy Budd</h3>
             <p>Harry is a freelance designer, developer, writer, speaker and front-end architect from the UK, previously working as Senior UI Developer for Sky. He Tweets at...</p>

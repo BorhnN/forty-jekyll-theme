@@ -12,12 +12,6 @@ show_tile: false
 
     <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">
     
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Meetup is a free responsive single page bootstrap template by designerdada.com">
-  <meta name="author" content="Akash Bhadange">
-  <title>Meetup: Free Responsive One Page Bootstrap Template</title>
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">

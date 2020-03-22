@@ -1,9 +1,9 @@
 ---
 layout: projects
-title: Family
-description: 'Have a look of ourmembers'
+title: Researchsio Family
+description: 'Learn about our members'
 nav-menu: true
-show_tile: false
+image: assets/images/pic14.jpg
 ---
     
   <!-- Content -->

@@ -16,6 +16,7 @@ show_tile: false
 <html lang="en">
 <head>
  <!-- Additional CSS Files -->
+   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">
     

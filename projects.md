@@ -95,7 +95,7 @@ show_tile: false
     <h2>Founding Members</h2>
         <!-- Start: Speakers -->
         
-     
+     <div class="row me-row content-ct speaker" id="speakers">
           <div class="col-md-4 col-sm-6 feature">
             <img src="img/speaker-1.png" class="speaker-img">
             <h3>Simon Collins</h3>

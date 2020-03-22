@@ -240,7 +240,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Donec tempus, sem non rutrum imperdiet, lectus orci fringilla nulla, at accumsan elit eros a turpis. Ut sagittis lectus libero.</p>
+                        <p>Let's get familiar with our Founding Members.</p>
                     </div>
                 </div>
             </div>
@@ -254,11 +254,11 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Sakib.JPG" alt=""></i>
                             <p>Proin a neque nisi. Nam ipsum nisi, venenatis ut nulla quis, egestas scelerisque orci. Maecenas a finibus odio.</p>
                             <div class="user-image">
-                                <img src="http://placehold.it/60x60" alt="">
+                                <img src="img/fb.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">Catherine Soft</h3>
-                                <span>Managing Director</span>
+                                <h3 class="user-name">Follow on</h3>
+                                <span><a href="https://www.facebook.com/pugnacious.sak>Facebook </a></span>
                             </div>
                         </div>
                     </div>

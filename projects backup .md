@@ -2,7 +2,7 @@
 layout: projects
 title: Researchsio Family
 description: 'Have a look of our members'
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 <html lang="en">

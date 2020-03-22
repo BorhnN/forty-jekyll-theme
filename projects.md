@@ -15,6 +15,10 @@ show_tile: false
   <meta name="author" content="Akash Bhadange">
   <title>Meetup: Free Responsive One Page Bootstrap Template</title>
 
+ <!-- Additional CSS Files -->
+   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
@@ -97,7 +101,32 @@ show_tile: false
           </div>
         </div>
         <!-- End: Desc -->
-
+ <!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-top-70 padding-bottom-0" id="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <img src="assets/images/Founders/Salman Foysal.JPG" style="box-round-shadow: 0px 0px 10px #888;" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
+                    <div class="left-heading">
+			    <h2 class="section-title">MD. Salman Faisal<br>CEO, Researchsio</h2>
+                    </div>
+                    <div class="left-text">
+                        <p>Study Background: B.Pharm from Manarat international University.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
+    
         <!-- Start: Speakers -->
         <div class="row me-row content-ct speaker" id="speakers">
           <h2 class="row-title">Meet the Speakers</h2>

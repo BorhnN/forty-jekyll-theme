@@ -33,23 +33,26 @@ show_tile: false
     </head>
     <body id="page-top" data-spy="scroll" data-target=".side-menu">
       
-      <div class="container-fluid">
-        <!-- Start: Header -->
-        <div class="row hero-header" id="home">
-          <div class="col-md-7">
-            <img src="img/meetup-logo.png" class="logo">
-            <h1>Attend the most awaited Conference of 2015</h1>
-            <h3>to start you up with your business!</h3>
-            <h4>20<sup>th</sup> to 22<sup>nd</sup>  October, 2015</h4>
-            <a href="#" class="btn btn-lg btn-red">Buy Tickets Now <span class="ti-arrow-right"></span></a>
+      
+    <!-- ***** Welcome Area Start ***** -->
+    <div class="welcome-area" id="welcome">
 
-          </div>
-          <div class="col-md-5 hidden-xs">
-            <img src="img/rocket.png" class="rocket animated bounce">
-          </div>
+        <!-- ***** Header Text Start ***** -->
+        <div class="header-text">
+            <div class="container">
+                <div class="row">
+                    <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
+                        <h1>We provide the best <strong>strategy</strong><br>to grow up and execute your thinkings about<strong> research </strong></h1>
+                        <p>We basically work on three sectors. Have a look!</p>
+                        <a href="#features" class="main-button-slider">Discover More</a>
+                    </div>
+                </div>
+            </div>
         </div>
-        <!-- End: Header -->
-      </div>
+        <!-- ***** Header Text End ***** -->
+    </div>
+    <!-- ***** Welcome Area End ***** -->
+    
       <div class="container">
        
  <!-- ***** Features Big Item Start ***** -->

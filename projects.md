@@ -50,8 +50,6 @@ show_tile: false
             
             <h1>Researchsio Family</h1>
             <h3>Consists of a wide range potential members and skilled Teacher Pannel !</h3>
-            <h4>20<sup>th</sup> to 22<sup>nd</sup>  October, 2015</h4>
-            <a href="#" class="btn btn-lg btn-red">Buy Tickets Now <span class="ti-arrow-right"></span></a>
 
           </div>
           <div class="col-md-5 hidden-xs">

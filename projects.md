@@ -69,7 +69,7 @@ https://templatemo.com/tm-535-softy-pinko
     <section class="section padding-top-70 padding-bottom-0" id="features">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 10px over 1.6s after 0.6s">
+                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 100px over 1.6s after 0.6s">
                     <img src="assets/images/Founders/Salman Foysal.JPG" style="box-round-shadow: 0px 0px 10px #888;" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
                 <div class="col-lg-1"></div>

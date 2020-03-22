@@ -5,15 +5,6 @@ description: 'Have a look of our projects'
 nav-menu: false
 show_tile: false
 ---
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>What We Are...</h1>
-		</header>
     
   <!-- Content -->
 <html lang="en">

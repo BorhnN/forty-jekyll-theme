@@ -63,7 +63,7 @@ show_tile: false
       <div class="container">
         <!-- Start: Desc -->
         <div class="row me-row content-ct">
-          <h2 class="row-title">Founders</h2>
+          <h1 class="row-title">Founders</h1>
           
         <!-- End: Desc -->
 
@@ -72,15 +72,15 @@ show_tile: false
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="assets/images/Founders/Salman Foysal.JPG" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">Research Work </h2>
+			    <h2 class="section-title">MD. Salman Faisal<br>CEO, Researchsio</br></h2>
                     </div>
                     <div class="left-text">
-                        <p>We always have some ongoing projects in which you can join with us by being on of our member. Do you have any idea on which you want to wokr! Let’s discuss about you project. We will provide stratigic way to complete your projects. We also works on "Review Article". You can write and publish your own review article through us. We will help you cordially in every step you need.</p>
+                        <p>Study Background: B.Pharm from Manarat international University.</p>
                     </div>
                 </div>
             </div>

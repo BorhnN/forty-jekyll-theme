@@ -474,6 +474,16 @@ show_tile: false
         </div>
       </div>
       <!-- End: Footer -->
+      
+ <!-- Plugins -->
+    <script src="assets/js/scrollreveal.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/imgfix.min.js"></script> 
+    
+    <!-- Global Init -->
+    <script src="assets/js/custom.js"></script>
+
 
       <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
       <script src="js/jquery.min.js"></script>

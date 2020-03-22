@@ -3,7 +3,7 @@ layout: post
 title: What We Do...
 description: Learn about our work field
 image: assets/images/pic13.jpg
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

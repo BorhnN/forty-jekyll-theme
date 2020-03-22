@@ -4,6 +4,7 @@ title: Researchsio Family
 description: 'Learn about our members'
 image: assets/images/pic13.jpg
 nav-menu: true
+show_tile: false
 ---
     
   <!-- Content -->

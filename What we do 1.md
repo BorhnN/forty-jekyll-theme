@@ -75,7 +75,7 @@ https://templatemo.com/tm-535-softy-pinko
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
                                 <h5 class="features-title"> Research Work</h5>
-                                <p>We do reseach and helps in writting review article</p>
+                                <p>We do reseach and helps in writing review article</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->

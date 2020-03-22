@@ -189,8 +189,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="row">
                     <div class="offset-lg-3 col-lg-6">
                         <div class="info">
-                            <h1>Work Process</h1>
-                            <p>Aenean nec tempor metus. Maecenas ligula dolor, commodo in imperdiet interdum, vehicula ut ex. Donec ante diam.</p>
+                            <h1>Our Ongoing Projects</h1>
+                            <p>We always have some projects run by our team members. Our ongoing projects are: </p>
                         </div>
                     </div>
                 </div>
@@ -200,7 +200,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Get Ideas</strong>
+                            <strong>আপাতত নাই</strong>
                             <span>Godard pabst prism fam cliche.</span>
                         </a>
                     </div>

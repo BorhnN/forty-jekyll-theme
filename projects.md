@@ -235,7 +235,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">What do they say?</h2>
+                        <h2 class="section-title">Founding Members</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
@@ -251,7 +251,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/testimonial-icon.png" alt=""></i>
+                            <i><img src="assets/images/Founders/Sakib.JPG" alt=""></i>
                             <p>Proin a neque nisi. Nam ipsum nisi, venenatis ut nulla quis, egestas scelerisque orci. Maecenas a finibus odio.</p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">

@@ -1,7 +1,7 @@
 ---
 layout: projects 1
 title: What We Do
-description: 'Have a look of our projects'
+description: 'Learn about our work field'
 nav-menu: false
 ---
     

@@ -2,7 +2,7 @@
 title: Researchsio Family
 layout: landing
 description: 'Learn about our members'
-image: assets/images/pic07.jpg
+image: assets/images/pic14.jpg
 nav-menu: true
 ---
 

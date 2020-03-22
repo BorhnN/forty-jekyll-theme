@@ -52,13 +52,13 @@ https://templatemo.com/tm-535-softy-pinko
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="#" class="logo">
-                            <img src="assets/images/logo.png" alt="Softy Pinko"/>
+                            <img src="assets/images/Logo.png" alt="Researchsio"/>
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li><a href="#welcome" class="active">Home</a></li>
-                            <li><a href="#features">About</a></li>
+                            <li><a href="#welcome" class="active">CEO</a></li>
+                            <li><a href="#features">Teacher Pannel</a></li>
                             <li><a href="#work-process">Work Process</a></li>
                             <li><a href="#testimonials">Testimonials</a></li>
                             <li><a href="#pricing-plans">Pricing Tables</a></li>
@@ -147,12 +147,12 @@ https://templatemo.com/tm-535-softy-pinko
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="assets/images/Founders/Salman Foysal.JPG" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">MD. Salman Faisal<br> CEO, Researchsio</br></h2>
+                        <h2 class="section-title">MD. Salman Faisal<br>CEO, Researchsio</h2>
                     </div>
                     <div class="left-text">
                         <p>Educational background: B.Pharm from Manarat International University.</p>

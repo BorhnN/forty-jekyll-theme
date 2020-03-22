@@ -1,5 +1,5 @@
 ---
-layout: projects 1
+layout: What we do 1
 title: What We Do
 description: 'Learn about our work field'
 nav-menu: false

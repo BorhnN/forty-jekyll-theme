@@ -13,7 +13,7 @@ show_tile: false
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Meetup is a free responsive single page bootstrap template by designerdada.com">
   <meta name="author" content="Akash Bhadange">
-  <title>Meetup: Free Responsive One Page Bootstrap Template</title>
+  <title>Researchsio Family</title>
 
  <!-- Additional CSS Files -->
    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">

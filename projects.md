@@ -47,7 +47,7 @@ show_tile: false
         <!-- Start: Header -->
         <div class="row hero-header" id="home">
           <div class="col-md-7">
-            <img src="img/meetup-logo.png" class="logo">
+            
             <h1>Attend the most awaited Conference of 2015</h1>
             <h3>to start you up with your business!</h3>
             <h4>20<sup>th</sup> to 22<sup>nd</sup>  October, 2015</h4>
@@ -94,7 +94,7 @@ show_tile: false
     <!-- ***** Features Big Item End ***** -->
     <h2>Founding Members</h2>
         <!-- Start: Speakers -->
-        <div class="row me-row content-ct speaker" id="speakers">
+        
      
           <div class="col-md-4 col-sm-6 feature">
             <img src="img/speaker-1.png" class="speaker-img">

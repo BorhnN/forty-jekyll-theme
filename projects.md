@@ -150,9 +150,10 @@ https://templatemo.com/tm-535-softy-pinko
     </section>
     <!-- ***** Features Big Item End ***** -->
     
+    <h2>Meet the Speakers</h2>
 <!-- Start: Speakers -->
         <div class="row me-me-row content-ct speaker" id="speakers">
-          <h2>Meet the Speakers</h2>
+          
           <div class="col-md-4 col-sm-6 feature">
             <img src="img/speaker-1.png" class="speaker-img">
             <h3>Simon Collins</h3>

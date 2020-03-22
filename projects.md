@@ -77,7 +77,7 @@ show_tile: false
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-			    <h2 class="section-title">MD. Salman Faisal<br>CEO, Researchsio</br></h2>
+			    <h2 class="section-title">MD. Salman Faisal<br>CEO, Researchsio</h2>
                     </div>
                     <div class="left-text">
                         <p>Study Background: B.Pharm from Manarat international University.</p>
@@ -92,6 +92,7 @@ show_tile: false
         </div>
     </section>
     <!-- ***** Features Big Item End ***** -->
+    <h2>Founding Members</h2>
         <!-- Start: Speakers -->
         <div class="row me-row content-ct speaker" id="speakers">
           <h2 class="row-title">Meet the Speakers</h2>

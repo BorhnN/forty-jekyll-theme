@@ -70,8 +70,7 @@ show_tile: false
         <div class="container">
           <div class="row">
             <div class="col-md-12">
-              <h4 class="sub-heading">Exclusively</h4>
-              <h1 class="heading purple"><span class="purple">works</span> with <br>Startups and founders</h1>
+              <h1 class="heading purple"><span class="Familiar">works</span> with founders</h1>
               <!-- Swiper -->
               <div class="swiper-container client-swiper">
                 <div class="swiper-wrapper">

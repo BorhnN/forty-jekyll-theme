@@ -3,7 +3,6 @@ layout: projects 1
 title: What We Do
 description: 'Have a look of our projects'
 nav-menu: false
-show_tile: false
 ---
     
   <!-- Content -->

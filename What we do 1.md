@@ -74,8 +74,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Modern Strategy</h5>
-                                <p>Customize anything in this template to fit your website needs</p>
+                                <h5 class="features-title"> Research Work</h5>
+                                <p>We do reseach and helps in writting review article</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -86,8 +86,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Best Relationship</h5>
-                                <p>Contact us immediately if you have a question in mind</p>
+                                <h5 class="features-title">Workshop</h5>
+                                <p>We do workshop on various research based sectors</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -98,8 +98,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Ultimate Marketing</h5>
-                                <p>You just need to tell your friends about our free templates</p>
+                                <h5 class="features-title"> Research Materials</h5>
+                                <p>You just need to tell us whats you need for reseach, we will provide you your materials</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->

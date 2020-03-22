@@ -74,7 +74,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title"> Research Work</h5>
+                                <h5 class="features-title"> Research & Publications</h5>
                                 <p>We do reseach and helps in writing review article</p>
                             </div>
                         </div>
@@ -86,7 +86,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Workshop</h5>
+                                <h5 class="features-title">Workshop, Seminar & Training</h5>
                                 <p>We do workshop on various research based sectors</p>
                             </div>
                         </div>

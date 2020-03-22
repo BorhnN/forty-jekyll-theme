@@ -145,7 +145,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">Participate in our Workshop exclusively for you!</h2>
                     </div>
                     <div class="left-text">
-                        <p>We arrange workshop on various important research and profession releated topics which will increase your skill. In this world of enormous competitors, increase your skills with us to compete. Keep your eyes on our nex workshop. Don't miss it! <br> <a href="url">Coming Up Workshop</a></br></p>
+                        <p>We arrange workshop on various important research and profession releated topics which will increase your skill. In this world of enormous competitors, increase your skills with us to compete. Keep your eyes on our nex workshop. Don't miss it! <br> <a href="url">Our Coming Up Workshop</a> </p>
                     </div>
                 </div>
                 <div class="col-lg-1"></div>

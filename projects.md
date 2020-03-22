@@ -44,8 +44,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                         <h1>We have a good number of  <strong>potential members</strong><br>and highly skilled <strong>Teacher Pannel</strong></h1>
-                        <p>We basically work on three sectors. Have a look!</p>
-                        <a href="#features" class="main-button-slider">Discover More</a>
+                        <a href="#features" class="main-button-slider">Have a look!</a>
                     </div>
                 </div>
             </div>
@@ -66,8 +65,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title"> Research & Publications</h5>
-                                <p>We do reseach and helps in writing review article</p>
+                                <h5 class="features-title"> Founding Members</h5>
+                                <p>We have some potential Founding members</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -78,8 +77,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Workshop, Seminar & Training</h5>
-                                <p>We do workshop on various research based sectors</p>
+                                <h5 class="features-title">Teacher Pannel</h5>
+                                <p>We have highly skilled teacher pannel</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -90,8 +89,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title"> Research Materials</h5>
-                                <p>You just need to tell us whats you need for reseach, we will provide you your materials</p>
+                                <h5 class="features-title"> General Members</h5>
+                                <p> We have enthusiastic members from different univarsities   /p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->

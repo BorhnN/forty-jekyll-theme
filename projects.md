@@ -53,7 +53,7 @@ show_tile: false
     </div>
     <!-- ***** Welcome Area End ***** -->
     
-      <div class="container">
+      
      <h1><strong>Founder</strong></h1>  
  <!-- ***** Features Big Item Start ***** -->
  

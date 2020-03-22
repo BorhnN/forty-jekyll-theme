@@ -254,7 +254,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Sakib.JPG" alt=""></i>
                             <p>Proin a neque nisi. Nam ipsum nisi, venenatis ut nulla quis, egestas scelerisque orci. Maecenas a finibus odio.</p>
                             <div class="user-image">
-                                <img src="img/fb.png" alt="">
+                                <img src="img/fb1.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Follow on</a></h3>

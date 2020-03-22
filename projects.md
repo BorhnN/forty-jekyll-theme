@@ -46,6 +46,16 @@ show_tile: false
     
     <body id="page-top" data-spy="scroll" data-target=".side-menu">
   
+   <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>  
+    <!-- ***** Preloader End ***** -->
+    
       <div class="container-fluid">
         <!-- Start: Header -->
         <div class="row hero-header" id="home">

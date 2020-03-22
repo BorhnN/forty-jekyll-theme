@@ -35,14 +35,17 @@ https://templatemo.com/tm-535-softy-pinko
     <body>
     
 
-   <!-- ***** Header Text Start ***** -->
+   <!-- ***** Welcome Area Start ***** -->
+    <div class="welcome-area" id="welcome">
+
+        <!-- ***** Header Text Start ***** -->
         <div class="header-text">
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                         <h1>We have a good number of  <strong>potential members</strong><br>and highly skilled <strong>Teacher Pannel</strong></h1>
-                       
-                        <a href="#features" class="main-button-slider">Have a look!</a>
+                        <p>We basically work on three sectors. Have a look!</p>
+                        <a href="#features" class="main-button-slider">Discover More</a>
                     </div>
                 </div>
             </div>
@@ -50,8 +53,55 @@ https://templatemo.com/tm-535-softy-pinko
         <!-- ***** Header Text End ***** -->
     </div>
     <!-- ***** Welcome Area End ***** -->
-<br>  
- 
+
+    <!-- ***** Features Small Start ***** -->
+    <section class="section home-feature">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                            <div class="features-small-item">
+                                <div class="icon">
+                                    <i><img src="assets/images/featured-item-01.png" alt=""></i>
+                                </div>
+                                <h5 class="features-title"> Research & Publications</h5>
+                                <p>We do reseach and helps in writing review article</p>
+                            </div>
+                        </div>
+                        <!-- ***** Features Small Item End ***** -->
+
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                            <div class="features-small-item">
+                                <div class="icon">
+                                    <i><img src="assets/images/featured-item-01.png" alt=""></i>
+                                </div>
+                                <h5 class="features-title">Workshop, Seminar & Training</h5>
+                                <p>We do workshop on various research based sectors</p>
+                            </div>
+                        </div>
+                        <!-- ***** Features Small Item End ***** -->
+
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
+                            <div class="features-small-item">
+                                <div class="icon">
+                                    <i><img src="assets/images/featured-item-01.png" alt=""></i>
+                                </div>
+                                <h5 class="features-title"> Research Materials</h5>
+                                <p>You just need to tell us whats you need for reseach, we will provide you your materials</p>
+                            </div>
+                        </div>
+                        <!-- ***** Features Small Item End ***** -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Small End ***** -->
+
     <!-- ***** Features Big Item Start ***** -->
  
     <section class="section padding-top-70 padding-bottom-0" id="features">

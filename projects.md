@@ -14,6 +14,14 @@ show_tile: false
     <!-- Content -->
 
 <html lang="en">
+<!-- Header -->
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
 <head>
  <!-- Additional CSS Files -->
    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">

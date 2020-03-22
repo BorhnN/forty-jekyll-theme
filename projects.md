@@ -90,7 +90,7 @@ https://templatemo.com/tm-535-softy-pinko
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
                                 <h5 class="features-title"> General Members</h5>
-                                <p> We have enthusiastic members from different univarsities   /p>
+                                <p> We have enthusiastic members from different univarsities</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->

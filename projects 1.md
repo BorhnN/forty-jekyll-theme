@@ -5,6 +5,16 @@ description: 'Have a look of our projects'
 nav-menu: false
 show_tile: false
 ---
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>What We Are...</h1>
+		</header>
+    
   <!-- Content -->
 <html lang="en">
 
@@ -16,7 +26,7 @@ show_tile: false
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
 
-    <title>Softy Pinko - Bootstrap 4.0 Theme</title>
+    <title>What we do</title>
 <!--
 SOFTY PINKO
 https://templatemo.com/tm-535-softy-pinko

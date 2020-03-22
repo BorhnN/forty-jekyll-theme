@@ -43,7 +43,7 @@ show_tile: false
     
     <body id="page-top" data-spy="scroll" data-target=".side-menu">
     
-      <div class="container-fluid">
+     
         <!-- Start: Header -->
         <div class="row hero-header" id="home">
           <div class="col-md-7">

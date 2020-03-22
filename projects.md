@@ -5,41 +5,7 @@ description: 'Have a look of our members'
 nav-menu: true
 show_tile: false
 ---
-<!-- Main -->
-<div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-    <!-- Content -->
-
-<html lang="en">
-<!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
-	<nav>
-		<a href="#menu">Menu</a>
-	</nav>
-</header>
-<!-- Menu -->
-<nav id="menu">
-	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
-	</ul>
-</nav>
 <head>
  <!-- Additional CSS Files -->
    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">

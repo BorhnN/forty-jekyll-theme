@@ -81,8 +81,8 @@ show_tile: false
                     <p class="text-left"><a href="#">Know More &#8594;</a></p>
                   </div>
                   <div class="swiper-slide client-box">
-                    <img src="assets/logo-2.png" class="client-logo">
-                    <h3 class="text-left title">User Experience design for the AI</h3>
+                    <img src="assets/images/Founders/Salman Foysal.JPG" class="client-logo">
+                    <h3 class="text-left title">Md. Salman Faisal</h3>
                     <p class="text-left tag">Branding, UI, Website</p>
                     <p class="text-left"><a href="#">Know More &#8594;</a></p>
                   </div>

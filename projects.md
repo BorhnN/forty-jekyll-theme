@@ -11,9 +11,6 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Notice Board</h1>
-		</header>
     <!-- Content -->
     <!DOCTYPE html>
 <html lang="en">
@@ -46,38 +43,9 @@ show_tile: false
     <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">
 
     </head>
+    
     <body id="page-top" data-spy="scroll" data-target=".side-menu">
-      <nav class="side-menu">
-        <ul>
-          <li class="hidden active">
-            <a class="page-scroll" href="#page-top"></a>
-          </li>
-          <li>
-            <a href="#home" class="page-scroll">
-              <span class="menu-title">Home</span>
-              <span class="dot"></span>
-            </a>
-          </li>
-          <li>
-            <a href="#speakers" class="page-scroll">
-              <span class="menu-title">Speakers</span>
-              <span class="dot"></span>
-            </a>
-          </li>
-          <li>
-            <a href="#tickets" class="page-scroll">
-              <span class="menu-title">Buy Tickets</span>
-              <span class="dot"></span>
-            </a>
-          </li>
-          <li>
-            <a href="#schedule" class="page-scroll">
-              <span class="menu-title">Schedule</span>
-              <span class="dot"></span>
-            </a>
-          </li>
-        </ul>
-      </nav>
+  
       <div class="container-fluid">
         <!-- Start: Header -->
         <div class="row hero-header" id="home">

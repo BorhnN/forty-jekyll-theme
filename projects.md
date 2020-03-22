@@ -53,7 +53,7 @@ show_tile: false
       <div class="container">
        
  <!-- ***** Features Big Item Start ***** -->
- <h2> Founder:</h2>
+ <h1><strong>Founder:</strong></h1>
     <section class="section padding-top-70 padding-bottom-0" id="features">
         <div class="container">
             <div class="row">

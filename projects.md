@@ -83,7 +83,7 @@ show_tile: false
                   <div class="swiper-slide client-box">
                     <img src="assets/images/Founders/Salman Foysal.JPG" class="w3-round">
                     <h3 class="text-left title">Md. Salman Faisal</h3>
-                    <p class="text-left tag">Branding, UI, Website</p>
+                    <p class="text-left tag">Founder CEO, Researchsio</p>
                     <p class="text-left"><a href="#">Know More &#8594;</a></p>
                   </div>
                   <div class="swiper-slide client-box">

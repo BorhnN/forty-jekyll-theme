@@ -190,7 +190,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="offset-lg-3 col-lg-6">
                         <div class="info">
                             <h1>Our Ongoing Projects</h1>
-                            <p>We always have some projects run by our team members. Our ongoing projects are: </p>
+                            <p>We always have some projects run by our team members. </p>
                         </div>
                     </div>
                 </div>
@@ -207,7 +207,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Sketch Up</strong>
+                            <strong>জীবনটা বেদনার</strong>
                             <span>Godard pabst prism fam cliche.</span>
                         </a>
                     </div>

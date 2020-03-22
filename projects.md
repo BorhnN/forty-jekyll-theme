@@ -56,7 +56,8 @@ show_tile: false
       <div class="container">
        
  <!-- ***** Features Big Item Start ***** -->
- <h1><strong>Founder:</strong></h1>
+ 
+ <h1><font color="black"><strong>Founder:</black></strong></h1>
     <section class="section padding-top-70 padding-bottom-0" id="features">
         <div class="container">
             <div class="row">

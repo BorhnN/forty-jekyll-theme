@@ -145,7 +145,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">Participate in our Workshop, Seminar and Training exclusively for you!</h2>
                     </div>
                     <div class="left-text">
-                        <p>We arrange training, seminars, workshop on various important research and profession related topics which will increase your skill.<br>Specially training on some rare topics like molecular docking, drug designing and computational chemistry are also organized by us.In this world of enormous competitors, increase your skills with us to compete. Keep your eyes on our upcoming skill-developing program. Don't miss it!<br> <a href="url">Our Coming Up Workshop</a> </p>
+                        <p>We arrange training, seminars, workshop on various important research and profession related topics which will increase your skill.<br>Specially training on some rare topics like molecular docking, drug designing and computational chemistry are also organized by us.In this world of enormous competitors, increase your skills with us to compete. Keep your eyes on our upcoming skill-developing program. Don't miss it!<br><a href="#testimonials" class="main-button">Testimonials</a>Our Coming Up Workshop</a></p>
                     </div>
                 </div>
                 <div class="col-lg-1"></div>

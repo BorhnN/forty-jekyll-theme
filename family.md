@@ -297,8 +297,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <img src="img/fb1.png" alt="">
                             </div>
                             <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/mahmud128">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/mahmud128">Facebook</a></span>
+                                 <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
                             </div>
                         </div>
                     </div>

@@ -136,8 +136,33 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Features Small End ***** -->
-
-        <!-- ***** Home Parallax Start ***** -->
+<!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-top-70 padding-bottom-0" id="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <img src="assets/images/Founders/Salman Foysal.JPG" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
+                    <div class="left-heading">
+                        <h2 class="section-title">MD. Salman Faisal<br>CEO, Researchsio</h2>
+                    </div>
+                    <div class="left-text">
+                        <p>Educational background: B.Pharm from Manarat International University.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
+    
+     <!-- ***** Home Parallax Start ***** -->
     <section class="mini" id="work-process">
         <div class="mini-content">
             <div class="container">
@@ -419,31 +444,7 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Counter Parallax End ***** -->   
-  <!-- ***** Features Big Item Start ***** -->
-    <section class="section padding-top-70 padding-bottom-0" id="features">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/Founders/Salman Foysal.JPG" class="rounded img-fluid d-block mx-auto" alt="App">
-                </div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
-                    <div class="left-heading">
-                        <h2 class="section-title">MD. Salman Faisal<br>CEO, Researchsio</h2>
-                    </div>
-                    <div class="left-text">
-                        <p>Educational background: B.Pharm from Manarat International University.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="hr"></div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ***** Features Big Item End ***** -->
+  
     
  <!-- ***** Blog Start ***** -->
     <section class="section" id="blog">

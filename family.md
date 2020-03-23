@@ -286,7 +286,24 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
-                
+		
+                <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Tohfa.jpg" alt=""></i>
+                            <p>Nusaibatoon Morsheda Tohfa<br>Bachelor in Pharmacy<br>Manarat International University.</p>
+                            <div class="user-image">
+                                <img src="img/fb1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                 <h3 class="user-name"><a href="https://www.facebook.com/mahmud128">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/mahmud128">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
                 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">

@@ -291,14 +291,14 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/testimonial-icon.png" alt=""></i>
+                            <i><img src="assets/images/Founders/MahmuD.jpg" alt=""></i>
                             <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.</p>
                             <div class="user-image">
-                                <img src="http://placehold.it/60x60" alt="">
+                                <img src="img/fb1.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">Kelvin Wood</h3>
-                                <span>Digital Marketer</span>
+                                 <h3 class="user-name"><a href="https://www.facebook.com/mahmud128">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/mahmud128">Facebook</a></span>
                             </div>
                         </div>
                     </div>
@@ -309,14 +309,31 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/testimonial-icon.png" alt=""></i>
+                            <i><img src="assets/images/Founders/Zilan.JPG" alt=""></i>
                             <p>Quisque diam odio, maximus ac consectetur eu, auctor non lorem. Cras quis est non ante ultrices molestie. Ut vehicula et diam at aliquam.</p>
                             <div class="user-image">
-                                <img src="http://placehold.it/60x60" alt="">
+                                <img src="img/fb1.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">David Martin</h3>
-                                <span>Website Manager</span>
+                                <h3 class="user-name"><a href="https://www.facebook.com/profile.php?id=100011295008789">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/profile.php?id=100011295008789">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		 <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Gajjali.JPG" alt=""></i>
+                            <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.</p>
+                            <div class="user-image">
+                                <img src="img/fb1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                 <h3 class="user-name"><a href="https://www.facebook.com/alifahmed.gazzalee">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/alifahmed.gazzalee">Facebook</a></span>
                             </div>
                         </div>
                     </div>

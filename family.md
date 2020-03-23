@@ -236,7 +236,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Dr. MOjammel Haque</a>
+                                <a href="#">Dr. Mojammel Haque</a>
                             </h3>
                             <div class="text">
                                 Professor at Jahangirnagar University.
@@ -257,14 +257,29 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="row">
                     <div class="offset-lg-3 col-lg-6">
                         <div class="info">
-                            <h1>Teacher Pannel</h1>
-                            <p>Our respected highly skilled teachers:</p>
+                            <h1>Founding Members</h1>
+                            <p>Let's get familiar with our Founding Members.</p>
                         </div>
                     </div>
                 </div>
 
                 <!-- ***** Mini Box Start ***** -->
-                <div class="row">
+               <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Sakib.JPG" alt=""></i>
+                            <p>Proin a neque nisi. Nam ipsum nisi, venenatis ut nulla quis, egestas scelerisque orci. Maecenas a finibus odio.</p>
+                            <div class="user-image">
+                                <img src="img/fb1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/pugnacious.sak">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               <div class="row">
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/Founders/Sakib.JPG" alt=""></i>

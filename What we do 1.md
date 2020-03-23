@@ -142,10 +142,10 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-bottom-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">Participate in our Workshop exclusively for you!</h2>
+                        <h2 class="section-title">Participate in our Workshop, Seminar and Training exclusively for you!</h2>
                     </div>
                     <div class="left-text">
-                        <p>We arrange workshop on various important research and profession releated topics which will increase your skill. In this world of enormous competitors, increase your skills with us to compete. Keep your eyes on our nex workshop. Don't miss it! <br> <a href="url">Our Coming Up Workshop</a> </p>
+                        <p>We arrange training, seminars, workshop on various important research and profession related topics which will increase your skill.<br>Specially training on some rare topics like molecular docking, drug designing and computational chemistry are also organized by us.In this world of enormous competitors, increase your skills with us to compete. Keep your eyes on our upcoming skill-developing program. Don't miss it!<br> <a href="url">Our Coming Up Workshop</a> </p>
                     </div>
                 </div>
                 <div class="col-lg-1"></div>
@@ -166,10 +166,10 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">We Provide Research Materials</h2>
+                        <h2 class="section-title">We Provide Appliance Services</h2>
                     </div>
                     <div class="left-text">
-                        <p>We always there to help you on completing your projects. Are you looking for any research materials e.g. solvent, reagent, test tube, beaker etc ? No need to be panicked, just knock us and tell what you need! We will provide your desired goods as early as possible at a minimum cost. So, why you are wasting your precious time and energy on searching for them? Knock us and have a smile </p>
+                        <p>Research instruments delivery: Research work is a lengthy process. We support those people who put their most of the time and concentration to build a better career and contribute to the research community. For which we provide home delivery of their required equipment, reagents, beakers, solvent, test tube, etc just to make the journey of young and pro scientists smoother.<br> Educative package selling: Modern era is building up based on the technology. Now we can carry thousands of books in our pocket. To help one to make him more knowledgeable and worthy. We provide a large number of books on pdf format and some special software(with operation manual) at affordable cost.<br>We always there to help you on completing your projects.So, why you are wasting your precious time and energy on searching for them? Knock us and have a smile.<br><li><a href="#pricing-plans"><h3>Go for Research Software & Pdf Book Store</h3></a></li> </p>
                     </div>
                 </div>
             </div>

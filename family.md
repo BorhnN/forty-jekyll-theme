@@ -309,7 +309,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt=""></i>
-                            <h3>Hamidur Rahman MahmuD</h3><br><p>Bachelor in Pharmacy(Running, Final Year)<br>Manarat International University.</p>
+                            <p>Hamidur Rahman MahmuD<br><p>Bachelor in Pharmacy(Running, Final Year)<br>Manarat International University.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>

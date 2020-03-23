@@ -339,6 +339,23 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
+		 <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
+                            <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.</p>
+                            <div class="user-image">
+                                <img src="img/fb1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                 <h3 class="user-name"><a href="https://www.facebook.com/kamalhasan.s.3">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/kamalhasan.s.3">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
             </div>
         </div>
     </section>

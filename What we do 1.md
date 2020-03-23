@@ -488,14 +488,62 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+		<div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">
                             <img src="assets/images/blog-item-02.png" alt="">
                         </div>
                         <div class="blog-content">
                             <h3>
+                                <a href="#">Rosalind and Use of Python</a>
+                            </h3>
+                            <div class="text">
+                                Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-03.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
                                 <a href="#">Bioinformatics in Bangladesh</a>
+                            </h3>
+                            <div class="text">
+                                Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+		<div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-02.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Referencing by Mendeley</a>
+                            </h3>
+                            <div class="text">
+                                Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+		<div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-01.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">General Calculations & Presentation for Research with Excel and PowerPoint/Prezi</a>
                             </h3>
                             <div class="text">
                                 Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.

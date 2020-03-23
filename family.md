@@ -629,6 +629,5 @@ https://templatemo.com/tm-535-softy-pinko
     
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
-
-  </body>
-</html>
+    </body>
+    </html>

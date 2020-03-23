@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: family
 title: Researchsio Family
 description: 'Learn about our members'
 nav-menu: true

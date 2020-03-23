@@ -384,7 +384,7 @@ https://templatemo.com/tm-535-softy-pinko
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="#" class="main-button">Call For Purchase</a>
                         </div>
                     </div>
                 </div>
@@ -408,7 +408,7 @@ https://templatemo.com/tm-535-softy-pinko
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="#" class="main-button">Call For Purchase</a>
                         </div>
                     </div>
                 </div>

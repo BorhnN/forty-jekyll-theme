@@ -274,7 +274,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Sakib.jpg" alt=""></i>
-                            <p><b>Motasim Billah Sakib</b><br>Bachelor in Pharmacy<br>Manarat International University.</p>
+                            <p>Motasim Billah Sakib<br>Bachelor in Pharmacy<br>Manarat International University.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -292,7 +292,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt=""></i>
-                            <p><b>Nusaibatoon Morsheda Tohfa</b><br>Bachelor in Pharmacy<br>Manarat International University.</p>
+                            <p>Nusaibatoon Morsheda Tohfa<br>Bachelor in Pharmacy<br>Manarat International University.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -309,7 +309,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt=""></i>
-                            <p><b>Hamidur Rahman MahmuD</b><br>Bachelor in Pharmacy(Running, Final Year)<br>Manarat International University.</p>
+                            <h3 class="user-name">Hamidur Rahman MahmuD</h3><br><p>Bachelor in Pharmacy(Running, Final Year)<br>Manarat International University.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -327,7 +327,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Zilan.jpg" alt=""></i>
-                            <p><b>Mahfuzur Rahman Zilan<</b><br>Bachelor in Pharmacy<br>Manarat International University.</p>
+                            <p>Mahfuzur Rahman Zilan<br>Bachelor in Pharmacy<br>Manarat International University.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>

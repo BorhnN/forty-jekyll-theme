@@ -123,7 +123,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">Research Work </h2>
                     </div>
                     <div class="left-text">
-                        <p>We always have some ongoing projects in which you can join with us by being on of our member. Do you have any idea on which you want to wokr! Let’s discuss about you project. We will provide stratigic way to complete your projects. We also works on "Review Article". You can write and publish your own review article through us. We will help you cordially in every step you need.</p>
+                        <p>We always have some ongoing projects (dry lab works, surveys, review articles, hypothesis ) .  Do you have any idea on which you want to work! Let’s discuss about you project. We will provide a strategic way and any kind of assistance to complete that till publication.<br> We work on incomplete projects and manuscripts too to make them publishable and then we go for publication.<br> Before starting any project we run some mandatory training sessions for our members or other related personnel to train up them in all of the research-related activities such as software operating, research paper writing, survey conducting and so on so that they can think like a researcher. Anyone can be involved with us by being one of our members.</p>
                     </div>
                 </div>
             </div>

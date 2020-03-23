@@ -330,12 +330,12 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">Pricing Plans</h2>
+                        <h2 class="section-title">Research Software & PDF Book Store</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Donec vulputate urna sed rutrum venenatis. Cras consequat magna quis arcu elementum, quis congue risus volutpat.</p>
+                        <p>We are providing Research Related Softwre and more than 200 precious pdf book collectiion on Pharmacy at a low cost which is hard to be found. Get smarter with pdf book and research software! Grab your  desired books & softwares from our different economic packages. Call for Purchase: ✆01746831078 </p>
                     </div>
                 </div>
             </div>
@@ -346,25 +346,21 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Starter</h3>
+                            <h3 class="pricing-title">Classic Package</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
-                                <span class="currency">$</span>
-                                <span class="price">14.50</span>
-                                <span class="period">monthly</span>
+                                <span class="currency">৳</span>
+                                <span class="price">999</span>
+                                <span class="period">Only</span>
                             </div>
                             <ul class="list">
-                                <li class="active">60 GB space</li>
-                                <li class="active">600 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li>15-minute support</li>
-                                <li>Unlimited Emails</li>
-                                <li>24/7 Security</li>
+                                <li class="active">200+ Exclusive Pdf books of Pharmacy.</li>
+                                <li>Research Software</li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="#" class="main-button">Call For Purchase</a>
                         </div>
                     </div>
                 </div>
@@ -374,21 +370,17 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="pricing-item active">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Premium</h3>
+                            <h3 class="pricing-title">Pro-Package</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
-                                <span class="currency">$</span>
-                                <span class="price">21.50</span>
-                                <span class="period">monthly</span>
+                                <span class="currency">৳</span>
+                                <span class="price">1999</span>
+                                <span class="period">only</span>
                             </div>
                             <ul class="list">
-                                <li class="active">120 GB space</li>
-                                <li class="active">1200 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li class="active">15-minute support</li>
-                                <li>Unlimited Emails</li>
-                                <li>24/7 Security</li>
+                                <li class="active">200+ Exclusive Pdf books of Pharmacy.</li>
+                                <li class="active">Research Software</li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
@@ -402,21 +394,17 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Advanced</h3>
+                            <h3 class="pricing-title">Software Package</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
-                                <span class="currency">$</span>
-                                <span class="price">42.00</span>
-                                <span class="period">monthly</span>
+                                <span class="currency">৳</span>
+                                <span class="price">1000</span>
+                                <span class="period">only</span>
                             </div>
                             <ul class="list">
-                                <li class="active">250 GB space</li>
-                                <li class="active">5000 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li class="active">15-minute support</li>
-                                <li class="active">Unlimited Emails</li>
-                                <li class="active">24/7 Security</li>
+                                <li class="active">Research Software</li>
+                                <li>200+ Exclusive Pdf books of Pharmacy.</li>
                             </ul>
                         </div>
                         <div class="pricing-footer">

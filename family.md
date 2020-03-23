@@ -273,7 +273,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Sakib.JPG" alt=""></i>
+                            <i><img src="assets/images/Founders/Sakib.jpg" alt=""></i>
                             <p><strong>Motasim Billah Sakib</strong><br>Bachelor in Pharmacy<br>Manarat International University.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
@@ -326,7 +326,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Zilan.JPG" alt=""></i>
+                            <i><img src="assets/images/Founders/Zilan.jpg" alt=""></i>
                             <p><strong>Mahfuzur Rahman Zilan<</strong>br>Bachelor in Pharmacy<br>Manarat International University.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
@@ -343,7 +343,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Gajjali.JPG" alt=""></i>
+                            <i><img src="assets/images/Founders/Gajjali.jpg" alt=""></i>
                             <p><strong>Alif Ahmed Gazzalee</strong><br>Bachelor in Pharmacy<br>Manarat International University.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">

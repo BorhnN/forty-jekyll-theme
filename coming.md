@@ -1,13 +1,12 @@
 ---
 title: What We Are...
-layout: family
-description: 'Learn about us'
+layout: coming
+description: 'Know about us'
 image: assets/images/pic12.jpg
 nav-menu: false
 
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<title>What We Are</title>

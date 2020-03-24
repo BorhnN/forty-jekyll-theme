@@ -222,12 +222,12 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="center-heading">
+                    <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                         <h2 class="section-title">Founding Members</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text">
+                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                         <p>Let's get familiar with our Founding Members.</p>
                     </div>
                 </div>
@@ -236,7 +236,7 @@ https://templatemo.com/tm-535-softy-pinko
 
             <div class="row">
 	    <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Gajjali.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
@@ -254,7 +254,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
 		
 		<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Blank.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
@@ -272,7 +272,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
 		
 		 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
@@ -291,7 +291,7 @@ https://templatemo.com/tm-535-softy-pinko
 		
 		
                 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
@@ -309,7 +309,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
 		
 		  <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
@@ -327,7 +327,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
 		
 		 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Blank.jpg" alt="" class="rounded-cornersone"></i>
@@ -346,7 +346,7 @@ https://templatemo.com/tm-535-softy-pinko
 		
 		
                 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>

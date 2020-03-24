@@ -256,7 +256,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Gajjali.jpg" alt=""></i>
+                            <i><img src="assets/images/Founders/Gajjali.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
                             <p>Alif Ahmed Gazzalee<br>B.Pharm (MIU)<br>Advisor</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
@@ -274,7 +274,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Zilan.jpg" alt=""></i>
+                            <i><img src="assets/images/Founders/Zilan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
                             <p>Nishan Chakrabarty<br>B.Pharm (IIUC), M.Pharm(JNU)<br>Research Advisor</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
@@ -292,7 +292,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Zilan.jpg" alt=""></i>
+                            <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Mahfuzur Rahman Zilan<br>B.Pharm (MIU)<br>Documentation Supervisor<br>Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
@@ -311,7 +311,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Sakib.jpg" alt=""></i>
+                            <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Motasim Billah Sakib<br>B.Pharm (MIU)<br>Creative Manager<br>Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
@@ -330,7 +330,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Hamidur Rahman MahmuD<br>B.Pharm (MIU)<br>Technical & IT Manager<br>Researcher</p>
+                            <p>Hamidur Rahman MahmuD<br> & #8226 B.Pharm (MIU)<br> & #8226 Technical & IT Manager<br> & #8226 Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -347,7 +347,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Tohfa.jpg" alt=""></i>
+                            <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Nusaibatoon Morsheda Tohfa<br>B.Pharm (MIU)<br>Communication Supervisor<br>Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">

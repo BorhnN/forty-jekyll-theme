@@ -397,7 +397,9 @@ https://templatemo.com/tm-535-softy-pinko
                             <h3 class="pricing-title">Md. Kamal Hossain</h3>
                         </div>
                         <div class="pricing-body">
+			<div class="price-wrapper">
 			<i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
+			</div>
                             <br>
 			    <ul class="list">
                                 <li class="active"><h4 class="pricing-title"><font color="#888888">Department Of Pharmacy</font></h4></li>

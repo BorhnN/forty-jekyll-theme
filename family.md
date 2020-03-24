@@ -429,11 +429,11 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="pricing-item active">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Premium</h3>
                         </div>
                         <div class="pricing-body">
+			<i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
                             <div class="price-wrapper">
-			    <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
+			    
                                 <span class="currency">$</span>
                                 <span class="price">21.50</span>
                                 <span class="period">monthly</span>

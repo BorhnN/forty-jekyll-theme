@@ -196,23 +196,6 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="blog-post-thumb">
-                        <div class="img">
-                            <img src="assets/images/blog-item-02.png" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="#">Md. Mosharrof Hossain</a>
-                            </h3>
-                            <div class="text">
-                                Lecturer at Manarat International University. Department of Pharmacy.
-                                Founder of Bangladesh Prophetic Medicine.
-                            </div>
-                            <a href="#" class="main-button">Read More</a>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -436,7 +419,7 @@ https://templatemo.com/tm-535-softy-pinko
 			     <div class="blog-content">
                             <p><font color="black">Kamal Hossain</font></p>
 			    </div>
-                                <li class="active"><h2><font color="black">Kamal Hossain</font></h2></li>
+                                <li class="active"><h3><font color="black">Kamal Hossain</font></h3></li>
                                 <li class="active">Pro Design Panel</li>
                                 <li>15-minute support</li>
                                 <li>Unlimited Emails</li>

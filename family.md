@@ -432,6 +432,12 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                        <div class="pricing-body">
 		       <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i> 
+		       <br>
+		       <div class="blog-content">
+                            <h2>
+                                <font color="black">Kamal Hossain</font>
+                            </h2>
+			    </div>
 			    <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Kamal Hossain</a></h3>
                                 <span><a href="">Kamal Hossain</a></span>
@@ -448,11 +454,6 @@ https://templatemo.com/tm-535-softy-pinko
                             <a href="#" class="main-button">Purchase Now</a>
                         </div>
                     </div>
-		    <div class="blog-content">
-                            <h2>
-                                <font color="black">kamal Hossain</font>
-                            </h2>
-			    </div>
                 </div>
                 <!-- ***** Pricing Item End ***** -->
 

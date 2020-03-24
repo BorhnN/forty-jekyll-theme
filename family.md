@@ -431,14 +431,9 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="pricing-header">
                         </div>
                        <div class="pricing-body">
-		       <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
-                            <div class="blog-content">
-                            <h3>
-                                <a href="#">Md. Kamal Hossain</a>
-                            </h3>
-			    </div>
+		       <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i> 
 			    <div class="team-info">
-                                <h3 class="user-name"><span><a href="https://www.facebook.com/pugnacious.sak">Kamal Hossain</a><span></h3>
+                                <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Kamal Hossain</a></h3>
                                 <span><a href="">Kamal Hossain</a></span>
                             </div>
                             <ul class="list"> 
@@ -449,6 +444,11 @@ https://templatemo.com/tm-535-softy-pinko
                                 <li>24/7 Security</li>
                             </ul>
                         </div>
+			<div class="blog-content">
+                            <h3>
+                                <a href="#">Dr. Mojammel Haque</a>
+                            </h3>
+			    </div>
                         <div class="pricing-footer">
                             <a href="#" class="main-button">Purchase Now</a>
                         </div>

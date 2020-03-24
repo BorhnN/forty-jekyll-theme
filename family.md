@@ -434,18 +434,11 @@ https://templatemo.com/tm-535-softy-pinko
 			<i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
                             <div class="price-wrapper">
 			    
-                                <span class="currency">$</span>
-                                <span class="price">21.50</span>
-                                <span class="period">monthly</span>
+                                <span class="currency">Kamal Hossain</span>
+                                <span class="price">Department Of Pharmacy</span>
+                                <span class="period">MIU</span>
                             </div>
-                            <ul class="list">
-                                <li class="active">120 GB space</li>
-                                <li class="active">1200 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li class="active">15-minute support</li>
-                                <li>Unlimited Emails</li>
-                                <li>24/7 Security</li>
-                            </ul>
+                            
                         </div>
                         <div class="pricing-footer">
                             <a href="#" class="main-button">Purchase Now</a>

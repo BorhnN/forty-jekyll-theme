@@ -265,6 +265,10 @@ ul.footer-menu li a:hover {
     right: 15px;
 }
 
+img.rounded-corners {
+  border-radius: 30px;
+}
+
 .animated { 
     -webkit-animation-duration: 5s; 
     animation-duration: 5s; 

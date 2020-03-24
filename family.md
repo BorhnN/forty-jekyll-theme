@@ -378,7 +378,11 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
             </div>
             <!-- ***** Section Title End ***** -->
-
+	   <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+	    <div class="price-wrapper">
+                                <span class="currency">First Session</span>
+                            </div>
+			   </div>
             <div class="row">
                 <!-- ***** Pricing Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
@@ -417,13 +421,13 @@ https://templatemo.com/tm-535-softy-pinko
 		       <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
 		       <br>
                             <ul class="list"><br>
-                                <li class="active"><h4 class="pricing-title"><font color="#888888">Kamal Hossain</font></h4></li>
+                                <li class="active"><h4 class="pricing-title"><font color="#888888">Md. Kamal Hossain</font></h4></li>
                                 <li class="active"><p class="pricing-title"><font color="888888">Department of Pharmacy</font></p></li>
                                 <li class="active"><p class="pricing-title"><font color="888888">MIU</font></p></li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="https://www.facebook.com/kamalhasan.s.3" class="main-button">Contact on FB</a>
                         </div>
                     </div>
                 </div>

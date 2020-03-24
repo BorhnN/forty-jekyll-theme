@@ -99,7 +99,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Pricing Item End ***** -->
 <div class="row">
 	    <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+	<div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="pricing-item active">
                         <div class="pricing-header">
                         </div>
@@ -144,7 +144,6 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
             </div>
         </div>
-    </section>
     <!-- ***** Features Small End ***** -->
 
     <!-- ***** Testimonials Start ***** -->

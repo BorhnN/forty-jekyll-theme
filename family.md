@@ -389,25 +389,22 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 <!-- ***** Pricing Item End ***** -->
 		
-            <div class="row">
-                <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
-                    <div class="pricing-item">
-                        <div class="pricing-headname">
-                            <h3 class="pricing-name">Md. Kamal Hossain</h3>
+            <div class="row"><!-- ***** Pricing Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="pricing-item active">
+                        <div class="pricing-header">
                         </div>
-                        <div class="pricing-body">
-			<div class="price-wrapper">
-			<i><img src="assets/images/Founders/Kamal.jpg" alt="" class="rounded-corners"></i>
-			</div>
-                            <br>
-			    <ul class="list">
-                                <li class="active"><h5 class="pricing-title"><font color="#888888">Department Of Pharmacy</font></h5></li>
-                                <li class="active"><p class="pricing-title"><font color="#888888">MIU</font></p></li>
+                       <div class="pricing-body">
+		       <i><img src="assets/images/Founders/Kamal.jpg" alt="" class="rounded-corners"></i>
+		       <br>
+                            <ul class="list"><br>
+                                <li class="active"><h4 class="pricing-title"><font color="#888888">Md. Kamal Hossain</font></h4></li>
+                                <li class="active"><p class="pricing-title"><font color="888888">Department of Pharmacy</font></p></li>
+                                <li class="active"><p class="pricing-title"><font color="888888">MIU</font></p></li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                           <a href="https://www.facebook.com/kamalhasan.s.3" class="main-button">Contact on FB</a>
+                            <a href="https://www.facebook.com/kamalhasan.s.3" class="main-button">Contact on FB</a>
                         </div>
                     </div>
                 </div>

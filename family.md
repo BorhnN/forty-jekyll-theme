@@ -444,15 +444,15 @@ https://templatemo.com/tm-535-softy-pinko
                                 <li>24/7 Security</li>
                             </ul>
                         </div>
-			<div class="blog-content">
-                            <h3>
-                                <a href="#">Dr. Mojammel Haque</a>
-                            </h3>
-			    </div>
                         <div class="pricing-footer">
                             <a href="#" class="main-button">Purchase Now</a>
                         </div>
                     </div>
+		    <div class="blog-content">
+                            <h3>
+                                <a href="#">Dr. Mojammel Haque</a>
+                            </h3>
+			    </div>
                 </div>
                 <!-- ***** Pricing Item End ***** -->
 

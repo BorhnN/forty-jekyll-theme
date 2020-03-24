@@ -1213,12 +1213,8 @@ pricing
   color: #1e1e1e;
 }
 
-.pricing-item.active .pricing-headname .pricing-name {
-  color: #1e1e1e;
-}
-
 img.rounded-corners {
-  border-radius: 30px;
+  border-radius: 25px;
 }
 
 .pricing-item.active .pricing-body .price-wrapper {
@@ -1250,26 +1246,6 @@ img.rounded-corners {
   letter-spacing: 0.25px;
   color: #1e1e1e;
   width: 180px;
-  height: 40px;
-  line-height: 40px;
-  left: 0px;
-  right: 0px;
-  margin: auto;
-}
-
-.pricing-item .pricing-name {
-  text-align: left;
-  display: block;
-  position: fixed;
-  padding-bottom: 10px;
-}
-
-.pricing-item .pricing-headname .pricing-name {
-  font-weight: 500;
-  font-size: 19px;
-  letter-spacing: 0.25px;
-  color: #1e1e1e;
-  width: 250px;
   height: 40px;
   line-height: 40px;
   left: 0px;

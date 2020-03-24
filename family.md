@@ -393,8 +393,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Pricing Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                     <div class="pricing-item">
-                        <div class="pricing-header">
-                            <h2 class="pricing-name">Md. Kamal Hossain</h2>
+                        <div class="pricing-headname">
+                            <h3 class="pricing-name">Md. Kamal Hossain</h3>
                         </div>
                         <div class="pricing-body">
 			<div class="price-wrapper">

@@ -433,9 +433,9 @@ https://templatemo.com/tm-535-softy-pinko
                        <div class="pricing-body">
 		       <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
                             <div class="team-content">
-                                <span class="currency">$</span>
-                                <span class="price">14.50</span>
-                                <span class="period">monthly</span>
+                                <span style="font-weight:bold">Name: Kamal Hossain</span><br>
+                                <span class="price">Dept. of Pharmacy</span><br>
+                                <span class="period">MMIU</span>
                             </div>
                             <ul class="list">
                                 <li class="active">60 GB space</li>

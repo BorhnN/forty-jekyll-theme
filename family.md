@@ -449,9 +449,9 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
 		    <div class="blog-content">
-                            <h3>
-                                <font color="black">Dr. Mojammel Haque</font>
-                            </h3>
+                            <h2>
+                                <font color="black">kamal Hossain</font>
+                            </h2>
 			    </div>
                 </div>
                 <!-- ***** Pricing Item End ***** -->

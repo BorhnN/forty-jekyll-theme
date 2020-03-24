@@ -1213,7 +1213,7 @@ pricing
   color: #1e1e1e;
 }
 
-.pricing-item.active .pricing-header .pricing-name {
+.pricing-item.active .pricing-headname .pricing-name {
   color: #1e1e1e;
 }
 
@@ -1253,7 +1253,14 @@ pricing
   margin: auto;
 }
 
-.pricing-item .pricing-header .pricing-name {
+.pricing-item .pricing-name {
+  text-align: right;
+  display: block;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.pricing-item .pricing-headname .pricing-name {
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 0.25px;

@@ -1,6 +1,6 @@
 ---
 title: What We Are...
-layout: coming
+layout: what we are1
 description: 'Know about us'
 image: assets/images/pic12.jpg
 nav-menu: false

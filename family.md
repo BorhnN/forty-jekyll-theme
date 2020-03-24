@@ -402,8 +402,8 @@ https://templatemo.com/tm-535-softy-pinko
 			</div>
                             <br>
 			    <ul class="list">
-                                <li class="active"><h3 class="pricing-title"><font color="#888888">Department Of Pharmacy</font></h3></li>
-                                <li class="active"><h3 class="pricing-title"><font color="#888888">MIU</font></h3></li>
+                                <li class="active"><h4 class="pricing-title"><font color="#888888">Department Of Pharmacy</font></h4></li>
+                                <li class="active"><h4 class="pricing-title"><font color="#888888">MIU</font></h4></li>
                             </ul>
                         </div>
                         <div class="pricing-footer">

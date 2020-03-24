@@ -404,6 +404,7 @@ https://templatemo.com/tm-535-softy-pinko
                             </div>
                         </div>
                     </div>
+		  </section>
                 <!-- ***** Pricing Item End ***** -->
     <br>
     <br>

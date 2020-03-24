@@ -379,14 +379,14 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Members are the heart of Researchsio</p>
+                        <p>Members are the heart of Researchsio.</p>
                     </div>
                 </div>
             <!-- ***** Section Title End ***** -->
 	    
 	   <!-- ***** Pricing Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <div class="pricing-body" align="middle">
+                        <div class="pricing-body">
                             <div class="price-wrapper">
                                <a href="First session members.html" class="main-button">First Session Members</a>
                             </div>

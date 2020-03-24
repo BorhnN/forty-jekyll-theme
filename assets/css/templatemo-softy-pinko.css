@@ -1249,6 +1249,19 @@ pricing
   margin: auto;
 }
 
+.pricing-item .pricing-header .pricing-name {
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: 0.25px;
+  color: #1e1e1e;
+  width: 180px;
+  height: 40px;
+  line-height: 40px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
+
 .pricing-item .pricing-body {
   margin-bottom: 40px;
 }

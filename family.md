@@ -256,7 +256,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Gajjali.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
-                            <p>Alif Ahmed Gazzalee<br>B.Pharm (MIU)<br>Advisor</p>
+                            <p>Alif Ahmed Gazzalee<br> &#8226; B.Pharm (MIU)<br> &#8226; Advisor</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -273,8 +273,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Zilan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
-                            <p>Nishan Chakrabarty<br>B.Pharm (IIUC), M.Pharm(JNU)<br>Research Advisor</p>
+                            <i><img src="assets/images/Founders/Blank.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
+                            <p>Nishan Chakrabarty<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -292,7 +292,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Mahfuzur Rahman Zilan<br>B.Pharm (MIU)<br>Documentation Supervisor<br>Researcher</p>
+                            <p>Mahfuzur Rahman Zilan<br> &#8226; B.Pharm (MIU)<br> &#8226; Documentation Supervisor<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -311,7 +311,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Motasim Billah Sakib<br>B.Pharm (MIU)<br>Creative Manager<br>Researcher</p>
+                            <p>Motasim Billah Sakib<br> &#8226; B.Pharm (MIU)<br> &#8226; Creative Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -341,6 +341,25 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
+		
+		 <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Blank.jpg" alt="" class="rounded-cornersone"></i>
+                            <p>Redwan Mahmud<br> &#8226; B.Pharm (MIU)<br> &#8226; Researcher</p>
+                            <div class="user-image">
+                                <img src="img/fb1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                 <h3 class="user-name"><a href="https://www.facebook.com/Pharmacist.Redwan">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/Pharmacist.Redwan">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
 		
                 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12">

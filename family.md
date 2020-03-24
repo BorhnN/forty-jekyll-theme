@@ -382,7 +382,6 @@ https://templatemo.com/tm-535-softy-pinko
                         <p>Members are the heart of Researchsio</p>
                     </div>
                 </div>
-            </div>
             <!-- ***** Section Title End ***** -->
 	    
 	   <!-- ***** Pricing Item Start ***** -->
@@ -392,7 +391,6 @@ https://templatemo.com/tm-535-softy-pinko
                                <a href="First session members.html" class="main-button">First Session Members</a>
                             </div>
                         </div>
-                    </div>
                 <!-- ***** Pricing Item End ***** -->
 		<br>
 		<br>
@@ -403,8 +401,6 @@ https://templatemo.com/tm-535-softy-pinko
                                <a href="#" class="main-button">Second Session Members</a>
                             </div>
                         </div>
-                    </div>
-		  </section>
                 <!-- ***** Pricing Item End ***** -->
     <br>
     <br>

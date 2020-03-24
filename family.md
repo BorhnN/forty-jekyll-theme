@@ -436,6 +436,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <h3>
                                 <a href="#">Md. Kamal Hossain</a>
                             </h3>
+			    </div>
                             <ul class="list"> 
                                 <li class="active">Kamal Hossain</li>
                                 <li class="active">Pro Design Panel</li>

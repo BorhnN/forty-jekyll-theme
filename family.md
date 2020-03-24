@@ -438,8 +438,8 @@ https://templatemo.com/tm-535-softy-pinko
                             </h3>
 			    </div>
 			    <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Kamal Hossain</a></h3>
-                                <span><a href="https://www.facebook.com/pugnacious.sak">Facebook</a></span>
+                                <h3 class="user-name"><span><a href="https://www.facebook.com/pugnacious.sak">Kamal Hossain</a><span></h3>
+                                <span><a href="">Kamal Hossain</a></span>
                             </div>
                             <ul class="list"> 
                                 <li class="active">Kamal Hossain</li>

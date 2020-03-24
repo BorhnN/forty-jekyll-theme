@@ -434,11 +434,9 @@ https://templatemo.com/tm-535-softy-pinko
 		       <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i> 
                             <ul class="list"> 
 			     <div class="blog-content">
-                            <p><br>
-                                <font color="black">Kamal Hossain</font>
-                            </p>
+                            <p><font color="black">Kamal Hossain</font></p>
 			    </div>
-                                <li class="active"><font color="black">Kamal Hossain</font></li>
+                                <li class="active"><p><font color="black">Kamal Hossain</font></p></li>
                                 <li class="active">Pro Design Panel</li>
                                 <li>15-minute support</li>
                                 <li>Unlimited Emails</li>

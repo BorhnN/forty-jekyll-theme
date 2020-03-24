@@ -1,3 +1,12 @@
+---
+title: What We Are...
+layout: family
+description: 'Learn about us'
+image: assets/images/pic12.jpg
+nav-menu: false
+
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,22 +50,22 @@
 
 			<div class="flex-w flex-c-m cd100 p-b-33">
 				<div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
-					<span class="l2-txt1 p-b-9 days">35</span>
+					<span class="l2-txt1 p-b-9 days">2</span>
 					<span class="s2-txt1">Days</span>
 				</div>
 
 				<div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
-					<span class="l2-txt1 p-b-9 hours">17</span>
+					<span class="l2-txt1 p-b-9 hours">12</span>
 					<span class="s2-txt1">Hours</span>
 				</div>
 
 				<div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
-					<span class="l2-txt1 p-b-9 minutes">50</span>
+					<span class="l2-txt1 p-b-9 minutes">00</span>
 					<span class="s2-txt1">Minutes</span>
 				</div>
 
 				<div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
-					<span class="l2-txt1 p-b-9 seconds">39</span>
+					<span class="l2-txt1 p-b-9 seconds">00</span>
 					<span class="s2-txt1">Seconds</span>
 				</div>
 			</div>
@@ -96,13 +105,13 @@
 		$('.cd100').countdown100({
 			/*Set Endtime here*/
 			/*Endtime must be > current time*/
-			endtimeYear: 0,
-			endtimeMonth: 0,
-			endtimeDate: 35,
-			endtimeHours: 18,
+			endtimeYear: 2020,
+			endtimeMonth: 3,
+			endtimeDate: 27,
+			endtimeHours: 12,
 			endtimeMinutes: 0,
 			endtimeSeconds: 0,
-			timeZone: "" 
+			timeZone: "Asia/Dhaka" 
 			// ex:  timeZone: "America/New_York"
 			//go to " http://momentjs.com/timezone/ " to get timezone
 		});

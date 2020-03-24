@@ -344,7 +344,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Gajjali.jpg" alt=""></i>
-                            <p><b>Alif Ahmed Gazzalee</b><br>Bachelor in Pharmacy<br>Manarat International University.</p>
+                            <h3 class="user-name">Alif Ahmed Gazzalee</h3><br><p>Bachelor in Pharmacy<br>MIU.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>

@@ -433,6 +433,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
+			    <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
                                 <span class="currency">$</span>
                                 <span class="price">21.50</span>
                                 <span class="period">monthly</span>

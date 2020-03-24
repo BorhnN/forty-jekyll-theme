@@ -166,12 +166,12 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="center-heading">
+                    <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                         <h2 class="section-title">Teachers Pannel</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text">
+                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                         <p>Our respected highly skilled teachers:</p>
                     </div>
                 </div>

@@ -1258,14 +1258,13 @@ img.rounded-corners {
 }
 
 .pricing-item .pricing-name {
-  text-align: right;
+  text-align: left;
   display: block;
-  position: relative;
+  position: fixed;
   padding-bottom: 10px;
 }
 
 .pricing-item .pricing-headname .pricing-name {
-  text-align: left;
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 0.25px;

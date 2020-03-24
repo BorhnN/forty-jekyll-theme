@@ -329,7 +329,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Hamidur Rahman MahmuD<br> & #8226 B.Pharm (MIU)<br> & #8226 Technical & IT Manager<br> & #8226 Researcher</p>
+                            <p>Hamidur Rahman MahmuD<br> &#8226; B.Pharm (MIU)<br> &#8226; Technical & IT Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>

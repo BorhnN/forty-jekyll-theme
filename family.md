@@ -434,15 +434,16 @@ https://templatemo.com/tm-535-softy-pinko
 		       <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i> 
 		       <br>
 		       <div class="blog-content">
-                            <h2>
+                            <h2><br>
                                 <font color="black">Kamal Hossain</font>
                             </h2>
 			    </div>
-			    <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Kamal Hossain</a></h3>
-                                <span><a href="">Kamal Hossain</a></span>
-                            </div>
                             <ul class="list"> 
+			     <div class="blog-content">
+                            <h2><br>
+                                <font color="black">Kamal Hossain</font>
+                            </h2>
+			    </div>
                                 <li class="active">Kamal Hossain</li>
                                 <li class="active">Pro Design Panel</li>
                                 <li>15-minute support</li>

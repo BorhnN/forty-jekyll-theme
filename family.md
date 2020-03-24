@@ -391,6 +391,7 @@ https://templatemo.com/tm-535-softy-pinko
                                <a href="First session members.html" class="main-button">First Session Members</a>
                             </div>
                         </div>
+		</div>
                 <!-- ***** Pricing Item End ***** -->
 		<br>
 		<br>
@@ -401,6 +402,7 @@ https://templatemo.com/tm-535-softy-pinko
                                <a href="#" class="main-button">Second Session Members</a>
                             </div>
                         </div>
+		</div>
                 <!-- ***** Pricing Item End ***** -->
     <br>
     <br>

@@ -437,6 +437,10 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Md. Kamal Hossain</a>
                             </h3>
 			    </div>
+			    <div class="team-info">
+                                <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Kamal Hossain</a></h3>
+                                <span><a href="https://www.facebook.com/pugnacious.sak">Facebook</a></span>
+                            </div>
                             <ul class="list"> 
                                 <li class="active">Kamal Hossain</li>
                                 <li class="active">Pro Design Panel</li>

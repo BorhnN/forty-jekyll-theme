@@ -4,7 +4,7 @@ layout: coming
 description: 'Know about us'
 image: assets/images/pic12.jpg
 nav-menu: false
-
+show_tile: false
 ---
 
 <html lang="en">

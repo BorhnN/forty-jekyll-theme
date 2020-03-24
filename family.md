@@ -394,7 +394,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h2 class="pricing-title">Md. Kamal Hossain</h2>
+                            <h2 class="pricing-name">Md. Kamal Hossain</h2>
                         </div>
                         <div class="pricing-body">
 			<div class="price-wrapper">
@@ -402,8 +402,8 @@ https://templatemo.com/tm-535-softy-pinko
 			</div>
                             <br>
 			    <ul class="list">
-                                <li class="active"><h4 class="pricing-title"><font color="#888888">Department Of Pharmacy</font></h4></li>
-                                <li class="active"><h4 class="pricing-title"><font color="#888888">MIU</font></h4></li>
+                                <li class="active"><h5 class="pricing-title"><font color="#888888">Department Of Pharmacy</font></h5></li>
+                                <li class="active"><p class="pricing-title"><font color="#888888">MIU</font></p></li>
                             </ul>
                         </div>
                         <div class="pricing-footer">

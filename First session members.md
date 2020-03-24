@@ -62,8 +62,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-                        <h1>Our First Session Members</h1>
-			<p>  <a href="#" class="main-button">First Session Members</a></p>
+                        <h1>Our First Session<br>Members</h1>
                     </div>
                 </div>
             </div>

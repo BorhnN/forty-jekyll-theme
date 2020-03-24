@@ -430,14 +430,20 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="pricing-item active">
                         <div class="pricing-header">
                         </div>
-                        <div class="pricing-body">
-			<i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
-			<i><h2>Kamal Hossain</h2><i>
-			 </div>
-			<ul class="list">
-                                <li class="active"><b>Kamal Hossain</b></li>
-                                <li class="active">Department Of Pharmacyr</li>
-                                <li class="active">MIU</li>
+                       <div class="pricing-body">
+		       <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
+                            <div class="price-wrapper">
+                                <span class="currency">$</span>
+                                <span class="price">14.50</span>
+                                <span class="period">monthly</span>
+                            </div>
+                            <ul class="list">
+                                <li class="active">60 GB space</li>
+                                <li class="active">600 GB transfer</li>
+                                <li class="active">Pro Design Panel</li>
+                                <li>15-minute support</li>
+                                <li>Unlimited Emails</li>
+                                <li>24/7 Security</li>
                             </ul>
                         </div>
                         <div class="pricing-footer">

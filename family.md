@@ -435,10 +435,10 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="team-content">
                                 <span style="font-weight:bold">Name: Kamal Hossain</span><br>
                                 <span class="price">Dept. of Pharmacy</span><br>
-                                <span class="period">MMIU</span>
+                                <span class="period">MIU</span>
                             </div>
                             <ul class="list">
-                                <li class="active">60 GB space</li>
+                                <li class="active"><b>Kamal Hossain</b></li>
                                 <li class="active">600 GB transfer</li>
                                 <li class="active">Pro Design Panel</li>
                                 <li>15-minute support</li>

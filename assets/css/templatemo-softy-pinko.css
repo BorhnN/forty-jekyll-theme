@@ -1217,6 +1217,10 @@ img.rounded-corners {
   border-radius: 25px;
 }
 
+img.rounded-cornersone {
+  border-radius: 10px;
+}
+
 .pricing-item.active .pricing-body .price-wrapper {
   background-color: #ff589e;
 }

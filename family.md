@@ -414,6 +414,7 @@ https://templatemo.com/tm-535-softy-pinko
     <br>
     <br>
     <br>
+    
   <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">

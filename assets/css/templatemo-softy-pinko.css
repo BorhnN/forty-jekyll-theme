@@ -1213,6 +1213,10 @@ pricing
   color: #1e1e1e;
 }
 
+.pricing-item.active .pricing-header .pricing-name {
+  color: #1e1e1e;
+}
+
 .pricing-item.active .pricing-body .price-wrapper {
   background-color: #ff589e;
 }
@@ -1250,7 +1254,7 @@ pricing
 }
 
 .pricing-item .pricing-header .pricing-name {
-  font-weight: 800;
+  font-weight: 500;
   font-size: 20px;
   letter-spacing: 0.25px;
   color: #1e1e1e;

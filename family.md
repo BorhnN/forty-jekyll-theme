@@ -373,7 +373,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Donec vulputate urna sed rutrum venenatis. Cras consequat magna quis arcu elementum, quis congue risus volutpat.</p>
+                        <p>Members are the heart of Researchsio</p>
                     </div>
                 </div>
             </div>
@@ -394,21 +394,14 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Starter</h3>
+                            <h3 class="pricing-title">Md. Kamal Hossain</h3>
                         </div>
                         <div class="pricing-body">
-                            <div class="price-wrapper">
-                                <span class="currency">$</span>
-                                <span class="price">14.50</span>
-                                <span class="period">monthly</span>
-                            </div>
-                            <ul class="list">
-                                <li class="active">60 GB space</li>
-                                <li class="active">600 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li>15-minute support</li>
-                                <li>Unlimited Emails</li>
-                                <li>24/7 Security</li>
+			<i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
+                            <br>
+			    <ul class="list">
+                                <li class="active"><h4 class="pricing-title"><font color="#888888">Department Of Pharmacy</font></h4></li>
+                                <li class="active"><h4 class="pricing-title"><font color="#888888">MIU</font></h4></li>
                             </ul>
                         </div>
                         <div class="pricing-footer">

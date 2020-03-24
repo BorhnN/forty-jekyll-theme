@@ -195,7 +195,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
                             <img src="assets/images/blog-item-02.png" alt="">
@@ -210,23 +210,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <a href="#" class="main-button">Read More</a>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="blog-post-thumb">
-                        <div class="img">
-                            <img src="assets/images/blog-item-03.png" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="#">Dr. Mojammel Haque</a>
-                            </h3>
-                            <div class="text">
-                                Professor at Jahangirnagar University.
-                            </div>
-                            <a href="#" class="main-button">Read More</a>
-                        </div>
-                    </div>
-                </div>
+                </div> 
             </div>
         </div>
     </section>

@@ -1217,6 +1217,10 @@ pricing
   color: #1e1e1e;
 }
 
+img.rounded-corners {
+  border-radius: 30px;
+}
+
 .pricing-item.active .pricing-body .price-wrapper {
   background-color: #ff589e;
 }
@@ -1261,6 +1265,7 @@ pricing
 }
 
 .pricing-item .pricing-headname .pricing-name {
+  text-align: left;
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 0.25px;

@@ -140,12 +140,12 @@ https://templatemo.com/tm-535-softy-pinko
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/Founders/Salman Foysal.JPG" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="assets/images/Founders/Salman Foysal.JPG" class="rounded img-fluid d-block mx-auto" alt="Salman Faisal">
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">MD. Salman Faisal<br>CEO, Researchsio</h2>
+                        <h2 class="section-title">MD. Salman Faisal<br>Founder & CEO, Researchsio</h2>
                     </div>
                     <div class="left-text">
                         <p>Educational background: B.Pharm from Manarat International University.</p>
@@ -252,12 +252,67 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title End ***** -->
 
             <div class="row">
+	    <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Gajjali.jpg" alt=""></i>
+                            <p>Alif Ahmed Gazzalee<br>B.Pharm (MIU)<br>Advisor</p>
+                            <div class="user-image">
+                                <img src="img/fb1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                 <h3 class="user-name"><a href="https://www.facebook.com/alifahmed.gazzalee">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/alifahmed.gazzalee">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+		<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Zilan.jpg" alt=""></i>
+                            <p>Nishan Chakrabarty<br>B.Pharm (IIUC), M.Pharm(JNU)<br>Research Advisor</p>
+                            <div class="user-image">
+                                <img src="img/fb1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name"><a href="https://www.facebook.com/NR3RAJU">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/NR3RAJU">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+		 <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Zilan.jpg" alt=""></i>
+                            <p>Mahfuzur Rahman Zilan<br>B.Pharm (MIU)<br>Documentation Supervisor<br>Researcher</p>
+                            <div class="user-image">
+                                <img src="img/fb1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name"><a href="https://www.facebook.com/profile.php?id=100011295008789">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/profile.php?id=100011295008789">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+		
                 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Sakib.jpg" alt=""></i>
-                            <p>Motasim Billah Sakib<br>Bachelor in Pharmacy<br>Manarat International University.</p>
+                            <p>Motasim Billah Sakib<br>B.Pharm (MIU)<br>Creative Manager<br>Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -270,29 +325,12 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 		
-                <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/Founders/Tohfa.jpg" alt=""></i>
-                            <p>Nusaibatoon Morsheda Tohfa<br>Bachelor in Pharmacy<br>Manarat International University.</p>
-                            <div class="user-image">
-                                <img src="img/fb1.png" alt="">
-                            </div>
-                            <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-                <!-- ***** Testimonials Item Start ***** -->
+		  <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt=""></i>
-                            <p>Hamidur Rahman MahmuD<br>Bachelor in Pharmacy(Running, Final Year)<br>Manarat International University.</p>
+                            <p>Hamidur Rahman MahmuD<br>B.Pharm (MIU)<br>Technical & IT Manager<br>Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -304,53 +342,19 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
-                
+		
                 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Zilan.jpg" alt=""></i>
-                            <p>Mahfuzur Rahman Zilan<br>Bachelor in Pharmacy<br>Manarat International University.</p>
+                            <i><img src="assets/images/Founders/Tohfa.jpg" alt=""></i>
+                            <p>Nusaibatoon Morsheda Tohfa<br>B.Pharm (MIU)<br>Communication Supervisor<br>Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.facebook.com/profile.php?id=100011295008789">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/profile.php?id=100011295008789">Facebook</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/Founders/Gajjali.jpg" alt=""></i>
-                            <p>Alif Ahmed Gazzalee<br>Bachelor in Pharmacy<br>MIU.</p>
-                            <div class="user-image">
-                                <img src="img/fb1.png" alt="">
-                            </div>
-                            <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/alifahmed.gazzalee">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/alifahmed.gazzalee">Facebook</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
-                            <p><b>Kamal Hossain</b><br>Bachelor in Pharmacy(Running, Third Year)<br>Manarat International University.</p>
-                            <div class="user-image">
-                                <img src="img/fb1.png" alt="">
-                            </div>
-                            <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/kamalhasan.s.3">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/kamalhasan.s.3">Facebook</a></span>
+                                 <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
                             </div>
                         </div>
                     </div>

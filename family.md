@@ -437,9 +437,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <span class="price">Dept. of Pharmacy</span><br>
                                 <span class="period">MIU</span>
                             </div>
-                            <ul class="list">
-                                <span style="font-weight:bold">Kamal Hossain</span>
-                                <li class="active">600 GB transfer</li>
+                            <ul class="list" style="font-weight: bold;"> 
+                                <li class="active">Kamal Hossain</li>
                                 <li class="active">Pro Design Panel</li>
                                 <li>15-minute support</li>
                                 <li>Unlimited Emails</li>

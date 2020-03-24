@@ -389,7 +389,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                         <div class="pricing-body">
                             <div class="price-wrapper">
-                               <a href="#" class="main-button">First Session Members</a>
+                               <a href="First session members.html" class="main-button">First Session Members</a>
                             </div>
                         </div>
                     </div>

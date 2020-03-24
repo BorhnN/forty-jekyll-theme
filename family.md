@@ -450,7 +450,7 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
 		    <div class="blog-content">
                             <h3>
-                                <a href="#">Dr. Mojammel Haque</a>
+                                <font color="black">Dr. Mojammel Haque</font>
                             </h3>
 			    </div>
                 </div>

@@ -416,10 +416,10 @@ https://templatemo.com/tm-535-softy-pinko
                        <div class="pricing-body">
 		       <i><img src="assets/images/Founders/Kamal.jpg" alt=""></i>
 		       <br>
-                            <ul class="list">
-                                <li class="active"><h3 class="pricing-title"><font color="#9F9F9F">Kamal Hossain</font></h3></li>
+                            <ul class="list"><br>
+                                <li class="active"><h4 class="pricing-title"><font color="#9F9F9F">Kamal Hossain</font></h4></li>
                                 <li class="active"><h5 class="pricing-title"><font color="black">Department of Pharmacy</font></h5></li>
-                                <li class="active"><h3 class="pricing-title"><font color="black">MIU</font></h3></li>
+                                <li class="active"><h5 class="pricing-title"><font color="black">MIU</font></h5></li>
                             </ul>
                         </div>
                         <div class="pricing-footer">

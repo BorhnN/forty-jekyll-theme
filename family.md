@@ -344,7 +344,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Gajjali.jpg" alt=""></i>
-                            <h3 class="user-name">Alif Ahmed Gazzalee</h3><br><p>Bachelor in Pharmacy<br>MIU.</p>
+                            <p>Alif Ahmed Gazzalee<br>Bachelor in Pharmacy<br>MIU.</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -438,7 +438,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <span class="period">MIU</span>
                             </div>
                             <ul class="list">
-                                <li class="active"><b>Kamal Hossain</b></li>
+                                <span style="font-weight:bold">Kamal Hossain</span>
                                 <li class="active">600 GB transfer</li>
                                 <li class="active">Pro Design Panel</li>
                                 <li>15-minute support</li>

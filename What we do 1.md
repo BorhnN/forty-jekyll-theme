@@ -200,42 +200,42 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>--!--</strong>
+                            <strong>Launching Soon!</strong>
                             <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>--!--</strong>
+                            <strong>Launching Soon!</strong>
                             <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>--!--</strong>
+                            <strong>Launching Soon!</strong>
                             <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>--!--</strong>
+                            <strong>Launching Soon!</strong>
                             <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>--!--</strong>
+                            <strong>Launching Soon!</strong>
                             <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>--!--</strong>
+                            <strong>Launching Soon!</strong>
                             <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
@@ -275,9 +275,9 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">SPSS(Data Entry and Fields for Research)</a>
                             </h3>
                             <div class="text">
-                               I need details info Cras aliquet ligula dui, vitae fermentum velit tincidunt id. Praesent eu finibus nunc. Nulla in sagittis eros. Aliquam egestas augue.
+                               SPSS (Statistical package for the social sciences) is the set of software programs that are combined together in a single package. The basic application of this program is to analyze scientific data related with the social science. This data can be used for market research, surveys, data mining, etc.
                             </div>
-                            <a href="#" class="main-button">Read More</a>
+                            <a href="https://medium.com/@johnnoels/what-is-spss-and-its-importance-in-research-data-analysis-5f109ab90da1" class="main-button">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -291,9 +291,9 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Rosalind and Use of Python</a>
                             </h3>
                             <div class="text">
-                                Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
+                                Rosalind is a platform for learning bioinformatics and programming through problem solving. Take a tour to get the hang of how Rosalind works by clicking on "Read More" below.
                             </div>
-                            <a href="#" class="main-button">Read More</a>
+                            <a href="http://rosalind.info/problems/locations/" class="main-button">Read More</a>
                         </div>
                     </div>
                 </div>

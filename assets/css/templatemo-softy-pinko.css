@@ -1594,3 +1594,12 @@ preloader
     opacity: 0;
   }
 }
+
+
+/* Menu */
+
+	#menu {
+		.inner {
+			margin: 0 auto;
+		}
+	}

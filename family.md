@@ -78,7 +78,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-                        <h1>We have a good number of  <strong>potential members</strong><br>and highly skilled <strong>Teacher Pannel</strong></h1>
+                        <h1>We have a good number of  <strong>potential members</strong><br>and highly skilled <strong>Review Pannel</strong></h1>
                     </div>
                 </div>
             </div>

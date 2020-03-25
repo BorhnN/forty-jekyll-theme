@@ -200,43 +200,43 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Coming Soon</strong>
+                            <strong>--!--</strong>
                             <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>জীবনটা বেদনার</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <strong>--!--</strong>
+                            <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Discuss</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <strong>--!--</strong>
+                            <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Revise</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <strong>--!--</strong>
+                            <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Approve</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <strong>--!--</strong>
+                            <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Launch</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <strong>--!--</strong>
+                            <span><img src="assets/icons/coming soon.png" alt=""></span>
                         </a>
                     </div>
                 </div>
@@ -626,7 +626,7 @@ https://templatemo.com/tm-535-softy-pinko
 			<ul class="copyright">
 				<li><font color="black">&copy; {{ site.title }} {{ site.subtitle }} 2020</font></li>
 			
-				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank">Hamidur Rahman MahmuD</a></li>
+				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank"> <font color="white">Hamidur Rahman MahmuD</font></a></li>
 				<li><font color="black">Website is Under-development.</font></li>
 
 			</ul>

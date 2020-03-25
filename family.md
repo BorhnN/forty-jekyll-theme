@@ -55,7 +55,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <ul class="nav">
                            
                             <li><a href="#features">CEO</a></li>
-                            <li><a href="#blog">Teacher Pannel</a></li>
+                            <li><a href="#blog">Review Pannel</a></li>
                             <li><a href="#testimonials"> Founding Members</a></li>
                             <li><a href="#pricing-plans">Members</a></li>  
                         </ul>
@@ -111,8 +111,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Teachers Pannel</h5>
-                                <p>Teachers pannel consisted of highly skilled teachers who will review your work</p>
+                                <h5 class="features-title">Review Pannel</h5>
+                                <p>Review pannel consisted of highly skilled teachers who will review your work</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -167,7 +167,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <h2 class="section-title">Teachers Pannel</h2>
+                        <h2 class="section-title">Review Pannel</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">

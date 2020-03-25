@@ -1594,19 +1594,3 @@ preloader
     opacity: 0;
   }
 }
-
-
-/* Menu */
-
-	#menu {
-		.inner {
-			margin: 0 auto;
-		}
-	}
-@import 'layout/menu'
-
-/* Menu */
-
-	#menu {
-		background: _palette(bg);
-	}

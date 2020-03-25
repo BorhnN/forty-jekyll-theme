@@ -413,8 +413,6 @@ https://templatemo.com/tm-535-softy-pinko
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
-				{% if site.twitter_url %}
-				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
 				{% if site.googleplus_url %}
 				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>

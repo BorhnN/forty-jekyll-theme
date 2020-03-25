@@ -253,7 +253,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">Trainig We Arrange For You</h2>
+                        <h2 class="section-title">Trainig & Workshop We Offer For You</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
@@ -377,6 +377,22 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div>
+		<div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-02.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Plagiarism Checking by PlagScan & Grammarly</a>
+                            </h3>
+                            <div class="text">
+                                Preparing your paper is a big deal. Using the help of some software will make you more organized and efficient. Also your paper will be in a better form for publication.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -387,7 +403,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Drawing Grapgh by GrapghPad, Prism and Graphical Abstracts</a>
                             </h3>
                             <div class="text">
-                                Maecenas eu erat vitae dui convallis consequat vel gravida nulla. Vestibulum finibus euismod odio, ut tempus enim varius eu.
+                                  The preferred analysis and graphing solution purpose-built for scientific research. Join the world's leading scientists and discover how you can use Prism to save time, make more appropriate analysis choices, and elegantly graph and present your scientific research.
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>

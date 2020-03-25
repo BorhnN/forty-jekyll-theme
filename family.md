@@ -389,12 +389,11 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                <a href="First session members.html" class="main-button">First Session Members</a>
+			      <br><br> <a href="#" class="main-button">Second Session Members</a>
                             </div>
                         </div>
 		</div>
                 <!-- ***** Pricing Item End ***** -->
-		<br>
-		<br>
 		 <!-- ***** Pricing Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
 		<br>
@@ -458,7 +457,7 @@ https://templatemo.com/tm-535-softy-pinko
 			<ul class="copyright">
 				<li><font color="black">&copy; {{ site.title }} {{ site.subtitle }} 2020</font></li>
 			
-				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank">Hamidur Rahman MahmuD</a></li>
+				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank"><font color="white"> Hamidur Rahman MahmuD</font></a></li>
 				<li><font color="black">Website is Under-development.</font></li>
 
 			</ul>

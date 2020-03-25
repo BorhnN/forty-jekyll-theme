@@ -145,7 +145,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">Participate in our Workshop, Seminar and Training exclusively for you!</h2>
                     </div>
                     <div class="left-text">
-                        <p>We arrange training, seminars, workshop on various important research and profession related topics which will increase your skill.<br>Specially training on some rare topics like molecular docking, drug designing and computational chemistry are also organized by us.In this world of enormous competitors, increase your skills with us to compete. Keep your eyes on our upcoming skill-developing program. Don't miss it!<br><br><a href="#testimonials" class="main-button">Our Up-Coming Workshop</a><br><a href="#blog" class="main-button">Trainig for you</a></p>
+                        <p>We arrange training, seminars, workshop on various important research and profession related topics which will increase your skill.<br>Specially training on some rare topics like molecular docking, drug designing and computational chemistry are also organized by us.In this world of enormous competitors, increase your skills with us to compete. Keep your eyes on our upcoming skill-developing program. Don't miss it!<br><br><a href="#testimonials" class="main-button">Our Up-Coming Workshop</a><br><br><a href="#blog" class="main-button">Trainig for you</a></p>
                     </div>
                 </div>
                 <div class="col-lg-1"></div>
@@ -169,7 +169,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">We Provide Appliance Services</h2>
                     </div>
                     <div class="left-text">
-                        <p>Research instruments delivery: Research work is a lengthy process. We support those people who put their most of the time and concentration to build a better career and contribute to the research community. For which we provide home delivery of their required equipment, reagents, beakers, solvent, test tube, etc just to make the journey of young and pro scientists smoother.<br> Educative package selling: Modern era is building up based on the technology. Now we can carry thousands of books in our pocket. To help one to make him more knowledgeable and worthy. We provide a large number of books on pdf format and some special software(with operation manual) at affordable cost.<br>We always there to help you on completing your projects.So, why you are wasting your precious time and energy on searching for them? Knock us and have a smile.<br><br><a href="#pricing-plans" class="main-button">Go for Research Software & Pdf Book Store</a></p>
+                        <p>Research instruments delivery: Research work is a lengthy process. We support those people who put their most of the time and concentration to build a better career and contribute to the research community. For which we provide home delivery of their required equipment, reagents, beakers, solvent, test tube, etc just to make the journey of young and pro scientists smoother.<br> Educative package selling: Modern era is building up based on the technology. Now we can carry thousands of books in our pocket. To help one to make him more knowledgeable and worthy. We provide a large number of books on pdf format and some special software(with operation manual) at affordable cost.<br>We always there to help you on completing your projects.So, why you are wasting your precious time and energy on searching for them? Knock us and have a smile.<br><br><a href="#pricing-plans" class="main-button">Research Software & Pdf Book Store</a></p>
                     </div>
                 </div>
             </div>
@@ -275,7 +275,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">SPSS(Data Entry and Fields for Research)</a>
                             </h3>
                             <div class="text">
-                               SPSS (Statistical package for the social sciences) is the set of software programs that are combined together in a single package. The basic application of this program is to analyze scientific data related with the social science. This data can be used for market research, surveys, data mining, etc.
+                               SPSS (Statistical package for the social sciences) is the set of <a href="#pricing-plans">software programs</a> that are combined together in a single package. The basic application of this program is to analyze scientific data related with the social science. This data can be used for market research, surveys, data mining, etc.
                             </div>
                             <a href="https://medium.com/@johnnoels/what-is-spss-and-its-importance-in-research-data-analysis-5f109ab90da1" class="main-button">Read More</a>
                         </div>

@@ -323,9 +323,9 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Referencing by Mendeley</a>
                             </h3>
                             <div class="text">
-                                Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
+                               Mendeley is a free reference manager and academic social network that can help you organize your research, collaborate with others online, and discover the latest research: <br> &#8226; Automatically generate bibliographies.<br> &#8226; Collaborate easily with other researchers online.<br> &#8226; Easily import papers from other research software.<br> &#8226; Find relevant papers based on what you're reading<br> &#8226; Access your papers from anywhere online
                             </div>
-                            <a href="#" class="main-button">Read More</a>
+                            <a href="https://www.elsevier.com/solutions/mendeley" class="main-button">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -339,10 +339,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">General Calculations & Presentation for Research with Excel and PowerPoint/Prezi</a>
                             </h3>
                             <div class="text">
-                                Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
-                            </div>
-                            <a href="#" class="main-button">Read More</a>
-                        </div>
+                                For Research releted work, knowing about >General Calculations & Presentation for Research with Excel and PowerPoint/Prezi is a must. We are here to train you with this. 
                     </div>
                 </div>
 		<div class="col-lg-4 col-md-6 col-sm-12">

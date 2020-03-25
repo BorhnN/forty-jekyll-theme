@@ -332,7 +332,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Nusaibatoon Morsheda Tohfa<br>B.Pharm (MIU)<br>Communication Supervisor<br>Researcher</p>
+                            <p>Nusaibatoon Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Supervisor<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="img/fb1.png" alt="">
                             </div>
@@ -390,16 +390,6 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="price-wrapper">
                                <a href="First session members.html" class="main-button">First Session Members</a>
 			      <br><br> <a href="#" class="main-button">Second Session Members</a>
-                            </div>
-                        </div>
-		</div>
-                <!-- ***** Pricing Item End ***** -->
-		 <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-		<br>
-                        <div class="pricing-body">
-                            <div class="price-wrapper">
-                               <a href="#" class="main-button">Second Session Members</a>
                             </div>
                         </div>
 		</div>

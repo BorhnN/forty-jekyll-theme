@@ -275,7 +275,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">SPSS(Data Entry and Fields for Research)</a>
                             </h3>
                             <div class="text">
-                               SPSS (Statistical package for the social sciences) is the set of <a href="#pricing-plans">software programs</a> that are combined together in a single package. The basic application of this program is to analyze scientific data related with the social science. This data can be used for market research, surveys, data mining, etc.
+                               SPSS (Statistical package for the social sciences) is the set of <a href="#pricing-plans">software programs</a> that are combined together in a single package. The basic application of this program is to analyze scientific data related with the social science.
                             </div>
                             <a href="https://medium.com/@johnnoels/what-is-spss-and-its-importance-in-research-data-analysis-5f109ab90da1" class="main-button">Read More</a>
                         </div>
@@ -307,7 +307,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Bioinformatics in Bangladesh</a>
                             </h3>
                             <div class="text">
-                                Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
+                               Bioinformatics has a limited opportunities in Bangladesh. But we provide the Boost you need to reach your goal by using Rosalind and Basic knowledge of <a href="#pricing-plans">python.</a>
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>
@@ -339,9 +339,11 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">General Calculations & Presentation for Research with Excel and PowerPoint/Prezi</a>
                             </h3>
                             <div class="text">
-                                For Research releted work, knowing about >General Calculations & Presentation for Research with Excel and PowerPoint/Prezi is a must. We are here to train you with this. 
+                                In research field your idea can make a big change. To present your ideas to the community and have the basic knowledge of calculation using software will help to build confidence as a researcher. Even drawing chemical figure, Drawing Graph, Graphical Abstractusing <a href="#pricing-plans">software</a> will help you in the process. 
                     </div>
                 </div>
+	     </div>
+	  </div>
 		<div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -353,6 +355,23 @@ https://templatemo.com/tm-535-softy-pinko
                             </h3>
                             <div class="text">
                                 Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+		
+		<div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-02.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">IELTS (Basic Guideline)</a>
+                            </h3>
+                            <div class="text">
+                                Taking preparation for IELTS is sometime confusing. We provide the basic guideline including softcopy of <a href="#pricing-plans">books</a> and preparation method for free in the workshop. 
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>

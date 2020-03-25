@@ -1603,3 +1603,10 @@ preloader
 			margin: 0 auto;
 		}
 	}
+@import 'layout/menu'
+
+/* Menu */
+
+	#menu {
+		background: _palette(bg);
+	}

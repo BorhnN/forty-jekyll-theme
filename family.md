@@ -147,7 +147,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">MD. Salman Faisal<br>Founder & CEO, Researchsio</h2>
                     </div>
                     <div class="left-text">
-                        <p>Educational background: B.Pharm from Manarat International University.</p>
+                        <p>Educational background: B.Pharm (MIU).</p>
                     </div>
                 </div>
             </div>

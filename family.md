@@ -54,7 +54,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                            
-                            <li><a href="#features"> Founder</a></li>
+                            <li><a href="#features">Founder</a></li>
                             <li><a href="#blog">Review Pannel</a></li>
                             <li><a href="#testimonials"> Founding Members</a></li>
                             <li><a href="#pricing-plans">Members</a></li>  

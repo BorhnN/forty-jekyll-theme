@@ -19,6 +19,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url: https://facebook.com/researchsio
+github_url: <false> 
 googleplus_url: 
 instagram_url: https://instagram.com/researchsio
 linkedin_url: https://www.linkedin.com/in/researchsio-6059601a4/

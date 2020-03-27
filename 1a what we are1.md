@@ -49,17 +49,17 @@ show_tile: true
 
 			<div class="flex-w flex-c-m cd100 p-b-33">
 				<div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
-					<span class="l2-txt1 p-b-9 days">2</span>
+					<span class="l2-txt1 p-b-9 days">9</span>
 					<span class="s2-txt1">Days</span>
 				</div>
 
 				<div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
-					<span class="l2-txt1 p-b-9 hours">12</span>
+					<span class="l2-txt1 p-b-9 hours">13</span>
 					<span class="s2-txt1">Hours</span>
 				</div>
 
 				<div class="flex-col-c-m size2 bor1 m-l-15 m-r-15 m-b-20">
-					<span class="l2-txt1 p-b-9 minutes">00</span>
+					<span class="l2-txt1 p-b-9 minutes">20</span>
 					<span class="s2-txt1">Minutes</span>
 				</div>
 

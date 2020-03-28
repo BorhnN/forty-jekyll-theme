@@ -284,7 +284,7 @@ https://templatemo.com/tm-535-softy-pinko
 		<div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">
-                            <img src="assets/images/blog-item-02.png" alt="">
+                            <img src="assets/images/Training/python.jpg" alt="Python">
                         </div>
                         <div class="blog-content">
                             <h3>

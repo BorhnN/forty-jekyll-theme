@@ -360,7 +360,6 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div>
-		
 		<div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -377,7 +376,6 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div>
-		
 		<div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -474,7 +472,6 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div>
-		
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">

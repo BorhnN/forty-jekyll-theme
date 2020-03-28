@@ -1,6 +1,6 @@
 ---
 layout: What we do 1
-title: What We Do
+title: What We Do...
 description: 'Learn about our work field'
 image: assets/images/pic13.jpg
 nav-menu: true
@@ -377,6 +377,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div>
+		
 		<div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -384,15 +385,96 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Plagiarism Checking by PlagScan & Grammarly</a>
+                                <a href="#">Plagiarism Checking by PlagScan and Grammarly</a>
                             </h3>
                             <div class="text">
-                                Preparing your paper is a big deal. Using the help of some software will make you more organized and efficient. Also your paper will be in a better form for publication.
+                                Plagiarism checker is a checking process of duplicate content within a work or documents. It is an assessment tool to check the similarities your content with others. Preparing your paper is a big deal. Using the help of some software will make you more organized and efficient. Also your paper will be in a better form for publication. Check Your Paper for Grammar and Unintentional Plagiarism. Welcome to your go-to review service for writing and citing with confidence!
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>
                     </div>
                 </div>
+		<div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-02.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Different Kinds of Research Paper and Manuscript Preparation</a>
+                            </h3>
+                            <div class="text">
+                               Knowing the range of possibilities will help you create a change. There are a wide range of research paper that you can prepare to reach your goal.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+		<div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-02.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Journal Selection and Paper Submission</a>
+                            </h3>
+                            <div class="text">
+                              Choosing the Journal is important since its relevancy will define your aspect. We are here to help you with topics relevant to that and also with Indexing, H-indexing, and Impact Factor.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+		<div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-02.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Insilico Molecular Docking</a>
+                            </h3>
+                            <div class="text">
+                              Moleculaer docking using Schrödinger software package is a simulator that provide information about receptor ligand relationship and their binding information. You can either join our workshop  or order the <a href="#pricing-plans">software</a> with free tech support. 
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+		<div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-02.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Implication and Benefits of Research Gate and ORCID</a>
+                            </h3>
+                            <div class="text">
+                             Establishing yourself as a researcher is now a few step ahead. We will help you in the process from Building Your Academic CV, research publication to opening ID in Research Gate and ORCID.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+		<div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-02.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Pass Prediction</a>
+                            </h3>
+                            <div class="text">
+                            predicting a molecule’s activity is possible by comparing the structure of that molecule with the structure of well-known biological active substrate existing in the database. We will provide the initial guidance for the participants.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+		
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">

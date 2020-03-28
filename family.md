@@ -53,7 +53,6 @@ https://templatemo.com/tm-535-softy-pinko
                        
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                           
                             <li><a href="#features">Founder</a></li>
                             <li><a href="#blog">Review Pannel</a></li>
                             <li><a href="#testimonials"> Founding Members</a></li>
@@ -147,7 +146,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">MD. Salman Faisal <br> &#8226; Founder & CEO, <br> &#8226; Researchsio</h2>
                     </div>
                     <div class="left-text">
-                        <p>&#8226;B.Pharm (MIU).</p>
+                        <p>&#8226; B.Pharm (MIU).</p>
                     </div>
                 </div>
             </div>

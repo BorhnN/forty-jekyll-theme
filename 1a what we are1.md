@@ -106,7 +106,7 @@ show_tile: true
 			/*Endtime must be > current time*/
 			endtimeYear: 2020,
 			endtimeMonth: 4,
-			endtimeDate: 5,
+			endtimeDate: 15,
 			endtimeHours: 12,
 			endtimeMinutes: 0,
 			endtimeSeconds: 0,

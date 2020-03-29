@@ -143,7 +143,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">MD. Salman Faisal <br> Founder & CEO, <br> Researchsio</h2>
+                        <h2 class="section-title">MD. Salman Faisal <br> Founder & CEO, Researchsio</h2>
                     </div>
                     <div class="left-text">
                         <p>&#8226; B.Pharm (MIU).</p>

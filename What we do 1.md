@@ -532,13 +532,13 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
-                            <p>Our first Workshop, we dont have any workshop .</p>
+                            <p>Coming Soon!.</p>
                             <div class="user-image">
-                                <img src="http://placehold.it/60x60" alt="">
+                                <img src="assets/icons/event.jpg" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">Catherine Soft</h3>
-                                <span>Managing Director</span>
+                                <h2 class="user-name">More Details on</h2>
+                                <span>Facebook Event </span>
                             </div>
                         </div>
                     </div>
@@ -552,11 +552,11 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
                             <p>Our second Workshop, we dont have any workshop </p>
                             <div class="user-image">
-                                <img src="http://placehold.it/60x60" alt="">
+                                <img src="assets/icons/event.jpg" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">Kelvin Wood</h3>
-                                <span>Digital Marketer</span>
+                                <h2 class="user-name">More Details on</h2>
+                                <span>Facebook Event </span>
                             </div>
                         </div>
                     </div>

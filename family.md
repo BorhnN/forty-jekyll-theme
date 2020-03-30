@@ -188,9 +188,9 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Mst. Rikta Banu</a>
                             </h3>
                             <div class="text">
-                              <p align="right">&#8226; Reviewe on-<br>&#8226; Biopharmaceutics<br>&#8226;Pharmaceutical technology.</p><br>Lecturer at Manarat International University. Department of Pharmacy. 
+                              <p align="left">Reviewe on-<br>&#8226; Biopharmaceutics<br>&#8226;Pharmaceutical technology.</p><br>Lecturer at Manarat International University. Department of Pharmacy. 
                             </div>
-                            <a href="#" class="main-button">Read More</a>
+                            
                         </div>
                     </div>
                 </div>

@@ -568,13 +568,13 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
-                            <p>Our third Workshop, we dont have any workshop </p>
+                            <p>Coming Soon!</p>
                             <div class="user-image">
-                                <img src="http://placehold.it/60x60" alt="">
+                                <img src="assets/icons/event.jpg" alt="event">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">David Martin</h3>
-                                <span>Website Manager</span>
+                                <h3 class="user-name">For More vist Our</h3>
+                                <span>Event Details</span>
                             </div>
                         </div>
                     </div>

@@ -272,10 +272,26 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
+                                <a href="#">Research opportunities and Research Methodology</a>
+                            </h3>
+                            <div class="text">
+                              From the perspective of a third world country and utilizing the resources available in Bangladesh any one can make his way to become a researcher.Join our Workshop to reach your dream.  
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+	       <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-01.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
                                 <a href="#">SPSS(Data Entry and Fields for Research)</a>
                             </h3>
                             <div class="text">
-                               SPSS (Statistical package for the social sciences) is the set of <a href="#pricing-plans">software programs</a> that are combined together in a single package. The basic application of this program is to analyze scientific data related with the social science.
+                              The <a href="#pricing-plans">software programs</a> name originally stood for Statistical Package for the Social Sciences (SPSS) reflecting the original market, then later changed to Statistical Product and Service Solutions. A crucial software for data analysis. Survey based study can be more impactful for the use of SPSS.   
                             </div>
                             <a href="https://medium.com/@johnnoels/what-is-spss-and-its-importance-in-research-data-analysis-5f109ab90da1" class="main-button">Read More</a>
                         </div>
@@ -383,10 +399,10 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Plagiarism Checking by PlagScan and Grammarly</a>
+                                <a href="#">Plagiarism Checking andReferencing with Software</a>
                             </h3>
                             <div class="text">
-                                Plagiarism checker is a checking process of duplicate content within a work or documents. It is an assessment tool to check the similarities your content with others. Preparing your paper is a big deal. Using the help of some software will make you more organized and efficient. Also your paper will be in a better form for publication. Check Your Paper for Grammar and Unintentional Plagiarism. Welcome to your go-to review service for writing and citing with confidence!
+                                Plagiarism checker is a checking process of duplicate content within a work or documents. It is an assessment tool to check the similarities your content with others. Preparing your paper is a big deal. Using the help of some software will make you more organized and efficient. Also your paper will be in a better form for publication. Welcome to your go-to review service for writing and citing with confidence!
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>

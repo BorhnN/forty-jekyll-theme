@@ -181,14 +181,14 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
-                            <img src="assets/images/blog-item-01.png" alt="">
+                            <img src="assets/images/teachers/Rikta-Banu.jpg" alt="Rikta Banu">
                         </div>
                         <div class="blog-content">
                             <h3>
                                 <a href="#">Mst. Rikta Banu</a>
                             </h3>
                             <div class="text">
-                              Lecturer at Manarat International University. Department of Pharmacy. 
+                              <p align="right">&#8226; Reviewe on-<br>&#8226; Biopharmaceutics<br>&#8226;Pharmaceutical technology.</p><br>Lecturer at Manarat International University. Department of Pharmacy. 
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>

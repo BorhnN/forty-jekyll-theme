@@ -245,7 +245,7 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Home Parallax End ***** -->
-<br><div> <p> Current Status of <a href="researchsio.yolasite.com" class="main-button">Ongoing Projects</a></p><br>
+<br><div> <p> Current Status of <a href="https://researchsio.yolasite.com/" class="main-button">Ongoing Projects</a></p><br>
     <!-- ***** Blog Start ***** -->
     <section class="section" id="blog">
         <div class="container">

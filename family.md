@@ -339,8 +339,8 @@ https://templatemo.com/tm-535-softy-pinko
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
                                 <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
                             </div>
-			    <br><div class="user-image">
-                                <img src="assets/icons/in.png" alt="">
+			    <div class="user-image">
+                               <br><img src="assets/icons/in.png" alt="">
                             </div>
                             <div class="team-info">
 			    <h3 class="user-name"><a href="#">Follow on</a></h3>

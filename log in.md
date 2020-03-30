@@ -3,6 +3,7 @@ layout: family
 title: Log In
 description: 
 nav-menu: true
+show_tile: false
 ---
 <html lang="en">
 

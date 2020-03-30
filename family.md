@@ -143,10 +143,10 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">MD. Salman Faisal <br> Founder & CEO, Researchsio</h2>
+                        <h2 class="section-title">MD. Salman Faisal</h2>
                     </div>
                     <div class="left-text">
-                        <p>&#8226; B.Pharm (MIU).</p>
+                        <p> &#8226; B.Pharm  (MIU) <br>&#8226;Founder & CEO,<br>&#8226;Researchsio .</p>
                     </div>
                 </div>
             </div>
@@ -314,7 +314,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Hamidur Rahman MahmuD<br> &#8226; B.Pharm (MIU)<br> &#8226; Technical & IT Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
-                                <img src="img/fb1.png" alt="">
+                                <img src="assets/icons/fb 1.jpg" alt="">
                             </div>
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/mahmud128">Follow on</a></h3>

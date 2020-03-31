@@ -148,6 +148,13 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="left-text">
                         <p> &#8226; B.Pharm  (MIU) <br>&#8226;Founder & CEO,<br>&#8226;Researchsio .</p>
                     </div>
+			<div class="user-image">
+                                <img src="assets/icons/fb 1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                 <h3 class="user-name"><a href="https://www.facebook.com/alifahmed.gazzalee">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/profile.php?id=100010718580269">Facebook</a></span>
+                            </div>
                 </div>
             </div>
             <div class="row">

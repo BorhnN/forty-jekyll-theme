@@ -68,14 +68,11 @@ show_tile: false
 			</div>
 
 			<form class="w-full flex-w flex-c-m validate-form">
-				<div class="wrap-input100 validate-input where1" data-validate = "Valid email is required: ex@abc.xyz">
-					<input class="input100 placeholder0 s2-txt2" type="text" name="email" placeholder="Enter Email Address">
-					<span class="focus-input100"></span>
-				</div>
+				
 				
 				
 				<button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">
-					Subscribe
+					Apply For Membership
 				</button>
 			</form>
 			<button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">

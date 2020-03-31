@@ -79,7 +79,7 @@ show_tile: false
 				</button>
 			</form>
 			<button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">
-					<a href="https://researchsio.com//">Go Back to Researchsio</a>
+					<a href="https://researchsio.com//"> <font color="white"> Go Back to Researchsio</font></a>
 				</button>
 		</div>
 	</div>

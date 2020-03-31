@@ -60,7 +60,8 @@ https://templatemo.com/tm-535-softy-pinko
                             <li><a href="#features">Founder</a></li>
                             <li><a href="#blog">Review Pannel</a></li>
                             <li><a href="#testimonials"> Founding Members</a></li>
-                            <li><a href="#pricing-plans">Members</a></li>  
+                            <li><a href="#pricing-plans">Members</a></li>
+			    <br><li><a href="https://researchsio.com/What%20we%20do%201.html">| What We Do |</a></li>
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>

@@ -41,6 +41,7 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </div>  
     <!-- ***** Preloader End ***** -->
+    
      <!-- ***** Header Area Start ***** -->
     <header class="header-area header-sticky">
         <div class="container">
@@ -91,6 +92,11 @@ https://templatemo.com/tm-535-softy-pinko
     </div>
     <!-- ***** Welcome Area End ***** -->
     <br>
+    <div id="mySidenav" class="sidenav">
+  <a href="https://researchsio.com/1a%20what%20we%20are1.html" id="are">What We Are</a>
+  <a href="https://researchsio.com/family.html" id="family">Researchsio Family</a>
+  <a href="https://researchsio.com//Notice%20Board.html" id="notice">Notice Board</a>
+</div>
     <!-- ***** Features Small Start ***** -->
     <section class="section home-feature">
         <div class="container">

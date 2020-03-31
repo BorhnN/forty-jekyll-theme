@@ -51,7 +51,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-12">
                     <nav class="main-nav">
                        <!-- ***** Logo Start ***** -->
-                        <a href="#" class="logo">
+                        <a href="https://researchsio.com//" class="logo">
                             <img src="assets/icons/logo 2.png" alt="Researchsio"/>
                         </a>
                         <!-- ***** Logo End ***** -->

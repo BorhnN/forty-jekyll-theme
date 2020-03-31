@@ -50,7 +50,11 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-12">
                     <nav class="main-nav">
-                       
+                       <!-- ***** Logo Start ***** -->
+                        <a href="#" class="user-image">
+                            <img src="assets/images/logo.png" width="60" height="60" alt="Researchsio"/>
+                        </a>
+                        <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li><a href="#features">Founder</a></li>

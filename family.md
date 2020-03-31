@@ -216,7 +216,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#"> More Teachers will be added shortly!/a>
+                                <a href="#"> More Teachers will be added shortly!</a>
                             </h3>
                             <div class="text">
                             We are in a process of adding more skilled teachers. Hold On!

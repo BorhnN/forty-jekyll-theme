@@ -52,7 +52,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <nav class="main-nav">
                        <!-- ***** Logo Start ***** -->
                         <a href="#" class="user-image">
-                            <img src="assets/images/logo.png" width="60" height="60" alt="Researchsio"/>
+                            <img src="assets/images/Logo.png" width="60" height="60" alt="Researchsio"/>
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->

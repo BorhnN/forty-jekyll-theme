@@ -41,7 +41,36 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </div>  
     <!-- ***** Preloader End ***** -->
-    
+     <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                       <!-- ***** Logo Start ***** -->
+                        <a href="https://researchsio.com//" class="logo">
+                            <img src="assets/icons/logo 2.png" alt="Researchsio"/>
+                        </a>
+                        <!-- ***** Logo End ***** -->
+                        <!-- ***** Menu Start ***** -->
+                        <ul class="nav">
+                            <li><a href="#features">Work Field</a></li>
+                            <li><a href="#blog">Training</a></li>
+                            <li><a href="#testimonials"> Upcoming Workshop</a></li>
+                            <li><a href="#pricing-plans">Book & Software Store</a></li>
+			    
+                        </ul>
+                        <a class='menu-trigger'>
+                            <span>Menu</span>
+                        </a>
+                        <!-- ***** Menu End ***** -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ***** Header Area End ***** -->
+
 
     <!-- ***** Welcome Area Start ***** -->
     <div class="welcome-area" id="welcome">

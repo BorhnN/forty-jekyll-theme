@@ -1,5 +1,5 @@
 ---
-title: First Session Members
+title: First Session Members Coming Soon
 layout: family
 nav-menu: false
 show_tile: false

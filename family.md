@@ -146,7 +146,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">MD. Salman Faisal</h2>
                     </div>
                     <div class="left-text">
-                        <p> &#8226; B.Pharm  (MIU) <br>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br> Follow on- <br> <img src="assets/icons/fb 1.png" height="60" width="60" alt="fb logo"><a href=" https://www.facebook.com/profile.php?id=100010718580269">Facebook</a></p>
+                        <p> &#8226; B.Pharm  (MIU) <br>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br> Follow on- <br> <img src="assets/icons/fb 1.png" height="60" width="60" class="user-image" alt="fb logo"><a href=" https://www.facebook.com/profile.php?id=100010718580269">Facebook</a></p>
 
                     </div>
                 </div>

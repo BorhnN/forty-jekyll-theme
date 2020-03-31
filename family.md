@@ -146,7 +146,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">MD. Salman Faisal</h2>
                     </div>
                     <div class="left-text">
-                        <p> &#8226; B.Pharm  (MIU) <br>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br> Follow on- <br> <img src="assets/icons/fb 1.png" height="60" width="60" class="round-icon" alt="fb logo"><a href=" https://www.facebook.com/profile.php?id=100010718580269">Facebook</a></p>
+                        <p> &#8226; B.Pharm  (MIU) <br>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br> &#8226;Follow on- <br>     <a href=" https://www.facebook.com/profile.php?id=100010718580269"><img src="assets/icons/fb 1.png" height="50" width="50" class="round-icon" alt="fb logo"></a></p>
 
                     </div>
                 </div>
@@ -354,6 +354,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
                                 <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
+				<p> <br> <img src="assets/icons/in.png" height="60" width="60" class="round-icon" alt=""></p>
                                 <span><a href="https://www.linkedin.com/in/nusaiba-tohfa-94b8a9179">Linked In</a></span>
                             </div>
                         </div>

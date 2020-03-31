@@ -190,26 +190,41 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="text">
                               <p align="left">Reviewer on-<br>&#8226; Biopharmaceutics<br>&#8226;Pharmaceutical technology.</p><br>Lecturer at Manarat International University. Department of Pharmacy. 
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
-                            <img src="assets/images/blog-item-02.png" alt="">
+                            <img src="assets/images/teachers/Shafayet.jpg" alt="Shafayet">
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Md. Shafayet Hossain</a>
+                                <a href="#">Md. Shafayat Ahmed Siddiqui </a>
                             </h3>
                             <div class="text">
-                                Lecturer at Manarat International University. Department of Pharmacy.
-                            </div>
-                            <a href="#" class="main-button">Read More</a>
+                                <p align="left">Reviewer on-<br>&#8226; Biotechnology.<br>&#8226;Genomics.<br>&#8226;Biochemistry and Molecular Biology. <br>&#8226;Theoretical and Computational Chemistry </p><br>Lecturer at Manarat International University. Department of Pharmacy. 
+                            </div> 
                         </div>
                     </div>
                 </div> 
+		<div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/teachers/Rikta-Banu.jpg" alt="Rikta Banu">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#"> More Teachers will be added shortly!/a>
+                            </h3>
+                            <div class="text">
+                            We are in a process of adding more skilled teachers. Hold On!
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -241,7 +256,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Gajjali.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
                             <p>Alif Ahmed Gazzalee<br> &#8226; B.Pharm (MIU)<br> &#8226; Advisor</p>
                             <div class="user-image">
-                                <img src="img/fb1.png" alt="">
+                                <img src="assets/icons/fb 1.png" alt="">
                             </div>
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/alifahmed.gazzalee">Follow on</a></h3>
@@ -259,7 +274,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Nishan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
                             <p>Nishan Chakrabarty<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
                             <div class="user-image">
-                                <img src="img/fb1.png" alt="">
+                                <img src="assets/icons/fb 1.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/NR3RAJU">Follow on</a></h3>
@@ -277,7 +292,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Mahfuzur Rahman Zilan<br> &#8226; B.Pharm (MIU)<br> &#8226; Documentation Supervisor<br> &#8226; Researcher</p>
                             <div class="user-image">
-                                <img src="img/fb1.png" alt="">
+                                <img src="assets/icons/fb 1.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/profile.php?id=100011295008789">Follow on</a></h3>
@@ -296,7 +311,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Motasim Billah Sakib<br> &#8226; B.Pharm (MIU)<br> &#8226; Creative Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
-                                <img src="img/fb1.png" alt="">
+                                <img src="assets/icons/fb 1.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Follow on</a></h3>
@@ -333,7 +348,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Nusaibatoon Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Supervisor<br> &#8226; Researcher</p>
                             <div class="user-image">
-                                <img src="img/fb1.png" alt="">
+                                <img src="assets/icons/fb 1.png" alt="">
                             </div>
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
@@ -352,7 +367,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Blank.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Redwan Mahmud<br> &#8226; B.Pharm (MIU)<br> &#8226; Researcher</p>
                             <div class="user-image">
-                                <img src="img/fb1.png" alt="">
+                                <img src="assets/icons/fb 1.png" alt="">
                             </div>
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/Pharmacist.Redwan">Follow on</a></h3>

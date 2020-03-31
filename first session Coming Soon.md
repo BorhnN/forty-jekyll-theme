@@ -1,6 +1,6 @@
 ---
 title: First Session Members Coming Soon
-layout: family
+layout: first session Coming Soon
 nav-menu: false
 show_tile: false
 ---
@@ -68,7 +68,6 @@ show_tile: false
 			</div>
 
 			<form class="w-full flex-w flex-c-m validate-form">
- <a href="#features" class="main-button-slider">Apply For Membership</a>
 				<div class="wrap-input100 validate-input where1" data-validate = "Valid email is required: ex@abc.xyz">
 					<input class="input100 placeholder0 s2-txt2" type="text" name="email" placeholder="Enter Email Address">
 					<span class="focus-input100"></span>
@@ -79,6 +78,9 @@ show_tile: false
 					Subscribe
 				</button>
 			</form>
+			<button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">
+					<a href="https://researchsio.com//">Go Back to Researchsio</a>
+				</button>
 		</div>
 	</div>
 

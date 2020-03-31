@@ -1217,6 +1217,10 @@ img.rounded-corners {
   border-radius: 25px;
 }
 
+img.round-icon {
+  border-radius: 50%;
+}
+
 img.rounded-cornersone {
   border-radius: 10px;
 }

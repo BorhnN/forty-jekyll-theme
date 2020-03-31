@@ -368,7 +368,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">IELTS (Basic Guideline)</a>
+                                <a href="#">Basic Guideline for IELTS</a>
                             </h3>
                             <div class="text">
                                 Taking preparation for IELTS is sometime confusing. We provide the basic guideline including softcopy of <a href="#pricing-plans">books</a> and preparation method for free in the workshop. 
@@ -432,7 +432,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Insilico Molecular Docking</a>
+                                <a href="#">Application and Use of Insilico Molecular Docking</a>
                             </h3>
                             <div class="text">
                               Moleculaer docking using Schrödinger software package is a simulator that provide information about receptor ligand relationship and their binding information. You can either join our workshop  or order the <a href="#pricing-plans">software</a> with free tech support. 

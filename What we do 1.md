@@ -245,7 +245,7 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Home Parallax End ***** -->
-<br><br><div> <p> Current Status of <a href="https://researchsio.yolasite.com/" class="main-button">Ongoing Projects</a></p><br>
+
     <!-- ***** Blog Start ***** -->
     <section class="section" id="blog">
         <div class="container">
@@ -304,31 +304,16 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Rosalind and Use of Python</a>
+                                <a href="#">Bioinformatics in Bangladesh, Rosalind and use of Python</a>
                             </h3>
                             <div class="text">
-                                Rosalind is a platform for learning bioinformatics and programming through problem solving. Take a tour to get the hang of how Rosalind works by clicking on "Read More" below.
+                               Bioinformatics has a limited opportunities in Bangladesh. But we provide the Boost you need to reach your goal by using Rosalind and Basic knowledge of <a href="#pricing-plans"> python </a> 
                             </div>
                             <a href="http://rosalind.info/problems/locations/" class="main-button">Read More</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="blog-post-thumb">
-                        <div class="img">
-                            <img src="assets/images/blog-item-03.png" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="#">Bioinformatics in Bangladesh</a>
-                            </h3>
-                            <div class="text">
-                               Bioinformatics has a limited opportunities in Bangladesh. But we provide the Boost you need to reach your goal by using Rosalind and Basic knowledge of <a href="#pricing-plans">python.</a>
-                            </div>
-                            <a href="#" class="main-button">Read More</a>
-                        </div>
-                    </div>
-                </div>
+		
 		<div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">

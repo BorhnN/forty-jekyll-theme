@@ -519,7 +519,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
                             <p>Coming Soon!.</p>
                             <div class="user-image">
-                                <img src="assets/icons/event.png" alt="">
+                                <img src="assets/icons/event 1.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h2 class="user-name">For More vist Our</h2>
@@ -537,7 +537,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
                             <p>Our second Workshop, we dont have any workshop </p>
                             <div class="user-image">
-                                <img src="assets/icons/event.png" alt="">
+                                <img src="assets/icons/event 1.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h2 class="user-name">For More vist Our</h2>
@@ -555,7 +555,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
                             <p>Coming Soon!</p>
                             <div class="user-image">
-                                <img src="assets/icons/event.png" alt="event">
+                                <img src="assets/icons/event 1.png" alt="event">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name">For More vist Our</h3>
@@ -664,42 +664,10 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Pricing Plans End ***** -->
-
-    <!-- ***** Counter Parallax Start ***** -->
-    <section class="counter">
-        <div class="content">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="count-item decoration-bottom">
-                            <strong>126</strong>
-                            <span>Projects</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="count-item decoration-top">
-                            <strong>63</strong>
-                            <span>Happy Clients</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="count-item decoration-bottom">
-                            <strong>18</strong>
-                            <span>Awards Wins</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="count-item">
-                            <strong>27</strong>
-                            <span>Countries</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ***** Counter Parallax End ***** -->   
-
+<br>
+<br>
+<br>
+<br>
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">

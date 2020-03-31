@@ -353,10 +353,10 @@ https://templatemo.com/tm-535-softy-pinko
                             </div>
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
-				<span><img src="assets/icons/in.png" height="60" width="60" class="round-icon" alt="">
+                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span><br>
+				<img src="assets/icons/in.png" height="60" width="60" class="round-icon" alt="">
                                 <a href="https://www.linkedin.com/in/nusaiba-tohfa-94b8a9179">Linked In</a>
-				</span>
+				
                             </div>
                         </div>
                     </div>

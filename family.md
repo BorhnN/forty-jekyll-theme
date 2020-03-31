@@ -141,7 +141,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <img src="assets/images/Founders/Salman Foysal.JPG" class="rounded img-fluid d-block mx-auto" alt="Salman Faisal">
                 </div>
                 <div class="col-lg-1"></div>
-                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="left-heading">
                         <h2 class="section-title">MD. Salman Faisal</h2>
                     </div>

@@ -1,7 +1,12 @@
-<!DOCTYPE html>
+---
+title: First Session Members
+layout: family
+nav-menu: false
+show_tile: false
+---
 <html lang="en">
 <head>
-	<title>Coming Soon 2</title>
+	<title>First Session Members</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -32,11 +37,12 @@
 		<!--  -->
 		<div class="size1 flex-col-c-m p-l-15 p-r-15 p-t-50 p-b-50">
 			<h3 class="l1-txt1 txt-center p-b-25">
-				Coming Soon
+				Recruitment is Going On! 
 			</h3>
 
 			<p class="m2-txt1 txt-center p-b-48">
-				Our website is under construction, follow us for update now!
+				Our Member Recruitment For First Session is Going On till 10<sup>th</sup> April.
+				<br> This Page will be Visible On 11<sup>th</sup>April.
 			</p>
 
 			<div class="flex-w flex-c-m cd100 p-b-33">
@@ -62,7 +68,7 @@
 			</div>
 
 			<form class="w-full flex-w flex-c-m validate-form">
-
+ <a href="#features" class="main-button-slider">Apply For Membership</a>
 				<div class="wrap-input100 validate-input where1" data-validate = "Valid email is required: ex@abc.xyz">
 					<input class="input100 placeholder0 s2-txt2" type="text" name="email" placeholder="Enter Email Address">
 					<span class="focus-input100"></span>
@@ -96,13 +102,13 @@
 		$('.cd100').countdown100({
 			/*Set Endtime here*/
 			/*Endtime must be > current time*/
-			endtimeYear: 0,
-			endtimeMonth: 0,
-			endtimeDate: 35,
-			endtimeHours: 18,
+			endtimeYear: 2020,
+			endtimeMonth: 4,
+			endtimeDate: 11,
+			endtimeHours: 00,
 			endtimeMinutes: 0,
 			endtimeSeconds: 0,
-			timeZone: "" 
+			timeZone: "Asia/Dhaka" 
 			// ex:  timeZone: "America/New_York"
 			//go to " http://momentjs.com/timezone/ " to get timezone
 		});

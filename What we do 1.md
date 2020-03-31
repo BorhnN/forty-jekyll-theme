@@ -535,7 +535,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
-                            <p>Our second Workshop, we dont have any workshop </p>
+                            <p>Coming Soon!</p>
                             <div class="user-image">
                                 <img src="assets/icons/event 1.png" alt="">
                             </div>

@@ -519,11 +519,11 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
                             <p>Coming Soon!.</p>
                             <div class="user-image">
-                                <img src="assets/icons/event.jpg" alt="">
+                                <img src="assets/icons/event.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">More Details on</h2>
-                                <span>Facebook Event </span>
+                                <h2 class="user-name">For More vist Our</h2>
+                                <span>Event Details </span>
                             </div>
                         </div>
                     </div>
@@ -537,11 +537,11 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
                             <p>Our second Workshop, we dont have any workshop </p>
                             <div class="user-image">
-                                <img src="assets/icons/event.jpg" alt="">
+                                <img src="assets/icons/event.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">More Details on</h2>
-                                <span>Facebook Event </span>
+                                <h2 class="user-name">For More vist Our</h2>
+                                <span>Event Details </span>
                             </div>
                         </div>
                     </div>
@@ -555,7 +555,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
                             <p>Coming Soon!</p>
                             <div class="user-image">
-                                <img src="assets/icons/event.jpg" alt="event">
+                                <img src="assets/icons/event.png" alt="event">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name">For More vist Our</h3>

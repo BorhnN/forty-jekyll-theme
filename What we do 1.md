@@ -118,7 +118,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <img src="assets/images/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
                 <div class="col-lg-1"></div>
-                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="left-heading">
                         <h2 class="section-title">Research Work & Publications </h2>
                     </div>
@@ -140,7 +140,7 @@ https://templatemo.com/tm-535-softy-pinko
     <section class="section padding-bottom-100">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-bottom-fix">
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-bottom-fix" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                     <div class="left-heading">
                         <h2 class="section-title">Participate in our Workshop, Seminar and Training exclusively for you!</h2>
                     </div>
@@ -164,7 +164,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <img src="assets/images/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
                 <div class="col-lg-1"></div>
-                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="left-heading">
                         <h2 class="section-title">We Provide Appliance Services</h2>
                     </div>

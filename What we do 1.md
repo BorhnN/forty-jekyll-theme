@@ -368,7 +368,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">General Calculations & Presentation for Research with Excel and PowerPoint/Prezi</a>
+                                <a href="#">General Calculations,GraphandPresentationfor Research</a>
                             </h3>
                             <div class="text">
                                 In research field your idea can make a big change. To present your ideas to the community and have the basic knowledge of calculation using software will help to build confidence as a researcher. Even drawing chemical figure, Drawing Graph, Graphical Abstractusing <a href="#pricing-plans">software</a> will help you in the process. 
@@ -383,7 +383,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Data Sheets and R Studio</a>
+                                <a href="#">R Studio</a>
                             </h3>
                             <div class="text">
                                 Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.

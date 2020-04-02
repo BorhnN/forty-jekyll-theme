@@ -562,7 +562,7 @@ h1 {
   transition: all 0.3s ease-out;
 }
 .button:hover {
-  background: #06D85F;
+  background: #49C7FF;
 }
 
 .overlay {
@@ -607,7 +607,7 @@ h1 {
   color: #333;
 }
 .popup .close:hover {
-  color: #06D85F;
+  color: #49C7FF;
 }
 .popup .content {
   max-height: 30%;

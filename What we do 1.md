@@ -371,7 +371,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">General Calculations, Graph and Presentation for Research</a>
                             </h3>
                             <div class="text">
-                                In research field your idea can make a big change. To present your ideas to the community and have the basic knowledge of calculation using software will help to build confidence as a researcher. Even drawing chemical figure, Drawing Graph, Graphical Abstractusing <a href="#pricing-plans">software</a> will help you in the process. 
+                                In research field your idea can make a big change. To present your ideas to the community and have the basic knowledge of calculation using software will help to build confidence as a researcher. Even drawing chemical figure, Drawing Graph, Graphical Abstractusing  <a href="#pricing-plans">software</a> eg. GrapghPad, Prism will help you in the process. 
                     </div>
                 </div>
 	     </div>
@@ -499,22 +499,6 @@ https://templatemo.com/tm-535-softy-pinko
                             </h3>
                             <div class="text">
                             predicting a molecule’s activity is possible by comparing the structure of that molecule with the structure of well-known biological active substrate existing in the database. We will provide the initial guidance for the participants.
-                            </div>
-                            <a href="#" class="main-button">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="blog-post-thumb">
-                        <div class="img">
-                            <img src="assets/images/blog-item-03.png" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="#">Drawing Grapgh by GrapghPad, Prism and Graphical Abstracts</a>
-                            </h3>
-                            <div class="text">
-                                  The preferred analysis and graphing solution purpose-built for scientific research. Join the world's leading scientists and discover how you can use Prism to save time, make more appropriate analysis choices, and elegantly graph and present your scientific research. Join with Us!
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>

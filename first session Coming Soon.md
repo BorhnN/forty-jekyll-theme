@@ -69,7 +69,19 @@ show_tile: false
 
 			<form class="w-full flex-w flex-c-m validate-form">
 				
-				
+				<div class="box">
+	<a class="button" href="#popup1">Apply For Membership</a>
+</div>
+
+<div id="popup1" class="overlay">
+	<div class="popup">
+		<h2>Contact Please!</h2>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+			For being a member of first session please contact with <strong> Nusaibatoon Morsheda Tohfa</strong>. Call +8801687 067 630
+		</div>
+	</div>
+</div>
 				
 				<button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">
 					Apply For Membership

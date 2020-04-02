@@ -566,7 +566,7 @@ h1 {
 }
 
 .overlay {
-  position: fixed;
+  position: relative;
   top: 0;
   bottom: 0;
   left: 0;
@@ -597,7 +597,7 @@ h1 {
   font-family: Tahoma, Arial, sans-serif;
 }
 .popup .close {
-  position: absolute;
+  position: relative;
   top: 20px;
   right: 30px;
   transition: all 200ms;

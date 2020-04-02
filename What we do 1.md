@@ -352,10 +352,10 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Referencing by Mendeley</a>
+                                <a href="#">Method Reading and Preparation for Research </a>
                             </h3>
                             <div class="text">
-                               Mendeley is a free reference manager and academic social network that can help you organize your research, collaborate with others online, and discover the latest research: <br> &#8226; Automatically generate bibliographies.<br> &#8226; Collaborate easily with other researchers online.<br> &#8226; Easily import papers from other research software.<br> &#8226; Find relevant papers based on what you're reading<br> &#8226; Access your papers from anywhere online
+                              There is no alternative of study for the topic of your interest being a pro on that topic. A properguideline with take you further.
                             </div>
                             <a href="https://www.elsevier.com/solutions/mendeley" class="main-button">Read More</a>
                         </div>
@@ -368,7 +368,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">General Calculations, Graphand Presentation for Research</a>
+                                <a href="#">General Calculations, Graph and Presentation for Research</a>
                             </h3>
                             <div class="text">
                                 In research field your idea can make a big change. To present your ideas to the community and have the basic knowledge of calculation using software will help to build confidence as a researcher. Even drawing chemical figure, Drawing Graph, Graphical Abstractusing <a href="#pricing-plans">software</a> will help you in the process. 

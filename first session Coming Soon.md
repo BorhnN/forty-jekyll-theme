@@ -77,7 +77,7 @@ show_tile: false
 		<h2>Contact Please!</h2><br>
 		<a class="close" href="#">&times;</a>
 		<div class="content">
-			For being a member of first session please contact with:<br> <strong> Nusaibatoon Morsheda Tohfa</strong>.<br> Call +8801687 067 630
+			For being a member of first session please contact with:<br> <strong> Nusaibatoon Morsheda Tohfa</strong>.<br> Cell. <strong> +8801687 067 630</strong>
 		</div>
 	</div>
 </div>

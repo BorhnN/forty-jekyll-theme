@@ -435,6 +435,12 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
 		</div>
                 <!-- ***** Pricing Item End ***** -->
+		
+		<div id="ex1" class="modal">
+  <p>Thanks for clicking. That felt good.</p>
+  <a href="#" rel="modal:close">Close</a>
+</div>
+<p><a href="#ex1" rel="modal:open">More</a></p>
 		 </div>
         </div>
     </section>
@@ -498,6 +504,11 @@ https://templatemo.com/tm-535-softy-pinko
     
     <!-- jQuery -->
     <script src="assets/js/jquery-2.1.0.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 
     <!-- Bootstrap -->
     <script src="assets/js/popper.js"></script>

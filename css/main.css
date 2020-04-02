@@ -610,15 +610,15 @@ h1 {
   color: #49C7FF;
 }
 .popup .content {
-  max-height: 30%;
+  max-height: 40%;
   overflow: auto;
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 800px){
   .box{
-    width: 70%;
+    width: 80%;
   }
   .popup{
-    width: 70%;
+    width: 80%;
   }
 }

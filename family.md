@@ -310,8 +310,26 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 		
-		 <!-- ***** Testimonials Item Start ***** -->
+		<!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
+                            <p>Nusaibatoon Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Supervisor<br> &#8226; Researcher</p>
+                            <div class="user-image">
+                                <img src="assets/icons/fb 1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                 <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+		 <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
@@ -330,7 +348,7 @@ https://templatemo.com/tm-535-softy-pinko
 		
 		
                 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
@@ -348,7 +366,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
 		
 		  <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
@@ -366,23 +384,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
 		
 		
-                <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Nusaibatoon Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Supervisor<br> &#8226; Researcher</p>
-                            <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
-                            </div>
-                            <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
+                
 		
 		 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">

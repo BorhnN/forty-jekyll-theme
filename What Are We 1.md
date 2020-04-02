@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: family
 title: What We Are 1...
 description: 'Know about us'
 image: assets/images/pic12.jpg

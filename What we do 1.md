@@ -319,7 +319,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">SPSS(Data Entry and Fields for Research)</a>
+                                <a href="#">Application of SPSS in the Fields of Research</a>
                             </h3>
                             <div class="text">
                               The <a href="#pricing-plans">software programs</a> name originally stood for Statistical Package for the Social Sciences (SPSS) reflecting the original market, then later changed to Statistical Product and Service Solutions. A crucial software for data analysis. Survey based study can be more impactful for the use of SPSS.   

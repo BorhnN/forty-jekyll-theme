@@ -321,7 +321,18 @@ https://templatemo.com/tm-535-softy-pinko
                             </div>
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
+                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span> 
+				<span><a href="#popup1">More</a></span>
+				<div id="popup1" class="popupoverlay">
+				<div class="popup">
+		<popuph2>Feel Free To Contact Anytime</popuph2>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+			Contact Number: +880 1976-025282<br>e-mail: nmtohfaa@gmail.com <br> <a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa>ResearchGate</a>
+		</div>
+	</div>
+</div>
+
                             </div>
                         </div>
                     </div>

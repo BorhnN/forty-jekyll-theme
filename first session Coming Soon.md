@@ -69,6 +69,13 @@ show_tile: false
 
 			<form class="w-full flex-w flex-c-m validate-form">
 				
+				<button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">
+					Apply For Membership
+				</button>
+			</form>
+			<button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">
+					<a href="https://researchsio.com//"> <font color="white"> Go Back to Researchsio</font></a>
+				</button>
 				<div class="box">
 	<a class="button" href="#popup1">Apply For Membership</a>
 </div>
@@ -82,14 +89,6 @@ show_tile: false
 		</div>
 	</div>
 </div>
-				
-				<button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">
-					Apply For Membership
-				</button>
-			</form>
-			<button class="flex-c-m size3 s2-txt3 how-btn1 trans-04 where1">
-					<a href="https://researchsio.com//"> <font color="white"> Go Back to Researchsio</font></a>
-				</button>
 		</div>
 	</div>
 

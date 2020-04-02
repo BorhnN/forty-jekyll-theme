@@ -18,9 +18,9 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<a href="family.html"> Member trial page </a> 
-<p>Research work: We gather ourselves for a Nobel purpose which is to find the truth and providing ethical research work to the Science community. Our work will be mainly computational Chemistry, Data analysis and Survey Based. If someone comes with a study plan for a research work and it meets our criteria then we will provide our best efforts to make a paper of worthy for publications.</p
+<h2 id="content">Background</h2>
+
+<p>Bangladesh is country of possibilities. Since its birth the country has never stopped to grow- Educationally, Economically, and Socially. The main resource of a country defines its potentiality. Bangladesh has been blessed with many resources and the one that indicate country’s potentiality is the young generation. About 70% of the population of Bangladesh is youth. This vast extent of population of youth has the power to create a big change for Bangladesh.</p
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>

@@ -415,7 +415,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Plagiarism Checking andReferencing with Software</a>
+                                <a href="#">Plagiarism Checking and Referencing with Software</a>
                             </h3>
                             <div class="text">
                                 Plagiarism checker is a checking process of duplicate content within a work or documents. It is an assessment tool to check the similarities your content with others. Preparing your paper is a big deal. Using the help of some software will make you more organized and efficient. Also your paper will be in a better form for publication. Welcome to your go-to review service for writing and citing with confidence!

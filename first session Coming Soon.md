@@ -37,12 +37,12 @@ show_tile: false
 		<!--  -->
 		<div class="size1 flex-col-c-m p-l-15 p-r-15 p-t-50 p-b-50">
 			<h3 class="l1-txt1 txt-center p-b-25">
-				Recruitment is Going On! 
+				Recruitment is Suspended! 
 			</h3>
 
 			<p class="m2-txt1 txt-center p-b-48">
 				Our Member Recruitment For First Session is suspended indefinitly due to CORONA outbreak.
-				<br> Take a look at the <a href="https://researchsio.com//Notice%20Board.html> Notice Board</a> for details. <br> Expected Resuming date is 25<sup>th</sup> April.
+				<br> Take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details. <br> Expected Resuming date is 25<sup>th</sup> April.
 			</p>
 
 			<div class="flex-w flex-c-m cd100 p-b-33">

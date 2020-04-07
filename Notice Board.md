@@ -28,16 +28,16 @@ show_tile: false
 </thead>
 <tbody>
 <tr>
+<td>2. Indefinite Suspension of member Collection <neon contenteditable spellcheck="false">New</neon></td>
+<td>07 April, 2020</td>
+<td> <a href="assets/notice/Notice 02.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a>  </td>
+</tr>	
+<tr>
 <td> 1. Suspension of member collection due to Corona Outbreak</td>
 <td>20 March, 2020</td>
 <td>
 	<a href="assets/Notice 2.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a>
 	</td>
-</tr>
-<tr>
-<td>2. Indefinite Suspension of member Collection <neon contenteditable spellcheck="false">New</neon></td>
-<td>07 April, 2020</td>
-<td> <a href="assets/notice/Notice 02.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a>  </td>
 </tr>
 <tr>
 <td></td>

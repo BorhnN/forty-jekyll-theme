@@ -28,6 +28,11 @@ show_tile: false
 </thead>
 <tbody>
 <tr>
+<td>3. Project Approvement    .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>07 April, 2020</td>
+<td><a href="assets/notice/Notice 3.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a> </td>
+</tr>
+<tr>
 <td>2. Indefinite Suspension of Member Collection    .<neon contenteditable spellcheck="false">  New  </neon>  </td>
 <td>07 April, 2020</td>
 <td> <a href="assets/notice/Notice 02.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a>  </td>
@@ -43,7 +48,7 @@ show_tile: false
 <td></td>
 <td></td>
 <td></td>
-</tr>
+</tr
 <tr>
 <td></td>
 <td></td>

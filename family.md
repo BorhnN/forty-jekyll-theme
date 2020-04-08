@@ -322,19 +322,6 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
                                 <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
-				<span data-trigger="popup" data-target="#examplePopup">More</span>
-
-    <div class="popup overlay" id="examplePopup">
-      <div class="popup-inner">
-        <div class="popup-content left">
-
-          <p>Contact: 01687067630</p>
-
-          <a class="popup-close" data-close aria-label="Close popup">X</a>
-        </div>
-      </div>
-    </div>
-				
                             </div>
                         </div>
                     </div>
@@ -511,7 +498,6 @@ https://templatemo.com/tm-535-softy-pinko
     
     <!-- jQuery -->
     <script src="assets/js/jquery-2.1.0.min.js"></script>
-    <script src="js/focus.js"></script>
   
     <!-- Bootstrap -->
     <script src="assets/js/popper.js"></script>

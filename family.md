@@ -325,7 +325,7 @@ https://templatemo.com/tm-535-softy-pinko
 				
 				<div class="main">
   <p1>An Animated Lil' Popup</p1>
-  <p4>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin non rhoncus diam, a porta diam! Nunc ultricies risus quis convallis consequat! Phasellus dapibus tortor eu finibus tempor. Sed ut malesuada turpis, vitae luctus nisi. Suspendisse vitae libero sed libero eleifend convallis.</pp>
+  <p4>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin non rhoncus diam, a porta diam! Nunc ultricies risus quis convallis consequat! Phasellus dapibus tortor eu finibus tempor. Sed ut malesuada turpis, vitae luctus nisi. Suspendisse vitae libero sed libero eleifend convallis.</p4>
   <a class="btn popup-btn" href="#">More!</a>
 </div>
 

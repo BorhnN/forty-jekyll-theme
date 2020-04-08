@@ -1724,7 +1724,7 @@ preloader
   transform: translateX(9px) translateY(4px) rotate(-45deg);
   width: 2px;
 }
-.bottom {
+.bottompop {
   background: #FFF;
   color:  #444247;
   font-size: 14px;
@@ -1732,7 +1732,7 @@ preloader
   padding-top: 5px;
   width: 300px;
 }
-.row {
+.rowpop {
   align-items: center;
   display: flex;
   flex-direction: row;
@@ -1745,7 +1745,7 @@ preloader
   top: 0px;
   width: 30px;
 }
-.medium {
+.mediumpop {
   height: 30px;
   margin-left: 16px;
   position: relative;

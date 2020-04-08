@@ -232,7 +232,8 @@ https://templatemo.com/tm-535-softy-pinko
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
 			    <strong>Project on Antibiotic</strong>
-                            <span><strong><p align="left">Project code:RDF20P001</p></strong></span>
+                            <span><strong>Code:RDF20P001</strong></span>
+			    <span><strong>Type:Publication prep.</strong></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">

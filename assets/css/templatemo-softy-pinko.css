@@ -1602,7 +1602,7 @@ preloader
 
 
 .popup {
-  position: fixed;
+  position: relative;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.3s ease-out;

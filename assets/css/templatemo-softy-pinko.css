@@ -1617,7 +1617,7 @@ preloader
   visibility: visible;
 }
 .popup .popup-content {
-  display: none;
+  display: block;
   z-index: 9999;
   max-width: 100%;
   max-height: 100%;

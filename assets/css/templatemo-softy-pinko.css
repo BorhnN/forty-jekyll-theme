@@ -1601,14 +1601,12 @@ preloader
 
 
 
-
+@charset "UTF-8";
 .popup {
-  margin: 70px auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 5px;
-  width: 30%;
-  position: relative;
+  position: fixed;
+  z-index: 9996;
+  opacity: 0;
+  visibility: hidden;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -1620,6 +1618,7 @@ preloader
 }
 .popup .popup-content {
   display: inline-block;
+  z-index: 9999;
   max-width: 100%;
   max-height: 100%;
   overflow: auto;
@@ -1629,19 +1628,19 @@ preloader
   color: #000;
 }
 .popup.overlay {
-  position: fixed;
+  background: rgba(0, 0, 0, 0.85);
+  position: absolute;
   top: 0;
-  bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.7);
-  transition: opacity 500ms;
-  visibility: hidden;
-  opacity: 0;
-
+  bottom: 0;
+  width: 100%;
+  height: 100%;
 }
 .popup.overlay .popup-outside {
-  position: relative;
+  position: absolute;
+  z-index: 9998;
+  position: absolute;
   top: 0;
   left: 0;
   right: 0;
@@ -1652,8 +1651,9 @@ preloader
 .popup.overlay .popup-inner {
   -webkit-backface-visibility: hidden;
   cursor: pointer;
+  z-index: 9997;
   text-align: initial;
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
   right: 0;
@@ -1685,14 +1685,10 @@ preloader
   transform: translateY(0px);
 }
 .popup .popup-close {
+  display: block;
   position: absolute;
-  top: 20px;
-  right: 30px;
-  transition: all 200ms;
-  font-size: 30px;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
+  top: 25px;
+  right: 25px;
 }
 
 $transitionProperty: all;

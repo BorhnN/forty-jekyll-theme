@@ -322,7 +322,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
                                 <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
-				<button data-trigger="popup" data-target="#examplePopup">More</button>
+				<span data-trigger="popup" data-target="#examplePopup">More</span>
 
     <div class="popup overlay" id="examplePopup">
       <div class="popup-inner">

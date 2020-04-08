@@ -28,6 +28,11 @@ https://templatemo.com/tm-535-softy-pinko
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
 
     <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">
+    
+<script type='text/javascript' src='js/jquery-1.9.1.js'></script>
+<link rel="stylesheet" type="text/css" href="/css/result-light.css">
+<link rel="stylesheet" type="text/css" href="https://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css">
+<script type='text/javascript' src="https://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
 
     </head>
     
@@ -322,6 +327,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
                                 <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
+				 <div role="main" class="ui-content"> <a href="#" class="ui-btn ui-btn-b ui-btn-icon-left ui-icon-info ui-corner-all" id="foo">More</a>
                             </div>
                         </div>
                     </div>

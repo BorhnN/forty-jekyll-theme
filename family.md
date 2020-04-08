@@ -322,13 +322,13 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
                                 <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
-				 <button data-trigger="popup" data-target="#examplePopup">More</button>
+				<button data-trigger="popup" data-target="#examplePopup">Click Me</button>
 
     <div class="popup overlay" id="examplePopup">
       <div class="popup-inner">
         <div class="popup-content left">
 
-          <h2>Contact 01687067630</h2>
+          <h2>Contact: 01687067630</h2>
 
           <a class="popup-close" data-close aria-label="Close popup">Close popup</a>
         </div>

@@ -330,7 +330,7 @@ https://templatemo.com/tm-535-softy-pinko
 
           <h2>Contact: 01687067630</h2>
 
-          <a class="popup-close" data-close aria-label="Close popup">Close popup</a>
+          <a class="popup-close" data-close aria-label="Close popup">X</a>
         </div>
       </div>
     </div>

@@ -1604,7 +1604,7 @@ preloader
 
 
 .me {
-  Background: transparent
+  background-image: url(data:assets/images/Logo.png);
   background-size: cover;
 }
 .container {

@@ -322,6 +322,21 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
                                 <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
+				
+				<div class="main">
+  <p1>An Animated Lil' Popup</p1>
+  <p4>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin non rhoncus diam, a porta diam! Nunc ultricies risus quis convallis consequat! Phasellus dapibus tortor eu finibus tempor. Sed ut malesuada turpis, vitae luctus nisi. Suspendisse vitae libero sed libero eleifend convallis.</pp>
+  <a class="btn popup-btn" href="#">More!</a>
+</div>
+
+<div class="popup-wrap">
+    <div class="popup-box">
+      <h2>Title of Popup</h2>
+      <h3>A sub-heading for the popup with a little description.</h3>
+      <a class="close-btn popup-close" href="#">x</a>
+    </div>
+  </div>
+				
                             </div>
                         </div>
                     </div>

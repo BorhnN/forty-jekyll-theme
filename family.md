@@ -322,7 +322,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
                                 <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span> 
-				<span><br><a href="popup1">More</a></span>
+				<span><br><a href="#popup1">More</a></span>
 				<div id="#popup1" class="popupoverlay">
 				<div class="popup">
 		<popuph2>Feel Free To Contact Anytime</popuph2>

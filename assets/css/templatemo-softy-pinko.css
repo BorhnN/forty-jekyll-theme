@@ -1607,15 +1607,7 @@ preloader
   background-image: url(data:assets/images/Logo.png);
   background-size: cover;
 }
-.container {
-  align-items: center;
-  /*       background: #F1EEF1;
-  border: 1px solid #D2D1D4;
-  */      display: flex;
-  height: 360px;
-  justify-content: center;
-  width: 360px;
-}
+
 .email {
   background: #DEDBDF;
   border-radius: 16px;

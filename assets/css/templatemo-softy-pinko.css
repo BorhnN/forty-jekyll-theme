@@ -1603,8 +1603,12 @@ preloader
 
 
 .popup {
-  position: fixed;
-  z-index: 9996;
+ margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.3s ease-out;
@@ -1629,7 +1633,7 @@ preloader
 }
 .popup.overlay {
   background: rgba(0, 0, 0, 0.85);
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;

@@ -1641,9 +1641,7 @@ preloader
   height: 100%;
 }
 .popup.overlay .popup-outside {
-  position: absolute;
-  z-index: 9998;
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   right: 0;

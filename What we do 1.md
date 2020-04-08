@@ -231,9 +231,8 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <span>Project on</span>
-			    <strong>Antibiotic</strong>
-                            <span><img src="assets/icons/coming soon.png" alt=""></span>
+			    <strong>Project on Antibiotic</strong>
+                            <span><strong><p align="left">Project code:RDF20P001</p></strong></span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">

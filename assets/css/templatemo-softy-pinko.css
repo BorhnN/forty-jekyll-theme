@@ -1603,7 +1603,6 @@ preloader
 
 .popup {
   position: fixed;
-  z-index: 9996;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.3s ease-out;
@@ -1617,11 +1616,10 @@ preloader
 }
 .popup .popup-content {
   display: inline-block;
-  z-index: 9999;
   max-width: 100%;
   max-height: 100%;
   overflow: auto;
-  padding: 50px;
+  padding: 2px;
   background-color: #fff;
   cursor: default;
   color: #000;

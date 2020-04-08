@@ -1601,7 +1601,6 @@ preloader
 
 
 
-@charset "UTF-8";
 .popup {
   position: fixed;
   z-index: 9996;

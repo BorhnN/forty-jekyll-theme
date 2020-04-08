@@ -1602,8 +1602,7 @@ preloader
 
 
 .popup {
-  position: fixed;
-  z-index: 9996;
+  position: relative;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.3s ease-out;
@@ -1617,18 +1616,17 @@ preloader
 }
 .popup .popup-content {
   display: inline-block;
-  z-index: 9999;
   max-width: 100%;
   max-height: 100%;
   overflow: auto;
-  padding: 50px;
+  padding: 80px;
   background-color: #fff;
   cursor: default;
   color: #000;
 }
 .popup.overlay {
   background: rgba(0, 0, 0, 0.85);
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   right: 0;
@@ -1637,7 +1635,7 @@ preloader
   height: 100%;
 }
 .popup.overlay .popup-outside {
-  position: absolute;
+  position: relative;
   z-index: 9998;
   position: absolute;
   top: 0;
@@ -1652,7 +1650,7 @@ preloader
   cursor: pointer;
   z-index: 9997;
   text-align: initial;
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   right: 0;

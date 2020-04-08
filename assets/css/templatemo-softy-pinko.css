@@ -1603,14 +1603,12 @@ preloader
 
 
 .popup {
- margin: 70px auto;
+  margin: 70px auto;
   padding: 20px;
   background: #fff;
   border-radius: 5px;
   width: 30%;
   position: relative;
-  opacity: 0;
-  visibility: hidden;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -1631,14 +1629,16 @@ preloader
   color: #000;
 }
 .popup.overlay {
-  background: rgba(0, 0, 0, 0.85);
   position: fixed;
   top: 0;
+  bottom: 0;
   left: 0;
   right: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+
 }
 .popup.overlay .popup-outside {
   position: relative;
@@ -1685,10 +1685,14 @@ preloader
   transform: translateY(0px);
 }
 .popup .popup-close {
-  display: block;
   position: absolute;
-  top: 25px;
-  right: 25px;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
 }
 
 $transitionProperty: all;

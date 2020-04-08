@@ -228,7 +228,7 @@ https://templatemo.com/tm-535-softy-pinko
 
                 <!-- ***** Mini Box Start ***** -->
                 <div class="row">
-                    <div class="container">
+                    <div class="containerpop">
   <div class="email" onclick="this.classList.add('expand')">
     <div class="from">
       <div class="from-contents">

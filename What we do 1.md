@@ -231,10 +231,10 @@ https://templatemo.com/tm-535-softy-pinko
                  <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                             <div class="features-small-item">
                                 <div class="icon">
-                                    <i><img src="assets/images/featured-item-01.png" alt=""></i>
+                                    <i><img src="assets/icons/Projects.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title"> Research & Publications</h5>
-                                <p>We do reseach and helps in writing review article</p>
+                                <h5 class="features-title"> Project on Antibiotic</h5>
+                                <p align="left">Project Code: RDF20P001 <br>&#8226;Project Type: Publication prep. <br>&#8226; Team Leader: Nusaibatoon Morsheda Tohfa  <br>&#8226;Proposer: Abdur Rahman Himel</p>
                             </div>
                         </div>
 			<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
@@ -242,8 +242,8 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title"> Research & Publications</h5>
-                                <p>We do reseach and helps in writing review article</p>
+                                <h5 class="features-title"> Project on Neurology</h5>
+                                <p align="left">Project Code: RDF20D001 <br>&#8226;Project Type: Data collection <br>&#8226; Team Leader: Md. Salman Faisal  <br>&#8226;Proposer: Md. Salman Faisal</p>
                             </div>
                         </div>
 			<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
@@ -251,10 +251,29 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title"> Research & Publications</h5>
-                                <p>We do reseach and helps in writing review article</p>
+                                <h5 class="features-title"> Project on Phytochemical</h5>
+                                <p align="left">Project Code: RDF20P002 <br>&#8226;Project Type: Publication prep. <br>&#8226; Team Leader: Md. Salman Faisal  <br>&#8226;Proposer: Md. Salman Faisal</p>
                             </div>
                         </div>
+			<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                            <div class="features-small-item">
+                                <div class="icon">
+                                    <i><img src="assets/images/featured-item-01.png" alt=""></i>
+                                </div>
+                                <h5 class="features-title"> Project on Genomics Medicine</h5>
+                                <p align="left">Project Code: RDF20D002 <br>&#8226;Project Type: Data collection <br>&#8226; Team Leader: Md Roman Sarkar  <br>&#8226;Proposer:Md Roman Sarkar</p>
+                            </div>
+                        </div>
+			div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                            <div class="features-small-item">
+                                <div class="icon">
+                                    <i><img src="assets/icons/Projects.png" alt=""></i>
+                                </div>
+                                <h5 class="features-title"> Project on Nephrology</h5>
+                                <p align="left">Project Code: RDF20P003 <br>&#8226;Project Type: Publication prep. <br>&#8226; Team Leader: Redwan Mahmud  <br>&#8226;Proposer:Redwan Mahmud</p>
+                            </div>
+                        </div>
+			</div>
 			</div>
 		       
 		       

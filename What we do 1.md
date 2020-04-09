@@ -228,13 +228,7 @@ https://templatemo.com/tm-535-softy-pinko
 
                 <!-- ***** Mini Box Start ***** -->
                 <div class="row">
-                  <section class="section home-feature">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="row">
-                        <!-- ***** Features Small Item Start ***** -->
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                 <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                             <div class="features-small-item">
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
@@ -243,13 +237,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <p>We do reseach and helps in writing review article</p>
                             </div>
                         </div>
-			<section class="section home-feature">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="row">
-                        <!-- ***** Features Small Item Start ***** -->
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+			<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                             <div class="features-small-item">
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
@@ -258,13 +246,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <p>We do reseach and helps in writing review article</p>
                             </div>
                         </div>
-			<section class="section home-feature">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="row">
-                        <!-- ***** Features Small Item Start ***** -->
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+			<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                             <div class="features-small-item">
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>

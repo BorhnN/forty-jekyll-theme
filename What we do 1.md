@@ -228,52 +228,56 @@ https://templatemo.com/tm-535-softy-pinko
 
                 <!-- ***** Mini Box Start ***** -->
                 <div class="row">
-                        <div class="col-lg-2 col-md-3 col-sm-6 col-6">
-                        <a href="#" class="mini-box">
-                            <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-			    <strong>Project on Antibiotic</strong>
-                            <span><strong>Code: RDF20P001</strong></span>
-			    <span><strong>Type: Publication prep.</strong></span>
-                        </a>
-                    </div>
-
-
-                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
-                        <a href="#" class="mini-box">
-                            <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Launching Soon!</strong>
-                            <span><img src="assets/icons/coming soon.png" alt=""></span>
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
-                        <a href="#" class="mini-box">
-                            <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Launching Soon!</strong>
-                            <span><img src="assets/icons/coming soon.png" alt=""></span>
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
-                        <a href="#" class="mini-box">
-                            <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Launching Soon!</strong>
-                            <span><img src="assets/icons/coming soon.png" alt=""></span>
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
-                        <a href="#" class="mini-box">
-                            <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Launching Soon!</strong>
-                            <span><img src="assets/icons/coming soon.png" alt=""></span>
-                        </a>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
-                        <a href="#" class="mini-box">
-                            <i><img src="assets/images/work-process-item-01.png" alt=""></i>
-                            <strong>Launching Soon!</strong>
-                            <span><img src="assets/icons/coming soon.png" alt=""></span>
-                        </a>
-                    </div>
-                </div>
+                  <section class="section home-feature">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                            <div class="features-small-item">
+                                <div class="icon">
+                                    <i><img src="assets/images/featured-item-01.png" alt=""></i>
+                                </div>
+                                <h5 class="features-title"> Research & Publications</h5>
+                                <p>We do reseach and helps in writing review article</p>
+                            </div>
+                        </div>
+			<section class="section home-feature">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                            <div class="features-small-item">
+                                <div class="icon">
+                                    <i><img src="assets/images/featured-item-01.png" alt=""></i>
+                                </div>
+                                <h5 class="features-title"> Research & Publications</h5>
+                                <p>We do reseach and helps in writing review article</p>
+                            </div>
+                        </div>
+			<section class="section home-feature">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                            <div class="features-small-item">
+                                <div class="icon">
+                                    <i><img src="assets/images/featured-item-01.png" alt=""></i>
+                                </div>
+                                <h5 class="features-title"> Research & Publications</h5>
+                                <p>We do reseach and helps in writing review article</p>
+                            </div>
+                        </div>
+		       
+		       
+		       
+		       
+		       
                 <!-- ***** Mini Box End ***** -->
             </div>
         </div>

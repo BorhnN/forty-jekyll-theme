@@ -264,7 +264,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <p align="left">Project Code: RDF20D002 <br>&#8226;Project Type: Data collection <br>&#8226; Team Leader: Md Roman Sarkar  <br>&#8226;Proposer:Md Roman Sarkar</p>
                             </div>
                         </div>
-			div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+			<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                             <div class="features-small-item">
                                 <div class="icon">
                                     <i><img src="assets/icons/Projects.png" alt=""></i>

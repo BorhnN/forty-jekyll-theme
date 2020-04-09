@@ -255,6 +255,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <p>We do reseach and helps in writing review article</p>
                             </div>
                         </div>
+			</div>
 		       
 		       
 		       

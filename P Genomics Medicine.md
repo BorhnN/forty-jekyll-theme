@@ -1,7 +1,7 @@
 ---
 layout: P Antibiotic
-title: Proj. Antibiotic
-description: 'Know about us'
+title: Proj|Genomics Medicine
+description: 'Genomics Medicine'
 nav-menu: true
 show_tile: false
 ---

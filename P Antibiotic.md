@@ -173,24 +173,9 @@ https://templatemo.com/tm-535-softy-pinko
 
     
    <!-- ***** Features Big Item Start ***** -->
-<section class="section padding-bottom-100">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-bottom-fix">
-                <div class="left-heading">
-                    <h2 class="section-title">We can help you to grow your business</h2>
-                </div>
-                <div class="left-text">
-                    <p>Aenean pretium, ipsum et porttitor auctor, metus ipsum iaculis nisi, a bibendum lectus libero vitae urna. Sed id leo eu dolor luctus congue sed eget ipsum. Nunc nec luctus libero. Etiam quis dolor elit.</p>
-                </div>
-            </div>
-            <div class="col-lg-1"></div>
-            <div class="col-lg-5 col-md-12 col-sm-12 align-self-center mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                <img src="assets/images/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
-            </div>
-        </div>
-    </div>
-</section>
+<iframe src="https://www.preceden.com/timelines/575058/embed/a8fe2d424bc09ab26b15045b42e4c378" width="100%" height="503" frameborder="0">
+  <a href="https://www.preceden.com" target="_top">Preceden Timeline Maker</a>
+</iframe>
 <!-- ***** Features Big Item End ***** -->
 
     <!-- ***** Home Parallax Start ***** -->

@@ -171,24 +171,15 @@ https://templatemo.com/tm-535-softy-pinko
     </section>
     <!-- ***** Features Big Item End ***** -->
 
+    
     <!-- ***** Features Big Item Start ***** -->
-    <section class="section padding-bottom-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-bottom-fix">
-                    <div class="left-heading">
-                        <h2 class="section-title">We can help you to grow your business</h2>
-                    </div>
-                    <div class="left-text">
-                     
-		     
-		     <tbody>
-		     <div id="timeline-content">
+    <tbody>
+    <div id="timeline-content">
   <h1t>Timeline</h1t>
 
   <ul class="timeline">
     <li class="event" data-date="65Million B.C.">
-      <h3t>Dinosaurs Roamed the Earth</h3t>
+      <h3>Dinosaurs Roamed the Earth</h3>
       <p>RAWWWWWWRRR 🐢🦂</p>
     </li>
     <li class="event" data-date="2005">
@@ -209,22 +200,11 @@ https://templatemo.com/tm-535-softy-pinko
       
       <p><strong>Our success can be measured by lives and brands enhanced by 9+ years of 100% Squarespace-focused service!</strong></p>
       
-<p><at href="https://www.squareflair.com">squareflair.com</at></p>
+<p><ta href="https://www.squareflair.com">squareflair.com</ta></p>
     </li>
   </ul>
 </div>
 </tbody>
-</div>
-</div>		
-			</div>
-                </div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
-                </div>
-            </div>
-        </div>
-    </section>
     <!-- ***** Features Big Item End ***** -->
 
     <!-- ***** Home Parallax Start ***** -->

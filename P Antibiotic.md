@@ -117,13 +117,8 @@ https://templatemo.com/tm-535-softy-pinko
 
                         <!-- ***** Features Small Item Start ***** -->
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                            <div class="features-small-item">
-                                <div class="icon">
-                                    <i><img src="assets/images/featured-item-01.png" alt=""></i>
-                                </div>
-                                <h5 class="features-title">Best Relationship</h5>
-                                <p>Contact us immediately if you have a question in mind</p>
-                            </div>
+			<script src="https://assets.sutori.com/frontend-assets/assets/iframeResizer.js"></script><iframe src="https://www.sutori.com/story/student-tutorial--fDrqDhaMXxGZYn1EAoCux3m6/embed" width="100%" height="600" frameborder="0" allowfullscreen></iframe><script src="https://assets.sutori.com/frontend-assets/assets/iframeResizer.executer.js"></script>
+                            
                         </div>
                         <!-- ***** Features Small Item End ***** -->
 

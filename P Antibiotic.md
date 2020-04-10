@@ -209,11 +209,12 @@ https://templatemo.com/tm-535-softy-pinko
       
       <p><strong>Our success can be measured by lives and brands enhanced by 9+ years of 100% Squarespace-focused service!</strong></p>
       
-<p><a href="https://www.squareflair.com">squareflair.com</a></p>
+<p><at href="https://www.squareflair.com">squareflair.com</at></p>
     </li>
   </ul>
 </div>
 </tbody>
+</div>
 			
 			</div>
                 </div>

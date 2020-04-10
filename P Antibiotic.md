@@ -180,13 +180,42 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">We can help you to grow your business</h2>
                     </div>
                     <div class="left-text">
-                        <main>
-  <p>Doggo ipsum long bois lotsa pats blep. What a nice floof ruff super chub very good spot, the neighborhood pupper lotsa pats. Borkdrive shibe shoober what a nice floof, borking doggo.</p>
-  <p>Shoober shooberino adorable doggo many pats, heckin good boys many pats pupper wrinkler, corgo maximum borkdrive. A frighten puggo wow very biscit.</p>
-  <p>Big ol h*ck adorable doggo vvv smol borking doggo with a long snoot for pats big ol, he made many woofs doing me a frighten puggo wow very biscit, ruff fat boi ruff long doggo. </p>
-  <p>Long bois mlem I am bekom fat wrinkler puggo maximum borkdrive big ol pupper I am bekom fat, fluffer vvv adorable doggo lotsa pats snoot. I am bekom fat ur givin me a spook length boy wow very biscit very good spot.</p>
-  <p>Doggo ipsum long bois lotsa pats blep. What a nice floof ruff super chub very good spot, the neighborhood pupper lotsa pats. Borkdrive shibe shoober what a nice floof, borking doggo.</p>
-</main></div>
+                     
+		     
+		     <tbody>
+		     <div id="timeline-content">
+  <h1t>Timeline</h1t>
+
+  <ul class="timeline">
+    <li class="event" data-date="65Million B.C.">
+      <h3t>Dinosaurs Roamed the Earth</h3t>
+      <p>RAWWWWWWRRR 🐢🦂</p>
+    </li>
+    <li class="event" data-date="2005">
+      <h3t>Creative Component Launched</h3t>
+      <p>"We can be all things to all people!" 📣</p>    
+    </li>
+    <li class="event" id="date" data-date="2009">
+      <h3t>Squareflair was Born</h3t>
+      <p></p> <p>"We can be all things to Squarespace users!" 📣</p>    
+    </li>
+    
+    <li class="event" data-date="November 15, 2018">
+      
+      <h3t>Squareflair Today</h3t>
+      
+      <p>"We design and build from scratch!" 📣<p/> <p>When we say <em><strong>100% custom</strong></em> we mean it— and we build all sites on the Squarespace Developer platform.<p/>
+<p>Did you know that all of our pixels are hand-forged from the rarest of subpixels grown and harvested in the <em>Nerd Forest</em>? <br>🤜💥🤛</p>
+      
+      <p><strong>Our success can be measured by lives and brands enhanced by 9+ years of 100% Squarespace-focused service!</strong></p>
+      
+<p><a href="https://www.squareflair.com">squareflair.com</a></p>
+    </li>
+  </ul>
+</div>
+</tbody>
+			
+			</div>
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">

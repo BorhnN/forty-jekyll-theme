@@ -2,7 +2,7 @@
 layout: P Antibiotic
 title: Project|Nephrology
 description: 'Know about us'
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
  <!-- Content -->

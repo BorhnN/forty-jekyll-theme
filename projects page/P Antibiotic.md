@@ -1,6 +1,14 @@
-<!DOCTYPE html>
+---
+layout: P Antibiotic
+title: Proj. Antibiotic
+description: 'Know about us'
+image: assets/images/pic12.jpg
+nav-menu: true
+show_tile: false
+---
+  <!-- Content -->
 <html lang="en">
-
+  
   <head>
 
     <meta charset="utf-8">
@@ -49,18 +57,7 @@ https://templatemo.com/tm-535-softy-pinko
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
-                        <ul class="nav">
-                            <li><a href="#welcome" class="active">Home</a></li>
-                            <li><a href="#features">About</a></li>
-                            <li><a href="#work-process">Work Process</a></li>
-                            <li><a href="#testimonials">Testimonials</a></li>
-                            <li><a href="#pricing-plans">Pricing Tables</a></li>
-                            <li><a href="#blog">Blog Entries</a></li>
-                            <li><a href="#contact-us">Contact Us</a></li>
-                        </ul>
-                        <a class='menu-trigger'>
-                            <span>Menu</span>
-                        </a>
+                        
                         <!-- ***** Menu End ***** -->
                     </nav>
                 </div>

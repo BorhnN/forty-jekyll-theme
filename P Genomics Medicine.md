@@ -2,7 +2,7 @@
 layout: P Antibiotic
 title: Proj|Genomics Medicine
 description: 'Genomics Medicine'
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
  <!-- Content -->

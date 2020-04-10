@@ -1611,6 +1611,11 @@ $font-sans: 'Open Sans', sans-serif;
 $black: #34435E;
 $white: #ffffff;
 
+main {
+  min-width: 300px;
+  max-width: 500px;
+  margin: auto;
+}
 
 p {
   font-size: 1em;

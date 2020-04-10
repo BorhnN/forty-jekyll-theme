@@ -71,12 +71,7 @@ https://templatemo.com/tm-535-softy-pinko
         <!-- ***** Header Text Start ***** -->
         <div class="header-text">
             <div class="container">
-                <div class="row">
-                    <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-                        <h1></h1>
-                        <p></p>
-                    </div>
-                </div>
+                <script src="https://assets.sutori.com/frontend-assets/assets/iframeResizer.js"></script><iframe src="https://www.sutori.com/story/project-on-antibiotic--vta4zno4nitKwcMTxJ8E2qW5/embed" width="100%" height="600" frameborder="0" allowfullscreen></iframe><script src="https://assets.sutori.com/frontend-assets/assets/iframeResizer.executer.js"></script>
             </div>
         </div>
         <!-- ***** Header Text End ***** -->

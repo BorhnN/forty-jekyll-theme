@@ -215,7 +215,7 @@ https://templatemo.com/tm-535-softy-pinko
 </div>
 </tbody>
 </div>
-			
+</div>		
 			</div>
                 </div>
                 <div class="col-lg-1"></div>

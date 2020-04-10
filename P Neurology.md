@@ -2,7 +2,7 @@
 layout: P Antibiotic
 title: Project|Neurology
 description: 'Project'
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
  <!-- Content -->

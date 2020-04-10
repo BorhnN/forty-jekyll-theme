@@ -7,6 +7,9 @@ nav-menu: true
 show_tile: false
 ---
 
+   <!-- Content -->
+<html lang="en">
+  
   <head>
 
     <meta charset="utf-8">

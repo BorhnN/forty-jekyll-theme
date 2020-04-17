@@ -215,6 +215,21 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div> 
+		<div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.4s">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/Founders/Blank.jpg" alt="Shafayet">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Abrar Wahab </a>
+                            </h3>
+                            <div class="text">
+                                <p align="left">Masters in Public Health <br>Evaluation and Research Officer<br>at Shornokishoree Network Foundation</p> 
+                            </div> 
+                        </div>
+                    </div>
+                </div> 
 		<div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -366,7 +381,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
 		
 		  <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
@@ -387,7 +402,7 @@ https://templatemo.com/tm-535-softy-pinko
                 
 		
 		 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Blank.jpg" alt="" class="rounded-cornersone"></i>

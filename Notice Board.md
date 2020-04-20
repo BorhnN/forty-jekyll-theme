@@ -28,12 +28,17 @@ show_tile: false
 </thead>
 <tbody>
 <tr>
-<td>3. Project Approvement    .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>4. Project Approvement on Stem Cell     .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>17 April, 2020</td>
+<td><a href="assets/notice/Notice 6.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
+</tr>
+<tr>
+<td>3. Project Approvement</td>
 <td>07 April, 2020</td>
 <td><a href="assets/notice/Notice 3.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
 </tr>
 <tr>
-<td>2. Indefinite Suspension of Member Collection    .<neon contenteditable spellcheck="false">  New  </neon></td>
+<td>2. Indefinite Suspension of Member Collection </td>
 <td>07 April, 2020</td>
 <td> <a href="assets/notice/Notice 02.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
 </tr>	

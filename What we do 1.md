@@ -269,6 +269,15 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/icons/project 5.png" alt=""></i>
                                 </div>
+                                <h5 class="features-title"> Project on Stem Cell</h5>
+                                <p align="left">&#8226;Project Type: Publication Prep. <br>&#8226;Proposer:Md. Kamal HoSSain</p>
+                            </div>
+                        </div>
+			<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                            <div class="features-small-item">
+                                <div class="icon">
+                                    <i><img src="assets/icons/project 5.png" alt=""></i>
+                                </div>
                                 <h5 class="features-title"> Project on Nephrology</h5>
                                 <p align="left">&#8226;Project Type: Publication prep. <br>&#8226;Proposer:Redwan Mahmud</p>
                             </div>

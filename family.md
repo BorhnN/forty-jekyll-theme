@@ -177,7 +177,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p>Our respected highly skilled teachers:</p>
+                        <p>Our respected highly skilled Reviewer:</p>
                     </div>
                 </div>
             </div>
@@ -210,7 +210,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Md. Shafayat Ahmed Siddiqui </a>
                             </h3>
                             <div class="text">
-                                <p align="left">Reviewer on-<br>&#8226; Biotechnology.<br>&#8226;Genomics.<br>&#8226;Biochemistry and Molecular Biology. <br>&#8226;Theoretical and Computational Chemistry </p><br>Lecturer at Manarat International University. Department of Pharmacy. 
+                                <br>Lecturer at Manarat International University. Department of Pharmacy. <p align="left">Reviewer on-<br>&#8226; Biotechnology.<br>&#8226;Genomics.<br>&#8226;Biochemistry and Molecular Biology. <br>&#8226;Theoretical and Computational Chemistry </p>
                             </div> 
                         </div>
                     </div>
@@ -312,7 +312,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Nishan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
-                            <p>Nishan Chakrabarty<br> &#8226; PHD student at Chonnam National University<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
+                            <p>Nishan Chakrabarty<br> &#8226; PhD student at Chonnam National University, South korea<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
                             </div>

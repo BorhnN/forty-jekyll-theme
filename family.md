@@ -196,7 +196,6 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="text">
                              <br>Lecturer at Manarat International University. Department of Pharmacy. <p align="left">Reviewer on-<br>&#8226; Biopharmaceutics<br>&#8226;Pharmaceutical technology.</p> 
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -237,10 +236,10 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#"> More Teachers will be added shortly!</a>
+                                <a href="#"> More Qualified Individuals will be added shortly!</a>
                             </h3>
                             <div class="text">
-                            We are in a process of adding more skilled teachers. Hold On!
+                            We are in a process of adding more skilled Reviewers, Researchers and Project coordinators. Stay with us!
                             </div>
 
                         </div>

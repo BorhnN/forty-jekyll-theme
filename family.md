@@ -224,7 +224,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Abrar Wahab </a>
                             </h3>
                             <div class="text">
-                                Masters in Public Health <br>Evaluation and Research Officer<br>at Shornokishoree Network Foundation
+                                Masters in Public Health <br>Evaluation and Research Officer<br> Shornokishoree Network Foundation
                             </div> 
                         </div>
                     </div>

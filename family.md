@@ -233,14 +233,14 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
-                            <img src="assets/images/teachers/Shafayet.jpg" alt="Shafayet">
+                            <img src="assets/images/teachers/Proshanto Roy.JPG" alt="Shafayet">
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Md. Shafayat Ahmed Siddiqui </a>
+                                <a href="#">Proshanta Roy </a>
                             </h3>
                             <div class="text">
-                            <br>Lecturer at Manarat International University. Department of Pharmacy. <p align="left">Reviewer on-<br>&#8226; Biotechnology.<br>&#8226;Genomics.<br>&#8226;Biochemistry and Molecular Biology. <br>&#8226;Theoretical and Computational Chemistry </p>
+                            <br>Phd research fellow (Neuroscience) <br>Department of public Health and experimental medicine <br>University of camerino, Italy<p align="left">Reviewer on-<br>&#8226; Biotechnology.<br>&#8226;Neuroscience.<br>&#8226;Immunology. </p>
                             </div> 
                         </div>
                     </div>

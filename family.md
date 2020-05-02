@@ -327,7 +327,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Nishan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
-                            <p>Nishan Chakrabarty<br> &#8226; PhD student at Chonnam National University, South korea<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
+                            <p>Nishan Chakrabarty<br> &#8226; PhD student at Chonnam National University, South korea, B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
                             </div>
@@ -363,7 +363,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Mahfuzur Rahman Zilan<br> &#8226; B.Pharm (MIU)<br> &#8226; Documentation Supervisor<br> &#8226; Researcher</p>
+                            <p>Mahfuzur Rahman Zilan<br> &#8226; M.Pharm (SUB),  B.Pharm (MIU)<br> &#8226; Documentation Supervisor<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
                             </div>
@@ -382,7 +382,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Motasim Billah Sakib<br> &#8226; B.Pharm (MIU)<br> &#8226; Creative Manager<br> &#8226; Researcher</p>
+                            <p>Motasim Billah Sakib<br> &#8226; M.Pharm (JNU), B.Pharm (MIU)<br> &#8226; Creative Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
                             </div>

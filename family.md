@@ -309,7 +309,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Azad1.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Muhammod Azad<br> &#8226; B.Pharm (MIU)<br> &#8226; Organizing Advisor<br> &#8226; Researcher</p>
+                            <p>Muhammod Azad<br> &#8226; M. Pharm (SUB) <br> &#8226; B.Pharm (MIU)<br> &#8226; Organizing Advisor<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
                             </div>

@@ -24,17 +24,23 @@ show_tile: false
 
 function TheLogin() {
 
-var password = 'Researcher';
-var password1 = 'User2020';
-var Mahmud = 'Admin128';
+var password = 'User2020';
+var ceo = '@salmanceo';
+var mahmud = 'Admin128';
+var roman = '@roman97';
+
+
 
 if (this.document.login.pass.value == password) {
   top.location.href="Projects.html";
 }
-else if (this.document.login.pass.value == password1) {
+else if (this.document.login.pass.value == ceo) {
   top.location.href="Projects.html";
 }
-else if (this.document.login.pass.value == Mahmud) {
+else if (this.document.login.pass.value == roman) {
+  top.location.href="Projects.html";
+}
+else if (this.document.login.pass.value == mahmud) {
   top.location.href="Projects.html";
 }
 else {

@@ -1,4 +1,13 @@
-<!DOCTYPE html>
+---
+layout: projects
+title: Projects
+description: 'Projects'
+nav-menu: true
+show_tile: false
+
+---
+    
+  <!-- Content -->
 <html lang="en">
 
   <head>
@@ -8,8 +17,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
-
-    <title>Softy Pinko - Bootstrap 4.0 Theme</title>
+    <title> Family</title>
 <!--
 SOFTY PINKO
 https://templatemo.com/tm-535-softy-pinko
@@ -21,7 +29,7 @@ https://templatemo.com/tm-535-softy-pinko
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
 
     <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">
-
+    
     </head>
     
     <body>

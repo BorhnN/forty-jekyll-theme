@@ -72,8 +72,8 @@ https://templatemo.com/tm-535-softy-pinko
 <input type="button" value="Click to Login" style="width: 180px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">
 </form>
 <br><br>
-<p> &#9632; If you don't know or forget Password then go to messeage option of your phone & type: "Get Password" < space > "Name" < space > "Role in Researchsio" and send it to +880152 14 32 666. </p>
-    <br>&#9632; <p style="text-align:left;"> Role means your designation in Researchsio e.g. "Founding Member" or " Member" etc. </p>
+<p> &#9632; If you don't know or forget Password then go to messeage option of your phone & type: "Get Password" < space > "Name" < space > "Designation in Researchsio" and send it to +880152 14 32 666. </p>
+    <br> <p style="text-align:left;"> &#9632; Designation means your role in Researchsio e.g. "Founding Member" , " Member" or "Reviewer" etc. </p>
 
 </div>
 

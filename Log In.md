@@ -32,19 +32,19 @@ var tohfa = '@tohfa630';
 
 
 if (this.document.login.pass.value == password) {
-  top.location.href="Projects.html";
+  top.location.href="Projects protected secured page done by html with researchsio.html";
 }
 else if (this.document.login.pass.value == ceo) {
-  top.location.href="Projects.html";
+  top.location.href="Projects protected secured page done by html with researchsio.html";
 }
 else if (this.document.login.pass.value == roman) {
-  top.location.href="Projects.html";
+  top.location.href="Projects protected secured page done by html with researchsio.html";
 }
 else if (this.document.login.pass.value == tohfa) {
-  top.location.href="Projects.html";
+  top.location.href="Projects protected secured page done by html with researchsio.html";
 }
 else if (this.document.login.pass.value == mahmud) {
-  top.location.href="Projects.html";
+  top.location.href="Projects protected secured page done by html with researchsio.html";
 }
 else {
   window.alert("Incorrect password, please try again or contact with HR MahmuD.");

@@ -30,7 +30,7 @@ if (this.document.login.pass.value == password) {
   top.location.href="projects.html";
 }
 else {
-  window.alert("Incorrect password, please try again.");
+  window.alert("Incorrect password, please try again or conatact with HR MahmuD.");
   }
 }
 
@@ -67,7 +67,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="row">
                    <div style="text-align: center; margin: 0 auto; ">
 <h1><strong>Enter Your Password:</strong></h1><br>
-<form name="login" style="margin: 5px 0px 0px 0px;">
+<form name="login" style="margin: 5px 0px 0px 0px; align: center;">
 <input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 130px; box-sizing: border-box; border: 2px solid blue; border-radius: 4px; background-color: #FFFFFF;"><br>
 <input type="button" value="Click to Login" style="width: 180px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">
 </form>

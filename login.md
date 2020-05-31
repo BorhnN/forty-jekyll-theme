@@ -7,7 +7,7 @@ show_tile: false
 ---
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>Login</title>

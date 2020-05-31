@@ -26,7 +26,6 @@ function TheLogin() {
 
 var password = 'Researcher';
 
-
 if (this.document.login.pass.value == password) {
   top.location.href="Projects.html";
 }

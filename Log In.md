@@ -40,6 +40,9 @@ else if (this.document.login.pass.value == ceo) {
 else if (this.document.login.pass.value == roman) {
   top.location.href="Projects.html";
 }
+else if (this.document.login.pass.value == tohfa) {
+  top.location.href="Projects.html";
+}
 else if (this.document.login.pass.value == mahmud) {
   top.location.href="Projects.html";
 }

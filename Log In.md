@@ -65,7 +65,7 @@ https://templatemo.com/tm-535-softy-pinko
         <div class="header-text">
             <div class="container">
                 <div class="row">
-                   <div style="text-align: center; margin: 0 auto; ">
+                   <div style="text-align: left; margin: 0 auto; ">
 <h1><strong> Enter Your Password:</strong></h1> 
 <form name="login" style="margin: 5px 0px 0px 0px; ">
 <input type="text" name="pass" size="17" placeholder="Password" onkeydown="if(event.keyCode==13) return false;" style="width: 40%; box-sizing: border-box; border: 2px solid blue; border-radius: 4px; background-color: #FFFFFF; "><br>

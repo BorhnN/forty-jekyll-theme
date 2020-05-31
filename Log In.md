@@ -68,11 +68,12 @@ https://templatemo.com/tm-535-softy-pinko
                    <div style="text-align: center; margin: 0 auto; ">
 <h1><strong>Enter your password:</strong></h1><br>
 <form name="login" style="margin: 5px 0px 0px 0px;">
-<input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 130px; box-sizing: border-box; border: 2px solid blue; border-radius: 4px; background-color: #7ABCE1;"><br>
+<input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 130px; box-sizing: border-box; border: 2px solid blue; border-radius: 4px; background-color: #B7EFFF;"><br>
 <input type="button" value="Click to Login" style="width: 180px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">
 </form>
 
 <p> If you don't know or forget Password then go to messeage option of your phone & type: "Get Password" < space > "Name" < space > "Role in Researchsio" and send it to +880152 14 32 666. </p>
+    <br> <p style="text-align:left;"> Role means your designation in Researchsio e.g. "Founding Member" or " Member" etc. </p>
 
 </div>
 

@@ -27,7 +27,7 @@ function TheLogin() {
 var password = 'Researcher';
 
 if (this.document.login.pass.value == password) {
-  top.location.href="projects.html";
+  top.location.href="Projects.html";
 }
 else {
   window.alert("Incorrect password, please try again or contact with HR MahmuD.");

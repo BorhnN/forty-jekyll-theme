@@ -30,7 +30,7 @@ if (this.document.login.pass.value == password) {
   top.location.href="projects.html";
 }
 else {
-  window.alert("Incorrect password, please try again or if you forget, contact with <a href="www.facebook.com/mahmud128"> HR MahmuD.</a>");
+  window.alert("Incorrect password, please try again.");
   }
 }
 

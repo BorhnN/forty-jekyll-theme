@@ -57,13 +57,15 @@ https://templatemo.com/tm-535-softy-pinko
     
     <body>
     
-  <br><br><br><br>
+    
+      <!-- ***** Welcome Area Start ***** -->
+    <div class="welcome-area" id="welcome">
 
-
-
-
-
-<div style="text-align: center; margin: 0 auto; color: #0000FF; font: normal 13px arial, sans-serif;">
+        <!-- ***** Header Text Start ***** -->
+        <div class="header-text">
+            <div class="container">
+                <div class="row">
+                   <div style="text-align: center; margin: 0 auto; color: #0000FF; font: normal 13px arial, sans-serif;">
 Enter your password:<br>
 <form name="login" style="margin: 5px 0px 0px 0px;">
 <input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 130px;"><br>
@@ -73,6 +75,20 @@ Enter your password:<br>
 Password = pepper
 
 </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- ***** Header Text End ***** -->
+    </div>
+    <!-- ***** Welcome Area End ***** -->
+    
+  <br><br><br><br>
+
+
+
+
+
 
 
 

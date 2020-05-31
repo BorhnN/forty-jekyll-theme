@@ -68,12 +68,12 @@ https://templatemo.com/tm-535-softy-pinko
                    <div style="text-align: left; margin: 0 auto; ">
 <h1><strong> Enter Your Password:</strong></h1> 
 <form name="login" style="margin: 5px 0px 0px 0px; ">
-<input type="text" name="pass" size="17" placeholder="Password" onkeydown="if(event.keyCode==13) return false;" style="width: 40%; box-sizing: border-box; border: 2px solid blue; border-radius: 4px; background-color: #FFFFFF;  background-position: 10px 10px; "><br>
+<input type="text" name="pass" size="17" placeholder="Password" onkeydown="if(event.keyCode==13) return false;" style="width: 40%; box-sizing: border-box; border: 2px solid blue; border-radius: 5px; background-color: #FFFFFF;  background-position: 10px 10px; "><br>
 <input type="button" value="Click to Login" style="width: 180px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">
 </form>
 <br><br>
 <p> &#9632; If you don't know or forget Password then go to messeage option of your phone & type: "Get Password" < space > "Name" < space > "Designation in Researchsio" and send it to +880152 14 32 666. </p>
-    <br> <p style="text-align:left;"> &#9632; Designation means your role in Researchsio e.g. "Founding Member" , " Member" or "Reviewer" etc. </p>
+    <br> <p style="text-align:left;"> &#9632; Designation means your role in Researchsio e.g. Founding Member ,  Member or Reviewer etc. </p>
 
 </div>
 

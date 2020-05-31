@@ -25,8 +25,12 @@ show_tile: false
 function TheLogin() {
 
 var password = 'Researcher';
+var password1 = 'User2020';
 
 if (this.document.login.pass.value == password) {
+  top.location.href="Projects.html";
+}
+else if (this.document.login.pass.value == password1) {
   top.location.href="Projects.html";
 }
 else {

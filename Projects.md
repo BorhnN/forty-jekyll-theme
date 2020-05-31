@@ -30,6 +30,23 @@ https://templatemo.com/tm-535-softy-pinko
 
     <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">
     
+    <script type="text/javascript">
+// PASSWORD PROTECTION SCRIPT
+
+function TheLogin() {
+
+var password = 'researcher';
+
+if (this.document.login.pass.value == password) {
+  top.location.href="P Antibiotic.html";
+}
+else {
+  window.alert("Incorrect password, please Contact with HR MahmuD for password. Cell: 01521432666.");
+  }
+}
+
+</script>
+
     </head>
     
     <body>
@@ -76,6 +93,17 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </header>
     <!-- ***** Header Area End ***** -->
+
+
+<div style="text-align: center; margin: 0 auto; color: #0000FF; font: normal 13px arial, sans-serif;">
+Enter your password:<br>
+<form name="login" style="margin: 5px 0px 0px 0px;">
+<input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) event.keyCode=9;" style="width: 130px;"><br>
+<input type="button" value="Click to Login" style="width: 134px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">
+</form>
+</div>
+
+
 
     <!-- ***** Welcome Area Start ***** -->
     <div class="welcome-area" id="welcome">

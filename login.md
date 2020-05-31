@@ -1,3 +1,12 @@
+---
+layout: projects
+title: Log In
+description: 'Projects'
+nav-menu: true
+show_tile: false
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,10 +22,10 @@
 
 function TheLogin() {
 
-var password = 'pepper';
+var password = 'Researcher';
 
 if (this.document.login.pass.value == password) {
-  top.location.href="correct.html";
+  top.location.href="projects.html";
 }
 else {
   window.alert("Incorrect password, please try again.");

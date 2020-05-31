@@ -25,6 +25,7 @@ show_tile: false
 function TheLogin() {
 
 var password = 'Researcher';
+var password = 'admin';
 
 if (this.document.login.pass.value == password) {
   top.location.href="Projects.html";

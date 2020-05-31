@@ -65,10 +65,10 @@ https://templatemo.com/tm-535-softy-pinko
         <div class="header-text">
             <div class="container">
                 <div class="row">
-                   <div style="text-align: center; margin: 0 auto; ">
+                   <div style="text-align: left; margin: 0 auto; ">
 <h1><strong> Enter Your Password:</strong></h1> 
 <form name="login" style="margin: 5px 0px 0px 0px; ">
-<input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 50%; box-sizing: border-box; border: 2px solid blue; border-radius: 4px; background-color: #FFFFFF; align: center;"><br>
+<input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 50%; box-sizing: border-box; border: 2px solid blue; border-radius: 4px; background-color: #FFFFFF;"><br>
 <input type="button" value="Click to Login" style="width: 180px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">
 </form>
 <br><br>

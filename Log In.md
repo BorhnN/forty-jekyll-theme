@@ -72,7 +72,7 @@ https://templatemo.com/tm-535-softy-pinko
 <input type="button" value="Click to Login" style="width: 140px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">
 </form>
 
-<p> If you don't know or forget Password then go to messeage option of your phone & type: "Get Password"--space--"Name"--space--"Role in Researchsio" and send it to +880152 14 32 666 </p>
+<p> If you don't know or forget Password then go to messeage option of your phone & type: "Get Password" < space >"Name"< space >"Role in Researchsio" and send it to +880152 14 32 666 </p>
 
 </div>
 

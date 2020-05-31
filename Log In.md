@@ -2,7 +2,7 @@
 layout: Log In
 title: Log In
 description: 'Log In'
-nav-menu: true
+nav-menu: false
 show_tile: false
 
 ---
@@ -65,8 +65,8 @@ https://templatemo.com/tm-535-softy-pinko
         <div class="header-text">
             <div class="container">
                 <div class="row">
-                   <div style="text-align: center; margin: 0 auto; color: #0000FF; font: normal 13px arial, sans-serif;">
-Enter your password:<br>
+                   <div style="text-align: center; margin: 0 auto; ">
+<h1><strong>Enter your password:</strong></h1><br>
 <form name="login" style="margin: 5px 0px 0px 0px;">
 <input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 130px;"><br>
 <input type="button" value="Click to Login" style="width: 134px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">

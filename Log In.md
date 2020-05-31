@@ -43,8 +43,6 @@ else if (this.document.login.pass.value == roman) {
 else if (this.document.login.pass.value == mahmud) {
   top.location.href="Projects.html";
 }
-else if (this.document.login.pass.value == tohfa) {
-  top.location.href="Projects.html";
 else {
   window.alert("Incorrect password, please try again or contact with HR MahmuD.");
   }

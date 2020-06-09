@@ -27,7 +27,7 @@ function TheLogin() {
 var password = 'User2020';
 var ceo = '@salmanceo';
 var mahmud = 'Admin128';
-var roman = '@roman97';
+var founder = '@founder2020';
 var tohfa = '@tohfa630';
 
 
@@ -37,7 +37,7 @@ if (this.document.login.pass.value == password) {
 else if (this.document.login.pass.value == ceo) {
   top.location.href="Projects protected secured page done by html with researchsio.html";
 }
-else if (this.document.login.pass.value == roman) {
+else if (this.document.login.pass.value == founder) {
   top.location.href="Projects protected secured page done by html with researchsio.html";
 }
 else if (this.document.login.pass.value == tohfa) {

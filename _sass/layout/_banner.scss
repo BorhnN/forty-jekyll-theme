@@ -22,7 +22,7 @@
 		max-height: 32em;
 		min-height: 22em;
 		position: relative;
-		top: -2.25em;
+		top: -5.25em;
 
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');

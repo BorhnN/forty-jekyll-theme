@@ -5,6 +5,18 @@ description: 'Know about us'
 nav-menu: false
 show_tile: false
 ---
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+    {% include head.html %}
+
+    <body>
+    
  <!-- Content -->
 <html lang="en">
   
@@ -151,3 +163,6 @@ https://templatemo.com/tm-535-softy-pinko
   </body>
 </html>
 
+</body>
+
+</html>

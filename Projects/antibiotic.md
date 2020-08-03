@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: P Antibiotic
 title: Proj. Antibiotic
 description: 'Know about us'
 nav-menu: false

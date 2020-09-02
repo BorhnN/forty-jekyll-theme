@@ -420,7 +420,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Blank.jpg" alt="" class="rounded-cornersone"></i>
+                            <i><img src="assets/images/Founders/t.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Redwan Mahmud<br> &#8226; B.Pharm (MIU)<br> &#8226; Assistant Documentation Supervisor<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
@@ -429,7 +429,7 @@ https://templatemo.com/tm-535-softy-pinko
                                  <h3 class="user-name"><a href="https://www.facebook.com/Pharmacist.Redwan">Follow on</a></h3>
                                 <span><a href="https://www.facebook.com/Pharmacist.Redwan">Facebook</a></span>
                             </div>
-                        </div>
+                        </div> 
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->

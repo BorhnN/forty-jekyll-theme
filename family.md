@@ -526,13 +526,12 @@ https://templatemo.com/tm-535-softy-pinko
 			
 				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank"> <font color="white">Hamidur Rahman MahmuD</font></a></li>
 				<li><font color="black">Website is Under-development.</font></li>
+				
+				
 
-			</ul>
-    <br>
-    <br>
-
-			</div>
-			</footer>
+			      </ul>
+  			</div>
+		</footer>
 
 		
 	

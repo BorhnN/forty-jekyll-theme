@@ -138,6 +138,7 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Features Small End ***** -->
+    
 <!-- ***** Features Big Item Start ***** -->
     <section class="section padding-top-70 padding-bottom-0" id="features">
         <div class="container">
@@ -444,6 +445,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
             </div>
         </div>
+	</div>
     </section>
     <!-- ***** Blog End ***** -->
    
@@ -475,12 +477,10 @@ https://templatemo.com/tm-535-softy-pinko
 			      <br><br> <a href="#" class="main-button">Second Session Members</a>
                             </div>
                         </div>
-		</div>
-		
+			</div>
+		</section>
                 <!-- ***** Pricing Item End ***** -->
-	 </div>
-    </div>
-</section>
+	
     <!-- ***** Pricing Plans End ***** -->
    
     <!-- Footer -->

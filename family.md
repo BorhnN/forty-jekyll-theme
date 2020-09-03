@@ -449,6 +449,7 @@ https://templatemo.com/tm-535-softy-pinko
    
 
     <!-- ***** Pricing Plans Start ***** -->
+    <body>
     <section class="section colored" id="pricing-plans">
         <div class="container">
 	
@@ -464,7 +465,6 @@ https://templatemo.com/tm-535-softy-pinko
                         <p>Members are the heart of Researchsio.</p>
                     </div>
                 </div> 
-		</section>
             <!-- ***** Section Title End ***** -->
 	    
 	   <!-- ***** Pricing Item Start ***** -->
@@ -476,11 +476,13 @@ https://templatemo.com/tm-535-softy-pinko
                             </div>
                         </div>
 		</div>
+		</body>
                 <!-- ***** Pricing Item End ***** -->
 	
     <!-- ***** Pricing Plans End ***** -->
    
     <!-- Footer -->
+    <footer>
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">

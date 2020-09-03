@@ -476,7 +476,7 @@ https://templatemo.com/tm-535-softy-pinko
                             </div>
                         </div>
 		</div>
-		</body>
+		
                 <!-- ***** Pricing Item End ***** -->
 	
     <!-- ***** Pricing Plans End ***** -->
@@ -533,7 +533,7 @@ https://templatemo.com/tm-535-softy-pinko
 			
 		</div>
 		
-	</footer>
+	
 
 <!-- Scripts -->
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
@@ -559,3 +559,4 @@ https://templatemo.com/tm-535-softy-pinko
     
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
+    </footer>

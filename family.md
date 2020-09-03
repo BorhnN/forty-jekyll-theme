@@ -346,6 +346,10 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
+		</div>
+        </div>
+    </section>
+    <!-- ***** Testimonials End ***** -->
     
     <!-- ***** Blog Start ***** -->
     <section class="section" id="blog">
@@ -439,13 +443,10 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="text">
                             We are in a process of adding more skilled Reviewers, Researchers and Project coordinators. Stay with us!
                             </div>
-
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-	</div>
     </section>
     <!-- ***** Blog End ***** -->
    

@@ -534,14 +534,14 @@ https://templatemo.com/tm-535-softy-pinko
 		</div>
 	</footer>
 	
-<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
-<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
-<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
-<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
-<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
-<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
-
+<!-- Scripts -->
+	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
+	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
     
     <!-- jQuery -->
     <script src="assets/js/jquery-2.1.0.min.js"></script>
@@ -559,3 +559,5 @@ https://templatemo.com/tm-535-softy-pinko
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
    
+</body>
+</html>

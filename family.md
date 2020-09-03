@@ -519,6 +519,8 @@ https://templatemo.com/tm-535-softy-pinko
 				
 			</ul>
 			
+			
+			
 			<ul class="copyright">
 				<li><font color="black">&copy; {{ site.title }} {{ site.subtitle }} 2020</font></li>
 			
@@ -529,8 +531,9 @@ https://templatemo.com/tm-535-softy-pinko
     <br>
     <br>
 
-			
-		</div>
+			</div>
+			</footer>
+
 		
 	
 

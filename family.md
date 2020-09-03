@@ -104,7 +104,7 @@ https://templatemo.com/tm-535-softy-pinko
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
                                 <h5 class="features-title">Founding Members</h5>
-                                <p>We have highly potential founding member with whom members work.</p>
+                                <p>We have highly potential Founding Members to connvey the work and Projects.</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -116,7 +116,7 @@ https://templatemo.com/tm-535-softy-pinko
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
                                 <h5 class="features-title">Review Pannel</h5>
-                                <p>Review pannel consisted of highly skilled teachers who will review your work</p>
+                                <p>Review pannel consisted of highly skilled Teachers and Researchers who will review and instruct your work</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -188,23 +188,6 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Gajjali.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
-                            <p>Alif Ahmed Gazzalee<br> &#8226; M.Pharm (JNU, APU), B.Pharm (MIU)<br> &#8226; Organizing Advisor</p>
-                            <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
-                            </div>
-                            <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/alifahmed.gazzalee">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/alifahmed.gazzalee">Facebook</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Nusaibatoon Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Supervisor<br> &#8226; Researcher</p>
                             <div class="user-image">
@@ -219,24 +202,77 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 		
-		
-                <!-- ***** Testimonials Item Start ***** -->
+				 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Azad1.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Muhammod Azad<br> &#8226; M. Pharm (SUB),B.Pharm (MIU) <br> &#8226; Organizing Advisor<br> </p>
+                            <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
+                            <p>Mahfuzur Rahman Zilan<br> &#8226; M.Pharm (SUB),  B.Pharm (MIU)<br> &#8226; Documentation Supervisor<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.facebook.com/Mohammod.azad">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/Mohammod.azad">Facebook</a></span>
+                                <h3 class="user-name"><a href="https://www.facebook.com/profile.php?id=100011295008789">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/profile.php?id=100011295008789">Facebook</a></span>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
+		<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
+                            <p>Hamidur Rahman Mahmud<br> &#8226; B.Pharm (MIU)<br> &#8226; Technical & IT Manager<br> &#8226; Researcher</p>
+                            <div class="user-image">
+                                <img src="assets/icons/fb 1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                 <h3 class="user-name"><a href="https://www.facebook.com/mahmud128">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/mahmud128">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+	                    <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
+                            <p>Motasim Billah Sakib<br> &#8226; M.Pharm (JNU), B.Pharm (MIU)<br> &#8226; Creative Manager<br> &#8226; Researcher</p>
+                            <div class="user-image">
+                                <img src="assets/icons/fb 1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/pugnacious.sak">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+	    <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Gajjali.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
+                            <p>Alif Ahmed Gazzalee<br> &#8226; M.Pharm (JNU, APU), B.Pharm (MIU)<br> &#8226; Organizing Advisor</p>
+                            <div class="user-image">
+                                <img src="assets/icons/fb 1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                 <h3 class="user-name"><a href="https://www.facebook.com/alifahmed.gazzalee">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/alifahmed.gazzalee">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+               
 		
 		<!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
@@ -255,66 +291,6 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
-		
-		
-		
-		 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Mahfuzur Rahman Zilan<br> &#8226; M.Pharm (SUB),  B.Pharm (MIU)<br> &#8226; Documentation Supervisor<br> &#8226; Researcher</p>
-                            <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
-                            </div>
-                            <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.facebook.com/profile.php?id=100011295008789">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/profile.php?id=100011295008789">Facebook</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		
-		
-                <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Motasim Billah Sakib<br> &#8226; M.Pharm (JNU), B.Pharm (MIU)<br> &#8226; Creative Manager<br> &#8226; Researcher</p>
-                            <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
-                            </div>
-                            <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.facebook.com/pugnacious.sak">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/pugnacious.sak">Facebook</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		
-		  <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Hamidur Rahman Mahmud<br> &#8226; B.Pharm (MIU)<br> &#8226; Technical & IT Manager<br> &#8226; Researcher</p>
-                            <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
-                            </div>
-                            <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/mahmud128">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/mahmud128">Facebook</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		
-		
-                
 		
 		 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 80px over 0.6s after 0.4s">
@@ -337,6 +313,41 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Testimonials End ***** -->
+    
+     <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/Azad1.jpg" alt="" class="rounded-cornersone"></i>
+                            <p>Muhammod Azad<br> &#8226; M. Pharm (SUB),B.Pharm (MIU) <br> &#8226; Organizing Advisor<br> </p>
+                            <div class="user-image">
+                                <img src="assets/icons/fb 1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name"><a href="https://www.facebook.com/Mohammod.azad">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/Mohammod.azad">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		 <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/Founders/blank" alt="" class="rounded-cornersone"></i>
+                            <p>Suborna Mahazabin <br> &#8226; Resource Management & Enterprenureship (College of Home Economics) <br> &#8226; Financial Manager <br> </p>
+                            <div class="user-image">
+                                <img src="assets/icons/fb 1.png" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name"><a href="https://www.facebook.com/profile.php?id=100007182915377">Follow on</a></h3>
+                                <span><a href="https://www.facebook.com/profile.php?id=100007182915377">Facebook</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
     
     <!-- ***** Blog Start ***** -->
     <section class="section" id="blog">

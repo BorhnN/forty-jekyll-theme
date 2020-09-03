@@ -446,6 +446,7 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Blog End ***** -->
+    <div class="row">
 
     <!-- ***** Pricing Plans Start ***** -->
     <section class="section colored" id="pricing-plans">
@@ -465,7 +466,7 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title End ***** -->
 	    
 	   <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                <a href="first session Coming Soon.html" class="main-button">First Session Members</a>

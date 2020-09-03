@@ -452,7 +452,6 @@ https://templatemo.com/tm-535-softy-pinko
    
 
     <!-- ***** Pricing Plans Start ***** -->
-    <body>
     <section class="section colored" id="pricing-plans">
         <div class="container">
 	
@@ -479,10 +478,12 @@ https://templatemo.com/tm-535-softy-pinko
                             </div>
                         </div>
 			</div>
-		</section>
                 <!-- ***** Pricing Item End ***** -->
-	
+	</div>
+        </div>
+    </section>
     <!-- ***** Pricing Plans End ***** -->
+
    
     <!-- Footer -->
     <footer>

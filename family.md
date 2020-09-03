@@ -483,18 +483,7 @@ https://templatemo.com/tm-535-softy-pinko
     <br>
     <br>
     <br>
-    
-    
-    </body>
-    
-    </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-  <!-- Footer -->
+    <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
@@ -532,13 +521,13 @@ https://templatemo.com/tm-535-softy-pinko
 			<ul class="copyright">
 				<li><font color="black">&copy; {{ site.title }} {{ site.subtitle }} 2020</font></li>
 			
-				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank"><font color="white"> Hamidur Rahman MahmuD</font></a></li>
-				
+				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank"> <font color="white">Hamidur Rahman MahmuD</font></a></li>
+				<li><font color="black">Website is Under-development.</font></li>
 
 			</ul>
 		</div>
 	</footer>
-	
+
 <!-- Scripts -->
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
@@ -550,7 +539,7 @@ https://templatemo.com/tm-535-softy-pinko
     
     <!-- jQuery -->
     <script src="assets/js/jquery-2.1.0.min.js"></script>
-  
+
     <!-- Bootstrap -->
     <script src="assets/js/popper.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
@@ -563,4 +552,6 @@ https://templatemo.com/tm-535-softy-pinko
     
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
-   
+
+  </body>
+</html>

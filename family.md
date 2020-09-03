@@ -202,7 +202,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 		
-				 <!-- ***** Testimonials Item Start ***** -->
+		<!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
@@ -219,6 +219,7 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
+		
 		<!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
@@ -236,7 +237,8 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
-	                    <!-- ***** Testimonials Item Start ***** -->
+	       
+	       <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
@@ -307,11 +309,8 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
-            </div>
-        </div>
-    <!-- ***** Testimonials End ***** -->
     
-     <!-- ***** Testimonials Item Start ***** -->
+                <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
@@ -329,7 +328,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
               
-	      <!-- ***** Testimonials Item Start ***** -->
+	       <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">

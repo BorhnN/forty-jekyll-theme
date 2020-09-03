@@ -528,8 +528,7 @@ https://templatemo.com/tm-535-softy-pinko
 			</ul>
     <br>
     <br>
-    <br>
-    <br>
+
 			
 		</div>
 		

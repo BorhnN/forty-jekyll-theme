@@ -483,12 +483,6 @@ https://templatemo.com/tm-535-softy-pinko
     <br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    
   <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
@@ -559,5 +553,3 @@ https://templatemo.com/tm-535-softy-pinko
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
    
-</body>
-</html>

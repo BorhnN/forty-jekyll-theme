@@ -310,8 +310,9 @@ https://templatemo.com/tm-535-softy-pinko
             </div>
         </div>
     <!-- ***** Testimonials End ***** -->
+    
      <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Azad1.jpg" alt="" class="rounded-cornersone"></i>
@@ -329,7 +330,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
               
 	      <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/blank" alt="" class="rounded-cornersone"></i>

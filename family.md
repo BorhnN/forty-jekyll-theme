@@ -483,12 +483,17 @@ https://templatemo.com/tm-535-softy-pinko
     <br>
     <br>
     <br>
-    </body>
-    <dv>
     
-    <dv>
-    <dv>
-    <dv>
+    
+    </body>
+    
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
   <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">

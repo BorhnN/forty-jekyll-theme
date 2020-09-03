@@ -517,7 +517,9 @@ https://templatemo.com/tm-535-softy-pinko
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
+				
 			</ul>
+			
 			<ul class="copyright">
 				<li><font color="black">&copy; {{ site.title }} {{ site.subtitle }} 2020</font></li>
 			
@@ -525,7 +527,9 @@ https://templatemo.com/tm-535-softy-pinko
 				<li><font color="black">Website is Under-development.</font></li>
 
 			</ul>
+			
 		</div>
+		
 	</footer>
 
 <!-- Scripts -->

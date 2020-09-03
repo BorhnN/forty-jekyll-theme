@@ -527,6 +527,10 @@ https://templatemo.com/tm-535-softy-pinko
 				<li><font color="black">Website is Under-development.</font></li>
 
 			</ul>
+    <br>
+    <br>
+    <br>
+    <br>
 			
 		</div>
 		

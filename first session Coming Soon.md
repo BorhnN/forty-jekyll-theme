@@ -69,7 +69,7 @@ show_tile: false
 
 			
 				<div class="box">
-	<a class="button" href="https://forms.gle/Xz3Efmmxzs6rUcy37">Apply For Membership</a>
+	<a class="button" href="https://forms.gle/V2cLUrmEMiAyEo4aA">Apply For Membership</a>
 </div>
 
 <div id="popup1" class="overlay">

@@ -28,6 +28,11 @@ show_tile: false
 </thead>
 <tbody>
 <tr>
+<td>5. ID Card Making     .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>5 September, 2020</td>
+<td><a href="assets/notice/ID Card Making.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
+</tr>
+<tr>
 <td>4. Project Approvement on Stem Cell     .<neon contenteditable spellcheck="false">  New  </neon>   </td>
 <td>17 April, 2020</td>
 <td><a href="assets/notice/Notice 6.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>

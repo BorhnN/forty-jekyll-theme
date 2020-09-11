@@ -42,7 +42,7 @@ show_tile: false
 
 			<p class="m2-txt1 txt-center p-b-48">
 				Our Member Recruitment For First Session is suspended indefinitly due to CORONA outbreak.
-				<br> <br> In the meantime, you can apply for membership, we will contact with you when our recruitment process will be started. Take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details.  <br> <br> Expected Resuming date is 1<sup>st</sup> September. 
+				<br> <br> In the meantime, you can apply for membership, we will contact with you when our recruitment process will be started. Take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details.  <br> <br> Expected Resuming date is 15<sup>th</sup> September. 
 			</p>
 
 			<div class="flex-w flex-c-m cd100 p-b-33">

@@ -333,7 +333,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/blank" alt="" class="rounded-cornersone"></i>
+                            <i><img src="assets/images/Founders/Mahazabin.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Suborna Mahazabin <br> &#8226; Resource Management & Enterprenureship (College of Home Economics) <br> &#8226; Financial Manager <br> </p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">

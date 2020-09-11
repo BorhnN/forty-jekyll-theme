@@ -106,10 +106,10 @@ show_tile: false
 			/*Endtime must be > current time*/
 			endtimeYear: 2020,
 			endtimeMonth: 9,
-			endtimeDate: 01,
-			endtimeHours: 00,
-			endtimeMinutes: 0,
-			endtimeSeconds: 0,
+			endtimeDate: 14,
+			endtimeHours: 23,
+			endtimeMinutes: 59,
+			endtimeSeconds: 59,
 			timeZone: "Asia/Dhaka" 
 			// ex:  timeZone: "America/New_York"
 			//go to " http://momentjs.com/timezone/ " to get timezone

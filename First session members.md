@@ -1,8 +1,8 @@
 ---
 layout: Recruitment
-title: ...
+title: ....
 description: 'First Session members'
-nav-menu: True
+nav-menu: false
 show_tile: false
 ---
     

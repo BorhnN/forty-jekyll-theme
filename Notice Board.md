@@ -28,7 +28,12 @@ show_tile: false
 </thead>
 <tbody>
 <tr>
-<td>5. ID Card Making     .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>6.  Resuming Member Collection Session    .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>15 September, 2020</td>
+<td><a href="assets/notice/Notice 08 Resuming member collection.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
+</tr>
+<tr>
+<td>5. ID Card Making </td>
 <td>5 September, 2020</td>
 <td><a href="assets/notice/ID Card Making.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
 </tr>

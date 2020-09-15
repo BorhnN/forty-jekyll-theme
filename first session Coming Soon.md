@@ -38,11 +38,10 @@ show_tile: false
 		<div class="size1 flex-col-c-m p-l-15 p-r-15 p-t-50 p-b-50">
 			<h3 class="l1-txt1 txt-center p-b-25">
 				Recruitment is going on!
-				<br>From 16<sup>th</sup> September to 24<sup>th</sup> September.
 			</h3>
 
 			<p class="m2-txt1 txt-center p-b-48">
-				Our Member Recruitment For First Session has STARTED!.
+				Our Member Recruitment for First Session has STARTED!.
 				<br> <br> You can apply for membership in online, we will contact with you after receiving your online form. You can also apply filling up the form physically by contacting with us. Take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details.  <br> <br> Recruitment period is from 16<sup>th</sup> September to 24<sup>th</sup> September. 
 			</p>
 
@@ -107,7 +106,7 @@ show_tile: false
 			/*Endtime must be > current time*/
 			endtimeYear: 2020,
 			endtimeMonth: 9,
-			endtimeDate: 14,
+			endtimeDate: 24,
 			endtimeHours: 23,
 			endtimeMinutes: 59,
 			endtimeSeconds: 59,

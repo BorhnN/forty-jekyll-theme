@@ -190,7 +190,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Nusaibatoon Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Supervisor<br> &#8226; Researcher</p>
+                            <p>Nusaibatoon Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
                             </div>
@@ -208,7 +208,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Mahfuzur Rahman Zilan<br> &#8226; M.Pharm (SUB),  B.Pharm (MIU)<br> &#8226; Documentation Supervisor<br> &#8226; Researcher</p>
+                            <p>Mahfuzur Rahman Zilan<br> &#8226; M.Pharm (SUB),  B.Pharm (MIU)<br> &#8226; Documentation Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
                             </div>
@@ -293,23 +293,6 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 		
-		 <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/Founders/t.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Redwan Mahmud<br> &#8226; B.Pharm (MIU)<br> &#8226; Assistant Documentation Supervisor<br> &#8226; Researcher</p>
-                            <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
-                            </div>
-                            <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/Pharmacist.Redwan">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/Pharmacist.Redwan">Facebook</a></span>
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
     
                 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">

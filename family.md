@@ -282,11 +282,11 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Nishan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
                             <p>Nishan Chakrabarty<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
                             <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
+                                <img src="assets/images/ResearchGate Logo.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/NR3RAJU">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/NR3RAJU">Facebook</a></span>
+                                <span><a href="https://www.researchgate.net/profile/Nishan_Chakrabarty">ResearchGate</a></span>
                             </div>
                         </div>
                     </div>

@@ -152,7 +152,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">MD. Salman Faisal</h2>
                     </div>
                     <div class="left-text">
-                        <p>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br>&#8226;B.Pharm (MIU)<br> &#8226;Follow on- <br>   <a href="researchgate.net/profile/Md_Faisal18"><img src="assets/images/ResearchGate Logo.png" height="30" width="50" class="rounded-cornersone" alt="ResearchGate Logo"></a></p>
+                        <p>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br>&#8226;B.Pharm (MIU)<br> &#8226;Follow on- <br>   <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/images/ResearchGate Logo.png" height="30" width="50" class="rounded-cornersone" alt="ResearchGate Logo"></a></p>
 
                     </div>
                 </div>
@@ -190,7 +190,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Nusaibatoon Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Manager<br> &#8226; Researcher</p>
+                            <p>Nuosaibaton Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
                                 <img src="assets/icons/fb 1.png" alt="">
                             </div>

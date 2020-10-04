@@ -196,7 +196,7 @@ https://templatemo.com/tm-535-softy-pinko
                             </div>
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/nmtohfa">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/nmtohfa">Facebook</a></span>
+                                <span><a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa">ResearchGate</a></span>
                             </div>
                         </div>
                     </div>
@@ -210,7 +210,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Mahfuzur Rahman Zilan<br> &#8226; M.Pharm (SUB),  B.Pharm (MIU)<br> &#8226; Documentation Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
+                                <img src="assets/images/ResearchGate Logo.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/profile.php?id=100011295008789">Follow on</a></h3>

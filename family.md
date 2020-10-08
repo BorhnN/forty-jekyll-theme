@@ -152,7 +152,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">MD. Salman Faisal</h2>
                     </div>
                     <div class="left-text">
-                        <p>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br>&#8226;B.Pharm (MIU)<br> &#8226;Follow on- <br>   <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/icons/Researchgate.png" height="45" width="45" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="https://www.linkedin.com/in/researchsio-salman-faisal"><img src="assets/icons/in.png" height="45" width="45" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
+                        <p>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br>&#8226;B.Pharm (MIU)<br> &#8226;Follow on- <br>   <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/icons/Researchgate.png" height="55" width="55" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="https://www.linkedin.com/in/researchsio-salman-faisal"><img src="assets/icons/in.png" height="55" width="55" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
 
                     </div>
                 </div>
@@ -192,7 +192,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Nuosaibaton Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Manager<br> &#8226; Researcher</p>
 			    <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">Follow On</a></h3> </span>
+                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
                             </div>
                             <div class="user-image">
                                 <a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa"> <img src="assets/icons/Researchgate.png" alt=""> </a>
@@ -229,13 +229,16 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="team-content">
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Hamidur Rahman Mahmud<br> &#8226; B.Pharm (MIU)<br> &#8226; Technical & IT Manager<br> &#8226; Researcher</p>
-                            <div class="user-image">
-                                <img src="assets/images/Researchgate.png" alt="">
-                            </div>
                             <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/mahmud128">Follow on</a></h3>
-                                <span><a href="https://www.researchgate.net/profile/Hamidur_Rahman7">ResearchGate</a></span>
+                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
                             </div>
+                            <div class="user-image">
+                                <a href="https://www.researchgate.net/profile/Hamidur_Rahman7"> <img src="assets/icons/Researchgate.png" alt=""> </a>
+                            </div>
+			    <div class="user-image">
+			        <a href="https://www.linkedin.com/in/"> <img src="assets/icons/in.png" alt=""></a>
+		            </div>
+
                         </div>
                     </div>
                 </div>
@@ -247,13 +250,15 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Motasim Billah Sakib<br> &#8226; M.Pharm (JNU), B.Pharm (MIU)<br> &#8226; Creative Manager<br> &#8226; Researcher</p>
-                            <div class="user-image">
-                                <img src="assets/icons/in.png" alt="">
-                            </div>
                             <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.linkedin.com/in/motasim-billah-sakib-33b47b126/">Follow on</a></h3>
-                                <span><a href="https://www.linkedin.com/in/motasim-billah-sakib-33b47b126/">LinkedIn</a></span>
+                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
                             </div>
+                            <div class="user-image">
+                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
+                            </div>
+			    <div class="user-image">
+			        <a href="https://www.linkedin.com/in/motasim-billah-sakib-33b47b126/"> <img src="assets/icons/in.png" alt=""></a>
+		            </div>
                         </div>
                     </div>
                 </div>
@@ -265,13 +270,15 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Gajjali.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
                             <p>Alif Ahmed Gazzalee<br> &#8226; M.Pharm (JNU, APU), B.Pharm (MIU)<br> &#8226; Organizing Advisor</p>
-                            <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
-                            </div>
                             <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.facebook.com/alifahmed.gazzalee">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/alifahmed.gazzalee">Facebook</a></span>
+                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
                             </div>
+                            <div class="user-image">
+                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
+                            </div>
+			    <div class="user-image">
+			        <a href="https://www.linkedin.com"> <img src="assets/icons/in.png" alt=""></a>
+		            </div>
                         </div>
                     </div>
                 </div>
@@ -283,13 +290,15 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Nishan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
                             <p>Nishan Chakrabarty<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
-                            <div class="user-image">
-                                <img src="assets/icons/Researchgate.png" alt="">
-                            </div>
                             <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.facebook.com/NR3RAJU">Follow on</a></h3>
-                                <span><a href="https://www.researchgate.net/profile/Nishan_Chakrabarty">ResearchGate</a></span>
+                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
                             </div>
+                            <div class="user-image">
+                                <a href="https://www.researchgate.net/profile/Nishan_Chakrabarty"> <img src="assets/icons/Researchgate.png" alt=""> </a>
+                            </div>
+			    <div class="user-image">
+			        <a href="https://www.linkedin.com/in/nishan-chakrabarty-542b03120/"> <img src="assets/icons/in.png" alt=""></a>
+		            </div>
                         </div>
                     </div>
                 </div>
@@ -302,13 +311,15 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Azad1.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Md. Golam Nobi<br> &#8226; M. Pharm (SUB),B.Pharm (MIU) <br> &#8226; Organizing Advisor<br> </p>
-                            <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
-                            </div>
                             <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.facebook.com/Mohammod.azad">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/Mohammod.azad">Facebook</a></span>
+                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
                             </div>
+                            <div class="user-image">
+                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
+                            </div>
+			    <div class="user-image">
+			        <a href="https://www.linkedin.com"> <img src="assets/icons/in.png" alt=""></a>
+		            </div>
                         </div>
                     </div>
                 </div>
@@ -320,13 +331,15 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Mahazabin.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Suborna Mahazabin <br> &#8226; Resource Management & Enterprenureship (College of Home Economics) <br> &#8226; Financial Manager <br> </p>
-                            <div class="user-image">
-                                <img src="assets/icons/in.png" alt="">
-                            </div>
                             <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.linkedin.com/in/suborna-mahazabin-b95536125/">Follow on</a></h3>
-                                <span><a href="https://www.linkedin.com/in/suborna-mahazabin-b95536125/">LinkedIn</a></span>
+                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
                             </div>
+                            <div class="user-image">
+                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
+                            </div>
+			    <div class="user-image">
+			        <a href="https://www.linkedin.com/in/suborna-mahazabin-b95536125/"> <img src="assets/icons/in.png" alt=""></a>
+		            </div>
                         </div>
                     </div>
                 </div>

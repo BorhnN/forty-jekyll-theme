@@ -178,7 +178,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p>Let's get familiar with our Founding Members.</p>
+                        <p>Founding Members are the Official Body Of Researchsio. Let's get familiar with our Founding Members.</p>
                     </div>
                 </div>
             </div>
@@ -198,7 +198,7 @@ https://templatemo.com/tm-535-softy-pinko
 			         <img src="assets/icons/in.png" alt="">
 		            </div>
                             <div class="team-info">
-                                 <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">LinkedIn</a></h3>
+                                 <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">LinkedIn</a></h3> </span>
                                 <span><a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa">ResearchGate</a></span>
                             </div>
                         </div>

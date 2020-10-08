@@ -198,7 +198,8 @@ https://templatemo.com/tm-535-softy-pinko
 			         <img src="assets/icons/in.png" alt="">
 		            </div>
                             <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">LinkedIn</a></h3> </span>
+                                 <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">Follow On</a></h3> </span>
+				 <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">LinkedIn</a></h3> </span>
                                 <a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa">ResearchGate</a>
                             </div>
                         </div>
@@ -285,7 +286,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Nishan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
                             <p>Nishan Chakrabarty<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
                             <div class="user-image">
-                                <img src="assets/images/Researchgate.png" alt="">
+                                <img src="assets/icons/Researchgate.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/NR3RAJU">Follow on</a></h3>

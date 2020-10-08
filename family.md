@@ -192,14 +192,14 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Nuosaibaton Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
-                                <img src="assets/images/ResearchGate Logo.png" alt=""> 
+                                <img src="assets/icons/Researchgate.png" alt=""> 
                             </div>
 			    <div class="user-image">
 			         <img src="assets/icons/in.png" alt="">
 		            </div>
                             <div class="team-info">
                                  <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">LinkedIn</a></h3> </span>
-                                <span><a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa">ResearchGate</a></span>
+                                <a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa">ResearchGate</a>
                             </div>
                         </div>
                     </div>
@@ -231,7 +231,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Hamidur Rahman Mahmud<br> &#8226; B.Pharm (MIU)<br> &#8226; Technical & IT Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
-                                <img src="assets/images/ResearchGate Logo.png" alt="">
+                                <img src="assets/images/Researchgate.png" alt="">
                             </div>
                             <div class="team-info">
                                  <h3 class="user-name"><a href="https://www.facebook.com/mahmud128">Follow on</a></h3>
@@ -285,7 +285,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Nishan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
                             <p>Nishan Chakrabarty<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
                             <div class="user-image">
-                                <img src="assets/images/ResearchGate Logo.png" alt="">
+                                <img src="assets/images/Researchgate.png" alt="">
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name"><a href="https://www.facebook.com/NR3RAJU">Follow on</a></h3>

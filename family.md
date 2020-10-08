@@ -191,17 +191,15 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Nuosaibaton Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Manager<br> &#8226; Researcher</p>
+			    <div class="team-info">
+                                 <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">Follow On</a></h3> </span>
+                            </div>
                             <div class="user-image">
                                 <a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa"> <img src="assets/icons/Researchgate.png" alt=""> </a>
                             </div>
 			    <div class="user-image">
 			        <a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/"> <img src="assets/icons/in.png" alt=""></a>
 		            </div>
-                            <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">Follow On</a></h3> </span>
-				 <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">LinkedIn</a></h3> </span>
-                                <a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa">ResearchGate</a>
-                            </div>
                         </div>
                     </div>
                 </div>

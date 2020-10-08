@@ -149,10 +149,10 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="left-heading">
-                        <h2 class="section-title">MD. Salman Faisal</h2><br>B.Pharm (MIU)
+                        <h2 class="section-title">MD. Salman Faisal</h2>B.Pharm (MIU)
                     </div>
                     <div class="left-text">
-                        <p>&#8226;Founder & CEO <br>&#8226;Researchsio. <br>&#8226;B.Pharm (MIU)<br><br> Follow on- <br>   <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/icons/Researchgate.png" height="55" width="55" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="https://www.linkedin.com/in/researchsio-salman-faisal"><img src="assets/icons/in.png" height="55" width="55" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
+                        <p>&#8226;Founder & CEO <br>&#8226;Researchsio. <br><br> Follow on- <br> <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/icons/Researchgate.png" height="55" width="55" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="https://www.linkedin.com/in/researchsio-salman-faisal"><img src="assets/icons/in.png" height="55" width="55" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
 
                     </div>
                 </div>

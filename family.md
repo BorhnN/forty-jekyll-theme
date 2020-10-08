@@ -149,10 +149,10 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="left-heading">
-                        <h2 class="section-title">MD. Salman Faisal</h2>
+                        <h2 class="section-title">MD. Salman Faisal</h2> <br>B.Pharm (MIU)
                     </div>
                     <div class="left-text">
-                        <p>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br>&#8226;B.Pharm (MIU)<br> &#8226;Follow on- <br>   <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/icons/Researchgate.png" height="55" width="55" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="https://www.linkedin.com/in/researchsio-salman-faisal"><img src="assets/icons/in.png" height="55" width="55" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
+                        <p>&#8226;<h3>Founder & CEO</h3><br>&#8226;Researchsio. <br>&#8226;B.Pharm (MIU)<br><br> Follow on- <br>   <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/icons/Researchgate.png" height="55" width="55" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="https://www.linkedin.com/in/researchsio-salman-faisal"><img src="assets/icons/in.png" height="55" width="55" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
 
                     </div>
                 </div>
@@ -211,13 +211,15 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Mahfuzur Rahman Zilan<br> &#8226; M.Pharm (SUB),  B.Pharm (MIU)<br> &#8226; Documentation Manager<br> &#8226; Researcher</p>
-                            <div class="user-image">
-                                <img src="assets/icons/fb 1.png" alt="">
-                            </div>
                             <div class="team-info">
-                                <h3 class="user-name"><a href="https://www.facebook.com/profile.php?id=100011295008789">Follow on</a></h3>
-                                <span><a href="https://www.facebook.com/profile.php?id=100011295008789">Facebook</a></span>
+                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
                             </div>
+                            <div class="user-image">
+                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
+                            </div>
+			    <div class="user-image">
+			        <a href="https://www.linkedin.com"> <img src="assets/icons/in.png" alt=""></a>
+		            </div>
                         </div>
                     </div>
                 </div>

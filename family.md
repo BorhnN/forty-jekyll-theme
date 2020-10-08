@@ -152,7 +152,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">MD. Salman Faisal</h2>
                     </div>
                     <div class="left-text">
-                        <p>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br>&#8226;B.Pharm (MIU)<br> &#8226;Follow on- <br>   <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/images/ResearchGate Logo.png" height="35" width="35" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="https://www.linkedin.com/in/researchsio-salman-faisal"><img src="assets/icons/in.png" height="40" width="40" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
+                        <p>&#8226;Founder & CEO,<br>&#8226;Researchsio. <br>&#8226;B.Pharm (MIU)<br> &#8226;Follow on- <br>   <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/icons/Researchgate.png" height="45" width="45" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="https://www.linkedin.com/in/researchsio-salman-faisal"><img src="assets/icons/in.png" height="45" width="45" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
 
                     </div>
                 </div>
@@ -192,10 +192,10 @@ https://templatemo.com/tm-535-softy-pinko
                             <i><img src="assets/images/Founders/Tohfa.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Nuosaibaton Morsheda Tohfa<br> &#8226; B.Pharm (MIU)<br> &#8226; Communication Manager<br> &#8226; Researcher</p>
                             <div class="user-image">
-                                <img src="assets/icons/Researchgate.png" alt=""> 
+                                <a href="https://www.researchgate.net/profile/Nosaibaton_Morsheda_Tohfa"> <img src="assets/icons/Researchgate.png" alt=""> </a>
                             </div>
 			    <div class="user-image">
-			         <img src="assets/icons/in.png" alt="">
+			        <a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/"> <img src="assets/icons/in.png" alt=""></a>
 		            </div>
                             <div class="team-info">
                                  <span> <h3 class="user-name"><a href="https://www.linkedin.com/in/nosaibaton-morsheda-tohfa-94b8a9179/">Follow On</a></h3> </span>

@@ -209,7 +209,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Zilan.JPG" alt="" class="rounded-cornersone"></i>
+                            <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
                             <p>Mahfuzur Rahman Zilan<br> &#8226; M.Pharm (SUB),  B.Pharm (MIU)<br> &#8226; Documentation Manager<br> &#8226; Researcher</p>
                             <div class="team-info">
                                  <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>

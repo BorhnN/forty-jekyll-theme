@@ -1,5 +1,5 @@
 ---
-layout: family
+layout: First session members
 title: First Session Member
 description: 'Our members'
 nav-menu: false

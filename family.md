@@ -470,6 +470,8 @@ https://templatemo.com/tm-535-softy-pinko
                 </div> 
             <!-- ***** Section Title End ***** -->
 	    
+	    
+	    
 	   <!-- ***** Pricing Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                         <div class="pricing-body">
@@ -479,6 +481,21 @@ https://templatemo.com/tm-535-softy-pinko
                             </div>
                         </div>
 			</div>
+			
+			<!--Call your modal-->
+    <a id="demo01" href="#animatedModal">DEMO01</a>
+
+    <!--DEMO01-->
+    <div id="animatedModal">
+        <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID  class="close-animatedModal" -->
+        <div class="close-animatedModal"> 
+            CLOSE MODAL
+        </div>
+            
+        <div class="modal-content">
+                  <!--Your modal content goes here-->
+        </div>
+    </div>
                 <!-- ***** Pricing Item End ***** -->
 	</div>
         </div>
@@ -550,8 +567,13 @@ https://templatemo.com/tm-535-softy-pinko
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
     
+     $("#demo01").animatedModal();
+    
     <!-- jQuery -->
     <script src="assets/js/jquery-2.1.0.min.js"></script>
+     
+     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="js/animatedModal.min.js"></script>
 
     <!-- Bootstrap -->
     <script src="assets/js/popper.js"></script>

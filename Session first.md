@@ -3,6 +3,7 @@ layout: Session first
 title: Researchsio Members
 description: 'Our First Session Members'
 nav-menu: false
+show_tile: false
 ---
     
   <!-- Content -->

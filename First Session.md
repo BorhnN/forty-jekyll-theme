@@ -1,8 +1,8 @@
 ---
-layout: First session members
-title: First Session Member
+layout:First session members
+title:First Session Member
 description: 'Our members'
-nav-menu: false
+nav-menu:false
 ---
     
   <!-- Content -->

@@ -483,17 +483,19 @@ https://templatemo.com/tm-535-softy-pinko
 			</div>
 			
 			<!--Call your modal-->
-    <a id="demo01" href="#animatedModal">DEMO01</a>
+    <a id="demo01" href="#animatedModal">First Session member</a>
 
     <!--DEMO01-->
     <div id="animatedModal">
         <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID  class="close-animatedModal" -->
         <div class="close-animatedModal"> 
-            CLOSE MODAL
+            
         </div>
             
         <div class="modal-content">
                   <!--Your modal content goes here-->
+		   <a href="first session Coming Soon.html" class="main-button">First Session Members</a>
+		  
         </div>
     </div>
                 <!-- ***** Pricing Item End ***** -->

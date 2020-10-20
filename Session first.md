@@ -81,7 +81,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-                        <h1>We have a good number of <strong>potential members</strong><br>and highly skilled <strong>Review Pannel</strong></h1>
+                        <h1>Our <strong>First Session Members</strong></h1>
                     </div>
                 </div>
             </div>
@@ -104,7 +104,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p>Founding Members are the Official Body Of Researchsio. Let's get familiar with our Founding Members.</p>
+                        <p> Members are the heart of Researchsio. Let get familiar with our Members who get themselves engaged with us in first session.</p>
                     </div>
                 </div>
             </div>

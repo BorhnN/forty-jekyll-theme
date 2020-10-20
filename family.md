@@ -567,7 +567,9 @@ https://templatemo.com/tm-535-softy-pinko
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
     
-     $("#demo01").animatedModal();
+     <script>
+  $("#demo01").animatedModal();
+</script>
     
     <!-- jQuery -->
     <script src="assets/js/jquery-2.1.0.min.js"></script>

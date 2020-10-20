@@ -2,7 +2,7 @@
 layout: First session
 title: Researchsio Members
 description: 'Our First Session Members'
-nav-menu: true
+nav-menu: false
 ---
     
   <!-- Content -->

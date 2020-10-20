@@ -82,6 +82,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                         <h1>Our <strong>First Session Members</strong></h1>
+			<p> Members are the heart of Researchsio. Let get familiar with our Members who get themselves engaged with us in first session.</p>
                     </div>
                 </div>
             </div>
@@ -99,12 +100,12 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <h2 class="section-title">First Session Members</h2>
+                        <h2 class="section-title"> </h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p> Members are the heart of Researchsio. Let get familiar with our Members who get themselves engaged with us in first session.</p>
+                        <p>  </p>
                     </div>
                 </div>
             </div>
@@ -174,17 +175,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Nishan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
-                            <p>Nishan Chakrabarty<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
-                            <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
-                            </div>
-                            <div class="user-image">
-                                <a href="https://www.researchgate.net/profile/Nishan_Chakrabarty"> <img src="assets/icons/Researchgate.png" alt=""> </a>
-                            </div>
-			    <div class="user-image">
-			        <a href="https://www.linkedin.com/in/nishan-chakrabarty-542b03120/"> <img src="assets/icons/in.png" alt=""></a>
-		            </div>
+                            <i><img src="assets/images/members/first session/6.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
+                            
                         </div>
                     </div>
                 </div>
@@ -195,17 +187,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Azad1.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Md. Golam Nobi<br> &#8226; M. Pharm (SUB),B.Pharm (MIU) <br> &#8226; Organizing Advisor<br> </p>
-                            <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
-                            </div>
-                            <div class="user-image">
-                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
-                            </div>
-			    <div class="user-image">
-			        <a href="https://www.linkedin.com"> <img src="assets/icons/in.png" alt=""></a>
-		            </div>
+                            <i><img src="assets/images/members/first session/7.jpg" alt="" class="rounded-cornersone"></i>
+                            
                         </div>
                     </div>
                 </div>
@@ -215,21 +198,116 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Mahazabin.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Suborna Mahazabin <br> &#8226; Resource Management & Enterprenureship (College of Home Economics) <br> &#8226; Financial Manager <br> </p>
-                            <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
-                            </div>
-                            <div class="user-image">
-                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
-                            </div>
-			    <div class="user-image">
-			        <a href="https://www.linkedin.com/in/suborna-mahazabin-b95536125/"> <img src="assets/icons/in.png" alt=""></a>
-		            </div>
+                            <i><img src="assets/images/members/first session/8.jpg" alt="" class="rounded-cornersone"></i>
+                           
                         </div>
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
+		
+		<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/first session/9.jpg" alt="" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+		<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/first session/10.jpg" alt="" class="rounded-cornersone"></i>
+                            
+
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+	       
+	       <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/first session/11.jpg" alt="" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+	    <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/first session/12.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+		<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/first session/13.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/first session/14.jpg" alt="" class="rounded-cornersone"></i>
+                           
+			    
+                            
+			    
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+		<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/first session/15.jpg" alt="" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+		<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/first session/16.jpg" alt="" class="rounded-cornersone"></i>
+                            
+
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+	       
+	       <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/first session/17.jpg" alt="" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
 		</div>
         </div>
     </section>

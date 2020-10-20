@@ -129,17 +129,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Zilan.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Mahfuzur Rahman Zilan<br> &#8226; M.Pharm (SUB),  B.Pharm (MIU)<br> &#8226; Documentation Manager<br> &#8226; Researcher</p>
-                            <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
-                            </div>
-                            <div class="user-image">
-                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
-                            </div>
-			    <div class="user-image">
-			        <a href="https://www.linkedin.com"> <img src="assets/icons/in.png" alt=""></a>
-		            </div>
+                            <i><img src="assets/images/members/first session/2.jpg" alt="" class="rounded-cornersone"></i>
+                            
                         </div>
                     </div>
                 </div>
@@ -149,17 +140,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/MahmuD.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Hamidur Rahman Mahmud<br> &#8226; B.Pharm (MIU)<br> &#8226; Technical & IT Manager<br> &#8226; Researcher</p>
-                            <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
-                            </div>
-                            <div class="user-image">
-                                <a href="https://www.researchgate.net/profile/Hamidur_Rahman7"> <img src="assets/icons/Researchgate.png" alt=""> </a>
-                            </div>
-			    <div class="user-image">
-			        <a href="https://www.linkedin.com/in/"> <img src="assets/icons/in.png" alt=""></a>
-		            </div>
+                            <i><img src="assets/images/members/first session/3.jpg" alt="" class="rounded-cornersone"></i>
+                            
 
                         </div>
                     </div>
@@ -170,17 +152,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Sakib.jpg" alt="" class="rounded-cornersone"></i>
-                            <p>Motasim Billah Sakib<br> &#8226; M.Pharm (JNU), B.Pharm (MIU)<br> &#8226; Creative Manager<br> &#8226; Researcher</p>
-                            <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
-                            </div>
-                            <div class="user-image">
-                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
-                            </div>
-			    <div class="user-image">
-			        <a href="https://www.linkedin.com/in/motasim-billah-sakib-33b47b126/"> <img src="assets/icons/in.png" alt=""></a>
-		            </div>
+                            <i><img src="assets/images/members/first session/4.jpg" alt="" class="rounded-cornersone"></i>
+                            
                         </div>
                     </div>
                 </div>
@@ -190,17 +163,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/Founders/Gajjali.JPG" alt="Gazzalee" class="rounded-cornersone"></i>
-                            <p>Alif Ahmed Gazzalee<br> &#8226; M.Pharm (JNU, APU), B.Pharm (MIU)<br> &#8226; Organizing Advisor</p>
-                            <div class="team-info">
-                                 <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
-                            </div>
-                            <div class="user-image">
-                                <a href="https://www.researchgate.net"> <img src="assets/icons/Researchgate.png" alt=""> </a>
-                            </div>
-			    <div class="user-image">
-			        <a href="https://www.linkedin.com"> <img src="assets/icons/in.png" alt=""></a>
-		            </div>
+                            <i><img src="assets/images/members/first session/5.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
+                            
                         </div>
                     </div>
                 </div>

@@ -41,8 +41,8 @@ show_tile: false
 			</h3>
 
 			<p class="m2-txt1 txt-center p-b-48">
-				Our Member Recruitment for First Session has STARTED!.
-				<br> <br> You can apply for membership in online, we will contact with you after receiving your online form. You can also apply filling up the form physically by contacting with us. Take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details.  <br> <br> Recruitment period is from 16<sup>th</sup> September to 24<sup>th</sup> September. 
+				Our Member Recruitment for Second Session will start soon!.
+				<br> <br> In the meantime, you can apply for membership in online, we will contact with you after receiving your online form. Take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details.  <br> <br> Possible date for second session recruitment is 15<sup>th</sup> November. 
 			</p>
 
 			<div class="flex-w flex-c-m cd100 p-b-33">
@@ -105,8 +105,8 @@ show_tile: false
 			/*Set Endtime here*/
 			/*Endtime must be > current time*/
 			endtimeYear: 2020,
-			endtimeMonth: 9,
-			endtimeDate: 24,
+			endtimeMonth: 11,
+			endtimeDate: 14,
 			endtimeHours: 23,
 			endtimeMinutes: 59,
 			endtimeSeconds: 59,

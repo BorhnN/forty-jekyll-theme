@@ -156,20 +156,7 @@ https://templatemo.com/tm-535-softy-pinko
       <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">
         <div class="container">
-            <!-- ***** Section Title Start ***** -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <h2 class="section-title"></h2>
-                    </div>
-                </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p>   </p>
-                    </div>
-                </div>
-            </div>
-            <!-- ***** Section Title End ***** -->
+            
 	    
             <div class="row">
 	    <!-- ***** Testimonials Item Start ***** -->

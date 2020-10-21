@@ -97,18 +97,12 @@ https://templatemo.com/tm-535-softy-pinko
     <section class="section" id="testimonials">
         <div class="container">
             <!-- ***** Section Title Start ***** -->
-            <div class="row">
+             <div class="row">
                 <div class="col-lg-12">
-                    <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <h2 class="section-title"> Campus Ambassador </h2>
+                    <div class="left-heading">
+                        <h2 text-align= "Left" class="section-title">Campus Ambassador</h2>
                     </div>
                 </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p>   </p>
-                    </div>
-                </div>
-            </div>
             <!-- ***** Section Title End ***** -->
 	    
 	    <div class="row">
@@ -430,7 +424,7 @@ https://templatemo.com/tm-535-softy-pinko
 				<li><font color="black">&copy; {{ site.title }} {{ site.subtitle }} 2020</font></li>
 			
 				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank"> <font color="white">Hamidur Rahman MahmuD</font></a></li>
-				<li><font color="black">Website is Under-development.</font></li>
+				
 				
 				
 

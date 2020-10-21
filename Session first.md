@@ -103,6 +103,8 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 text-align= "Left" class="section-title">Campus Ambassador</h2>
                     </div>
                 </div>
+		</div>
+		</div>
             <!-- ***** Section Title End ***** -->
 	    
 	    <div class="row">

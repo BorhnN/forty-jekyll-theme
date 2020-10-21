@@ -324,20 +324,16 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">Our Members</h2>
+                        <h2 class="section-title">Wanna join with us?</h2>
                     </div>
                 </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text">
-                        <p>Members are the heart of Researchsio.</p>
-                    </div>
-                </div> 
+                
             <!-- ***** Section Title End ***** -->
 	    
 	    
 	    
 	   <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                <div text-align= "center" class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                <a href="first session Coming Soon.html" class="main-button">Be a Member of Us</a>

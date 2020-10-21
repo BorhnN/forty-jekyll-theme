@@ -313,105 +313,7 @@ https://templatemo.com/tm-535-softy-pinko
     </section>
     <!-- ***** Testimonials End ***** -->
     
-    <!-- ***** Blog Start ***** -->
-    <section class="section" id="blog">
-        <div class="container">
-            <!-- ***** Section Title Start ***** -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <h2 class="section-title">Review Pannel</h2>
-                    </div>
-                </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p>Our respected highly skilled Reviewer:</p>
-                    </div>
-                </div>
-            </div>
-            <!-- ***** Section Title End ***** -->
-
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <div class="blog-post-thumb">
-                        <div class="img">
-                            <img src="assets/images/teachers/Rikta-Banu.jpg" alt="Rikta Banu">
-                        </div>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="#">Mst. Rikta Banu</a>
-                            </h3>
-                            <div class="text">
-                             Lecturer at Manarat International University. Department of Pharmacy. <p align="left">Reviewer on-<br>&#8226; Biopharmaceutics<br>&#8226;Pharmaceutical technology.</p> 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                    <div class="blog-post-thumb">
-                        <div class="img">
-                            <img src="assets/images/teachers/Shafayet.jpg" alt="Shafayet">
-                        </div>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="#">Md. Shafayat Ahmed Siddiqui </a>
-                            </h3>
-                            <div class="text">
-                            Lecturer at Manarat International University. Department of Pharmacy. <p align="left">Reviewer on-<br>&#8226; Biotechnology.<br>&#8226;Genomics.<br>&#8226;Biochemistry and Molecular Biology. <br>&#8226;Theoretical and Computational Chemistry </p>
-                            </div> 
-                        </div>
-                    </div>
-                </div> 
-		<div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.4s">
-                    <div class="blog-post-thumb">
-                        <div class="img">
-                            <img src="assets/images/teachers/tamim.jpg" alt="Wahab">
-                        </div>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="#">Abrar Wahab </a>
-                            </h3>
-                            <div class="text">
-                                Masters in Public Health <br>Evaluation and Research Officer<br> Shornokishoree Network Foundation <p align="left">Area of expertise are: <br>&#8226; Epidemiology. <br>&#8226;Mental Health. <br>&#8226;Internet Addiction. <br>&#8226;Sleep Disturbance. <br>&#8226;Antibiotic Resistance <br>&#8226;Adolescent Health. <br>&#8226;Nutrition </p>
-                            </div> 
-                        </div>
-                    </div>
-                </div> 
-		 
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                    <div class="blog-post-thumb">
-                        <div class="img">
-                            <img src="assets/images/teachers/Roy.JPG" alt="Proshanto">
-                        </div>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="#">Proshanta Roy </a>
-                            </h3>
-                            <div class="text">
-                            Phd research fellow (Neuroscience) <br>Department of Public Health and experimental medicine <br>University of Camerino, Italy<p align="left">Reviewer on-<br>&#8226; Biotechnology.<br>&#8226;Neuroscience.<br>&#8226;Immunology. </p>
-                            </div> 
-                        </div>
-                    </div>
-                </div> 
-		<div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                    <div class="blog-post-thumb">
-                        <div class="img">
-                            <img src="assets/icons/coming Soon 1.png" alt="Coming Soon!">
-                        </div>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="#"> More Qualified Individuals will be added shortly!</a>
-                            </h3>
-                            <div class="text">
-                            We are in a process of adding more skilled Reviewers, Researchers and Project coordinators. Stay with us!
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-	    </div>
-    </section>
-    <!-- ***** Blog End ***** -->
+    
    
 
     <!-- ***** Pricing Plans Start ***** -->
@@ -438,8 +340,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                         <div class="pricing-body">
                             <div class="price-wrapper">
-                               <a href="first session Coming Soon.html" class="main-button">First Session Members</a>
-			      <br><br> <a href="#" class="main-button">Second Session Members</a>
+                               <a href="first session Coming Soon.html" class="main-button">Be a Member of Us</a>
                             </div>
                         </div>
 			</div>

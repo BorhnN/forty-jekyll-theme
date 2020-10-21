@@ -99,7 +99,7 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="Center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                         <h2 class="section-title"> Campus Ambassador </h2>
                     </div>
                 </div>

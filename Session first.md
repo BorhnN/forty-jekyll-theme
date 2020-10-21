@@ -114,16 +114,7 @@ https://templatemo.com/tm-535-softy-pinko
     <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">
         <div class="container">
-            <!-- ***** Section Title Start ***** -->
-             <div class="row">
-                <div class="col-lg-12">
-                    <div class="left-heading">
-                        <h2 text-align= "Left" class="section-title">Campus Ambassador</h2>
-                    </div>
-                </div>
-		</div>
-		
-            <!-- ***** Section Title End ***** -->
+            
 	    
 	    <div class="row">
 	    <!-- ***** Testimonials Item Start ***** -->

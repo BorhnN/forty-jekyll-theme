@@ -28,6 +28,16 @@ show_tile: false
 </thead>
 <tbody>
 <tr>
+<td>8.Trainer, Membership and Camp. Ambassador Approval    .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>20 October, 2020</td>
+<td><a href="assets/notice/Notice no. 08.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
+</tr>
+<tr>
+<td>7. Acknowledgement of Review Panel Members addition    .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>20 October, 2020</td>
+<td><a href="assets/notice/Notice no. 7.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
+</tr>
+<tr>
 <td>6.  Resuming Member Collection Session    .<neon contenteditable spellcheck="false">  New  </neon>   </td>
 <td>15 September, 2020</td>
 <td><a href="assets/notice/Notice 08 Resuming member collection.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>

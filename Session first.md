@@ -323,8 +323,8 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="center-heading">
-                        <h2 class="section-title">Wanna join with us?</h2>
+                    <div class="left-heading">
+                        <h2 text-align= "Left" class="section-title">Wanna join with us?</h2>
                     </div>
                 </div>
                 

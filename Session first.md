@@ -99,7 +99,7 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-sm-6">
-                    <div style="height:50px" class="left-heading">
+                    <div style="height:20px" class="left-heading">
                         <h2 text-align= "Left" class="section-title">Campus Ambassador</h2>
                     </div>
                 </div>

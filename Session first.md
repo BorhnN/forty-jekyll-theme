@@ -104,7 +104,7 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
 		</div>
-		</div>
+		
             <!-- ***** Section Title End ***** -->
 	    
 	    <div class="row">

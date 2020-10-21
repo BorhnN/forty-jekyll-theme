@@ -56,10 +56,9 @@ https://templatemo.com/tm-535-softy-pinko
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li><a href="#features">Founder</a></li>
-                            <li><a href="#testimonials">Founding Members</a></li>
-                            <li><a href="#blog">Review Pannel</a></li>
-                            <li><a href="#pricing-plans">Members</a></li>
+                            <li><a href="https://researchsio.com/What%20we%20do%201.html">| What We Do |</a></li>
+                            <li><a href="https://researchsio.com/family.html">| Researchsio Family |</a></li>
+                            <li><a href="https://researchsio.com//Notice%20Board.html">| Notice |</a></li>
 			    
                         </ul>
                         <a class='menu-trigger'>
@@ -99,7 +98,7 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-sm-6">
-                    <div style="height:20px" class="left-heading">
+                    <div style="height="50px"" class="left-heading">
                         <h2 text-align= "Left" class="section-title">Campus Ambassador</h2>
                     </div>
                 </div>

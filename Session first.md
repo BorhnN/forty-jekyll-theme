@@ -135,6 +135,23 @@ https://templatemo.com/tm-535-softy-pinko
     </section>
     <!-- ***** Testimonials End ***** -->
     
+     <!-- ***** Pricing Plans Start ***** -->
+    <section class="section colored" id="pricing-plans">
+        <div class="container">
+	
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="left-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                        <h2 text-align= "Left" class="section-title">Members</h2>
+                    </div>
+                </div>
+                
+            <!-- ***** Section Title End ***** -->
+	    </div>
+        </div>
+    </section>
+    <!-- ***** Pricing Plans End ***** -->
     
       <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">
@@ -143,7 +160,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <h2 class="section-title">Members</h2>
+                        <h2 class="section-title"></h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">

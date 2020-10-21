@@ -82,7 +82,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                         <h1>Our <strong>First Session Members</strong></h1>
-			<p> Members are the heart of Researchsio. Let get familiar with our Members who get themselves engaged with us in first session.</p>
+			<p> Members are the heart of Researchsio. Let get familiar with our Members and Campus Ambassador who get themselves engaged with us in first session.</p>
                     </div>
                 </div>
             </div>

@@ -93,7 +93,7 @@ https://templatemo.com/tm-535-softy-pinko
     
  
 	    
-  <!-- ***** Testimonials Start ***** -->
+ <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">
         <div class="container">
             <!-- ***** Section Title Start ***** -->
@@ -103,7 +103,12 @@ https://templatemo.com/tm-535-softy-pinko
                        <a href="#" class="main-button-gray">Campus Ambassador</a>
                     </div>
                 </div>
-	</div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                        <p>  </p>
+                    </div>
+                </div>
+            </div>
             <!-- ***** Section Title End ***** -->
 	    
 	    <div class="row">
@@ -139,11 +144,6 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
             </div>
             <!-- ***** Section Title End ***** -->
-    
-      <!-- ***** Testimonials Start ***** -->
-    <section class="section" id="testimonials">
-        <div class="container">
-            
 	    
             <div class="row">
 	    <!-- ***** Testimonials Item Start ***** -->

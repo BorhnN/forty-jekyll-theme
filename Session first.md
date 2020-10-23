@@ -317,7 +317,7 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <div class="left-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                        <a href="#" class="main-button-gray">Campus Ambassador</a>
                     </div>
                 </div>

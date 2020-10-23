@@ -103,6 +103,7 @@ https://templatemo.com/tm-535-softy-pinko
                        <a href="#" class="main-button-gray">Members</a>
                     </div>
                 </div>
+	</div>
             <!-- ***** Section Title End ***** -->
 	    
 	    <div class="row">
@@ -128,7 +129,8 @@ https://templatemo.com/tm-535-softy-pinko
      <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">
         <div class="container">
-            <!-- ***** Section Title Start ***** -->
+            
+	    <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
@@ -136,7 +138,6 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
             </div>
-	     </div>
             <!-- ***** Section Title End ***** -->
     
       <!-- ***** Testimonials Start ***** -->
@@ -360,7 +361,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 text-align= "Left" class="section-title">Wanna join with us?</h2>
                     </div>
                 </div>
-                
+                 </div>
             <!-- ***** Section Title End ***** -->
 	    
 	    

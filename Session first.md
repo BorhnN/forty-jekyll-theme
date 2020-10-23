@@ -134,23 +134,19 @@ https://templatemo.com/tm-535-softy-pinko
     </section>
     <!-- ***** Testimonials End ***** -->
     
-     <!-- ***** Pricing Plans Start ***** -->
-    <section class="section colored" id="pricing-plans">
+    
+     <!-- ***** Testimonials Start ***** -->
+    <section class="section" id="testimonials">
         <div class="container">
-	
             <!-- ***** Section Title Start ***** -->
             <div class="row">
-                <div class="col-sm-6">
-                    <div class="left-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <a href="#" class="main-button-gray">Campus Amabassador</a>
+                <div class="col-lg-12">
+                    <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                       <a href="#" class="main-button-gray">Members</a>
                     </div>
                 </div>
-                
+            </div>
             <!-- ***** Section Title End ***** -->
-	    </div>
-        </div>
-    </section>
-    <!-- ***** Pricing Plans End ***** -->
     
       <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">

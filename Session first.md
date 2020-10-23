@@ -105,7 +105,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p>  </p>
+                        <p> <br> </p>
                     </div>
                 </div>
             </div>
@@ -134,12 +134,16 @@ https://templatemo.com/tm-535-softy-pinko
      <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">
         <div class="container">
-            
-	    <!-- ***** Section Title Start ***** -->
+            <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                        <a href="#" class="main-button-gray">Members</a>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                        <p> <br> </p>
                     </div>
                 </div>
             </div>
@@ -350,39 +354,33 @@ https://templatemo.com/tm-535-softy-pinko
     
    
 
-    <!-- ***** Pricing Plans Start ***** -->
+  <!-- ***** Pricing Plans Start ***** -->
     <section class="section colored" id="pricing-plans">
         <div class="container">
 	
             <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="center-heading">
-                        <h2 class="section-title">Our Members</h2>
+                    <div class="left-heading">
+                        <h2 text-align= "Left" class="section-title">Wanna join with us?</h2>
                     </div>
                 </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text">
-                        <p>Members are the heart of Researchsio.</p>
-                    </div>
-                </div> 
             <!-- ***** Section Title End ***** -->
 	    
 	    
 	    
 	   <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                <div text-align= "center" class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                         <div class="pricing-body">
                             <div class="price-wrapper">
-                               <a href="Session first.html" class="main-button">First Session Members</a>
-			      <br><br> <a href="first session Coming Soon.html" class="main-button">Second Session Recruitment</a>
+                               <a href="first session Coming Soon.html" class="main-button">Be a Member of Us</a>
                             </div>
                         </div>
 			</div>
 			
                 <!-- ***** Pricing Item End ***** -->
-	</div>
         </div>
+	 </div>
     </section>
     <!-- ***** Pricing Plans End ***** -->
 

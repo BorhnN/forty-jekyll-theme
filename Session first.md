@@ -361,7 +361,6 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 text-align= "Left" class="section-title">Wanna join with us?</h2>
                     </div>
                 </div>
-                 </div>
             <!-- ***** Section Title End ***** -->
 	    
 	    
@@ -377,6 +376,7 @@ https://templatemo.com/tm-535-softy-pinko
 			
                 <!-- ***** Pricing Item End ***** -->
         </div>
+	 </div>
     </section>
     <!-- ***** Pricing Plans End ***** -->
 

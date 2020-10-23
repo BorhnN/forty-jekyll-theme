@@ -376,7 +376,6 @@ https://templatemo.com/tm-535-softy-pinko
 			</div>
 			
                 <!-- ***** Pricing Item End ***** -->
-	</div>
         </div>
     </section>
     <!-- ***** Pricing Plans End ***** -->

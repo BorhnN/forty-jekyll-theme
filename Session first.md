@@ -142,7 +142,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-sm-6">
                     <div class="left-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <h2 text-align= "Left" class="section-title">Members</h2>
+                        <a href="#" class="main-button-gray">Campus Amabassador</a>
                     </div>
                 </div>
                 

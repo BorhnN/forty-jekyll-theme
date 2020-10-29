@@ -379,7 +379,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Mst. Rikta Banu</a>
                             </h3>
                             <div class="text">
-                             Lecturer at Manarat International University. Department of Pharmacy. <br>Reviewer on- &#8226; Biopharmaceutics &#8226;Pharmaceutical technology. 
+                             Lecturer at Manarat International University. Department of Pharmacy. <br><br>Reviewer on- &#8226; Biopharmaceutics &#8226;Pharmaceutical technology. 
                             </div>
                         </div>
                     </div>
@@ -394,7 +394,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Md. Shafayat Ahmed Siddiqui </a>
                             </h3>
                             <div class="text">
-                            Lecturer at Manarat International University. Department of Pharmacy. <br> Reviewer on- &#8226; Biotechnology. &#8226;Genomics. &#8226;Biochemistry and Molecular Biology.  &#8226;Theoretical and Computational Chemistry.
+                            Lecturer at Manarat International University. Department of Pharmacy. <br><br> Reviewer on- &#8226; Biotechnology. &#8226;Genomics. &#8226;Biochemistry and Molecular Biology.  &#8226;Theoretical and Computational Chemistry.
                             </div> 
                         </div>
                     </div>

@@ -386,6 +386,24 @@ a.main-button-gray:hover {
   background-color: #EAEAEA;
 }
 
+a.main-button-caption {
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 10px;
+  padding: 14px 25px;
+  background-color: #8261ee;
+  text-transform: capitalize;
+  color: #000000;
+  letter-spacing: 0.25px;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+a.main-button-caption:hover {
+  background-color: #ff589e;
+}
 
 /* 
 ---------------------------------------------

@@ -344,7 +344,7 @@ https://templatemo.com/tm-535-softy-pinko
     <!-- ***** Testimonials End ***** -->
     
     <!-- ***** Testimonials Start ***** -->
-    <section class="section" id="testimonials">
+    <section class="section" id="atestimonials">
         <div class="container">
             <!-- ***** Section Title Start ***** -->
             <div class="row">

@@ -425,7 +425,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Proshanta Roy </a>
                             </h3>
                             <div class="text">
-                            Phd research fellow (Neuroscience) <br>Department of Public Health and experimental medicine <br>University of Camerino, Italy<p align="left">Reviewer on-<br>&#8226; Biotechnology.<br>&#8226;Neuroscience.<br>&#8226;Immunology. </p>
+                            Phd research fellow (Neuroscience) <br>Department of Public Health and experimental medicine <br>University of Camerino, Italy <br> Reviewer on- &#8226; Biotechnology. &#8226;Neuroscience. &#8226;Immunology. 
                             </div> 
                         </div>
                     </div>
@@ -441,7 +441,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Proff. Anwar H. Joarder </a>
                             </h3>
                             <div class="text">
-                            Dean, Faculty of Science & Technology <br>NUBT, Khulna.<p align="left">Online Lecturer/Trainer (Researchsio) </p>
+                            Dean, Faculty of Science & Technology <br>NUBT, Khulna. <br><br> Online Lecturer/Trainer (Researchsio)
                             </div> 
                         </div>
                     </div>

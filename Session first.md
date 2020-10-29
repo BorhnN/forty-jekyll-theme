@@ -91,6 +91,34 @@ https://templatemo.com/tm-535-softy-pinko
     <!-- ***** Welcome Area End ***** -->     	    
     
     
+    <!-- ***** Pricing Plans Start ***** -->
+    <section class="section colored" id="pricing-plans">
+        <div class="container">
+	
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="left-heading">
+                        <h2 text-align= "Left" class="section-title">At a Glance: </h2>
+                    </div>
+                </div>
+            <!-- ***** Section Title End ***** -->
+	    
+	    
+	    
+	   <!-- ***** Pricing Item Start ***** -->
+                <div text-align= "center" class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                        <div class="pricing-body">
+                            <div class="price-wrapper">
+                               <a href="#testimonials" class="main-button"> Members </a>
+                            </div>
+                        </div>
+			</div>
+			
+                <!-- ***** Pricing Item End ***** -->
+    
+    
+    
      <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">
         <div class="container">

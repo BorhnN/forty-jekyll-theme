@@ -111,7 +111,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                <a href="#testimonials" class="main-button-caption"> Members </a>
-			       <br><br> <a href="#atestimonials" class="main-button-caption">Campus Ambassador</a>
+			       <br><br><br> <a href="#atestimonials" class="main-button-caption">Campus Ambassador</a>
                             </div>
                         </div>
 			</div>

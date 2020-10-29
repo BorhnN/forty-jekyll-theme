@@ -425,7 +425,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Proshanta Roy </a>
                             </h3>
                             <div class="text">
-                            Phd research fellow (Neuroscience) <br>Department of Public Health and experimental medicine <br>University of Camerino, Italy <br> Reviewer on- &#8226; Biotechnology. &#8226;Neuroscience. &#8226;Immunology. 
+                            Phd research fellow (Neuroscience) <br>Department of Public Health and experimental medicine, University of Camerino, Italy <br><br> Reviewer on- &#8226; Biotechnology. &#8226;Neuroscience. &#8226;Immunology. 
                             </div> 
                         </div>
                     </div>

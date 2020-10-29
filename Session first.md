@@ -110,8 +110,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div text-align= "center" class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                         <div class="pricing-body">
                             <div class="price-wrapper">
-                               <a href="#testimonials" class="main-button"> Members </a>
-			       <br> <a href="#atestimonials" class="main-button">Campus Ambassador</a>
+                               <a href="#testimonials" class="main-button-caption"> Members </a>
+			       <br><br> <a href="#atestimonials" class="main-button-caption">Campus Ambassador</a>
                             </div>
                         </div>
 			</div>

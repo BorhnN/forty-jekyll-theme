@@ -379,7 +379,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Mst. Rikta Banu</a>
                             </h3>
                             <div class="text">
-                             Lecturer at Manarat International University. Department of Pharmacy. <p align="left">Reviewer on-<br>&#8226; Biopharmaceutics<br>&#8226;Pharmaceutical technology.</p> 
+                             Lecturer at Manarat International University. Department of Pharmacy. <br>Reviewer on- &#8226; Biopharmaceutics &#8226;Pharmaceutical technology. 
                             </div>
                         </div>
                     </div>
@@ -394,7 +394,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Md. Shafayat Ahmed Siddiqui </a>
                             </h3>
                             <div class="text">
-                            Lecturer at Manarat International University. Department of Pharmacy. <p align="left">Reviewer on-<br>&#8226; Biotechnology.<br>&#8226;Genomics.<br>&#8226;Biochemistry and Molecular Biology. <br>&#8226;Theoretical and Computational Chemistry </p>
+                            Lecturer at Manarat International University. Department of Pharmacy. <br> Reviewer on- &#8226; Biotechnology. &#8226;Genomics. &#8226;Biochemistry and Molecular Biology.  &#8226;Theoretical and Computational Chemistry.
                             </div> 
                         </div>
                     </div>
@@ -409,7 +409,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Abrar Wahab </a>
                             </h3>
                             <div class="text">
-                                Masters in Public Health <br>Evaluation and Research Officer<br> Shornokishoree Network Foundation <p align="left">Area of expertise are: <br>&#8226; Epidemiology. <br>&#8226;Mental Health. <br>&#8226;Internet Addiction. <br>&#8226;Sleep Disturbance. <br>&#8226;Antibiotic Resistance <br>&#8226;Adolescent Health. <br>&#8226;Nutrition </p>
+                                Masters in Public Health <br>Evaluation and Research Officer<br> Shornokishoree Network Foundation <br><br>Area of expertise are: &#8226; Epidemiology &#8226;Mental Health &#8226;Internet Addiction &#8226;Sleep Disturbance &#8226;Antibiotic Resistance &#8226;Adolescent Health &#8226;Nutrition 
                             </div> 
                         </div>
                     </div>

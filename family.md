@@ -567,7 +567,7 @@ https://templatemo.com/tm-535-softy-pinko
 				<li><font color="black">&copy; {{ site.title }} {{ site.subtitle }} 2020</font></li>
 			
 				<li><font color="black">Developed & maintained by:</font> <a href="http://facebook.com/mahmud128" target="_blank"> <font color="white">Hamidur Rahman MahmuD</font></a></li>
-				<li><font color="black">Website is Under-development.</font></li>
+				
 				
 				
 

@@ -370,7 +370,22 @@ https://templatemo.com/tm-535-softy-pinko
             <!-- ***** Section Title End ***** -->
 
             <div class="row">
-	      
+	      <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/teachers/Anwar.jpg" alt="Anwar">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Prof. Anwar H. Joarder </a>
+                            </h3>
+                            <div class="text">
+                            Dean, Faculty of Science & Technology <br>NUBT, Khulna. <br><br> Online Lecturer/Trainer (Researchsio)
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+
 	      <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -402,7 +417,6 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div> 
 		
-		  <div class="row">
               <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -451,8 +465,7 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div> 
 		
-		
-<div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+		<div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
                             <img src="assets/icons/coming Soon 1.png" alt="Coming Soon!">

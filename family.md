@@ -102,7 +102,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <div class="icon">
                                     <i><img src="assets/images/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title"> <a href="#testimonials">Founding Members</a></h5>
+                                <h5 class="features-title">Founding Members</h5>
                                 <p>We have highly potential Founding Members to connvey the work and Projects.</p>
                             </div>
                         </div>

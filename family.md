@@ -380,7 +380,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Prof. Anwar H. Joarder </a>
                             </h3>
                             <div class="text">
-                            Dean, Faculty of Science & Technology <br>NUBT, Khulna. <br><br> Online Lecturer/Trainer (Researchsio)
+                            Dean, Faculty of Science & Engineering <br>NUBT, Khulna. <br><br> Online Lecturer/Trainer (Researchsio)
                             </div> 
                         </div>
                     </div>

@@ -42,7 +42,7 @@ show_tile: false
 
 			<p class="m2-txt1 txt-center p-b-48">
 				Our Member Recruitment for Second Session will start soon!.
-				<br> <br> In the meantime, you can apply for membership in online, we will contact with you after receiving your online form. Take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details.  <br> <br> Possible date for second session recruitment is 15<sup>th</sup> November. 
+				<br> <br> In the meantime, take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details.  <br> <br> Possible date for second session recruitment is 01<sup>st</sup> December. 
 			</p>
 
 			<div class="flex-w flex-c-m cd100 p-b-33">
@@ -69,7 +69,7 @@ show_tile: false
 
 			
 				<div class="box">
-	<a class="button" href="https://forms.gle/V2cLUrmEMiAyEo4aA">Apply For Membership</a>
+	<a class="button" href="#popup1">Apply For Membership</a>
 </div>
 
 <div id="popup1" class="overlay">
@@ -77,7 +77,7 @@ show_tile: false
 		<h2>Contact Please!</h2><br>
 		<a class="close" href="#">&times;</a>
 		<div class="content">
-			For being a member of first session please contact with:<br><br> <strong> Nusaibatoon Morsheda Tohfa</strong>.<br>Communication Supervisor.<br> Cell. <strong> +8801687 067 630</strong>
+			For being a member of second session please contact with:<br><br> <strong> Nusaibatoon Morsheda Tohfa</strong>.<br>Communication Supervisor.<br> Cell. <strong> +8801687 067 630</strong>
 		</div>
 	</div>
 </div>
@@ -106,7 +106,7 @@ show_tile: false
 			/*Endtime must be > current time*/
 			endtimeYear: 2020,
 			endtimeMonth: 11,
-			endtimeDate: 14,
+			endtimeDate: 30,
 			endtimeHours: 23,
 			endtimeMinutes: 59,
 			endtimeSeconds: 59,

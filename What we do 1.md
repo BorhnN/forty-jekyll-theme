@@ -302,12 +302,12 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">Trainig & Workshop We Offer For You</h2>
+                        <h2 class="section-title">Training & Workshop We Offer For You</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>We offer trainig and workshop to increase your skills on various topics:</p>
+                        <p>We offer training and workshop to increase your skills on various topics:</p>
                     </div>
                 </div>
             </div>
@@ -526,6 +526,48 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Blog End ***** -->
+    
+    <!-- ***** Blog Start ***** -->
+    <section class="section" id="blog">
+        <div class="container">
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="center-heading">
+                        <h2 class="section-title">Ongoing Mentoring ,Training  & Workshop</h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="center-text">
+                        <p>Our ongoing mentoring, training and workshop to increase your skills on various topics:</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ***** Section Title End ***** -->
+
+<div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-01.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#"> Mentoring  of “R” Program </a>
+                            </h3>
+                            <div class="text">
+                              R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
+				</div>
+                            <a href="#" class="main-button">Mentor</a>
+                        </div>
+                    </div>
+                </div>
+</div>
+        </div>
+    </section>
+    <!-- ***** Blog End ***** --> 
+
+    
     <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">
         <div class="container">

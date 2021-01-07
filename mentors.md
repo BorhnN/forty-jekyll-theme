@@ -1,7 +1,7 @@
 ---
 layout: mentors
-title: Mentors
-description: 'Our Mentors’
+title: Researchsio Mentors
+description: 'Our Mentors'
 nav-menu: false
 show_tile: false
 ---
@@ -80,9 +80,9 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-                        <h1>Our <strong>Our Honoruble Mentors</strong></h1>
-			<p>Our experienced and trusted adviser who will advise about project> 
-			<br><br><a href="#testimonials" class="main-button-slider"> Mentors of R programmea</a>   . <a href="#atestimonials" class="main-button-slider">Mentors of R programme</a>
+                        <h1>Our <strong>First Session Members</strong></h1>
+			<p> Members are the heart of Researchsio. Let get familiar with our Members and Campus Ambassador who get themselves engaged with us in first session.</p> 
+			<br><br><a href="#testimonials" class="main-button-slider"> Members </a>   . <a href="#atestimonials" class="main-button-slider">Campus Ambassador</a>
                     </div>
                 </div>
             </div>
@@ -466,4 +466,3 @@ https://templatemo.com/tm-535-softy-pinko
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
     </footer>
-

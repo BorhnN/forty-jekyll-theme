@@ -80,7 +80,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-                        <h1>Our <strong>First Session Members</strong></h1>
+                        <h1>Our <strong>Our Mentors</strong></h1>
 			<p> Our experienced and trusted adviser.</p> 
 			<br><br>
                     </div>
@@ -91,7 +91,40 @@ https://templatemo.com/tm-535-softy-pinko
     </div>
     <!-- ***** Welcome Area End ***** -->     	    
     
-    
+     <!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-top-70 padding-bottom-0" id="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <img src="assets/images/mentors/Tarique.jpg" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                    <div class="left-heading">
+                        <h2 class="section-title">Mentor of "R" Programme</h2>
+                    </div>
+                    <div class="left-text">
+                        <p>Mr. Ahmad Tarique Hasan, a mentor and trainer of Researchcio family.
+He has achieved bachelor's degree in computer science and engineering from International Islamic University, Chittagong.  He is currently the Brand Executive of 'Future Icon'.
+ He has received academic degrees from the university as well as a significant number of trainings from various institutions at home and abroad
+> Front-end web development
+> Graphic Designing and Editing
+ > Certified Cyber Security Specialist
+> Programming (coding)
+ > Digital Marketing
+ > Master in Demand Soft-Skills
+As a mentor,Mr. Ahmad Tariq Hassan will provide guideline to the members of  Researchsio in studying who are interested in working on the subject related to his field.<br><br><a href="#work-process" class="main-button">Our Ongoing Projects</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
     
      <!-- ***** Testimonials Start ***** -->
     <section class="section" id="testimonials">

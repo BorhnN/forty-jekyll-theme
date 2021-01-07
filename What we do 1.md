@@ -58,6 +58,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <li><a href="#features">Work Field</a></li>
                             <li><a href="#blog">Training</a></li>
                             <li><a href="#testimonials"> Upcoming Workshop</a></li>
+			    <li><a href="#ablog"> Ongoing</a></li>
                             <li><a href="#pricing-plans">Book & Software Store</a></li>
 			    
                         </ul>
@@ -528,7 +529,7 @@ https://templatemo.com/tm-535-softy-pinko
     <!-- ***** Blog End ***** -->
     
     <!-- ***** Blog Start ***** -->
-    <section class="section" id="blog">
+    <section class="section" id="ablog">
         <div class="container">
             <!-- ***** Section Title Start ***** -->
             <div class="row">

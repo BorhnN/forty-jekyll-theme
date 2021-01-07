@@ -109,7 +109,6 @@ https://templatemo.com/tm-535-softy-pinko
             </div>
             <!-- ***** Section Title End ***** -->
 	    
-		</div>
         </div>
     </section>
     <!-- ***** Testimonials End ***** -->
@@ -126,7 +125,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="left-heading">
-                        <h2 class="section-title">Mentor of "R" Programme</h2>
+                        <h2 class="section-title">Mr. Ahmad Tarique Hasan</h2>
                     </div>
                     <div class="left-text">
                         <p>Mr. Ahmad Tarique Hasan, a mentor and trainer of Researchcio family.

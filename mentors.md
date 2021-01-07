@@ -1,5 +1,5 @@
 ---
-layout: Session first
+layout: mentors
 title: Mentors
 description: 'Our Mentors’
 nav-menu: false

@@ -100,7 +100,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="Mentor of "R" Programme</h2>
+                        <h2 class="section-title">Mentor of "R" Programme</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">

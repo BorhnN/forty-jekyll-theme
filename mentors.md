@@ -82,7 +82,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                         <h1>Our <strong>First Session Members</strong></h1>
 			<p> Members are the heart of Researchsio. Let get familiar with our Members and Campus Ambassador who get themselves engaged with us in first session.</p> 
-			<br><br><a href="#testimonials" class="main-button-slider"> Members </a>   . <a href="#atestimonials" class="main-button-slider">Campus Ambassador</a>
+			<br><br><a href="#testimonials" class="main-button-slider">Mentors of R Programme </a>   . <a href="#atestimonials" class="main-button-slider">Mentors of Pharmacology Research Programme</a>
                     </div>
                 </div>
             </div>
@@ -100,7 +100,7 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="row">
                 <div class="col-lg-12">
                     <div class="left-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                       <a href="#" class="main-button-gray">Members</a>
+                       <a href="#" class="main-button-gray">Mentors of R Programme</a>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">

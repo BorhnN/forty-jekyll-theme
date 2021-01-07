@@ -89,7 +89,32 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
         <!-- ***** Header Text End ***** -->
     </div>
-    <!-- ***** Welcome Area End ***** -->     	    
+    <!-- ***** Welcome Area End ***** -->    
+    
+     <!-- ***** Testimonials Start ***** -->
+    <section class="section" id="testimonials">
+        <div class="container">
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="center-heading">
+                        <h2 class="section-title">Mentor of "R" Programme</h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                        <p> <br> </p>
+                    </div>
+                </div>
+            </div>
+            <!-- ***** Section Title End ***** -->
+	    
+		</div>
+        </div>
+    </section>
+    <!-- ***** Testimonials End ***** -->
+	    
+	    
     
      <!-- ***** Features Big Item Start ***** -->
     <section class="section padding-top-70 padding-bottom-0" id="features">
@@ -113,7 +138,7 @@ He has achieved bachelor's degree in computer science and engineering from Inter
 > Programming (coding)
  > Digital Marketing
  > Master in Demand Soft-Skills
-As a mentor,Mr. Ahmad Tariq Hassan will provide guideline to the members of  Researchsio in studying who are interested in working on the subject related to his field.<br><br><a href="#work-process" class="main-button">Our Ongoing Projects</a></p>
+As a mentor,Mr. Ahmad Tariq Hassan will provide guideline to the members of  Researchsio in studying who are interested in working on the subject related to his field.<br><br></p>
                     </div>
                 </div>
             </div>

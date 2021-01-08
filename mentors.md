@@ -188,7 +188,7 @@ As a mentor,Mr. Ahmad Tariq Hassan will provide guideline to the members of  Res
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="assets/images/mentors/CEO.jpeg" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
             </div>
         </div>
@@ -209,7 +209,7 @@ As a mentor,Mr. Ahmad Tariq Hassan will provide guideline to the members of  Res
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="assets/images/mentors/tohfa.jpeg" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
             </div>
         </div>

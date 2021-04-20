@@ -28,12 +28,27 @@ show_tile: false
 </thead>
 <tbody>
 <tr>
-<td>8. Trainer, Membership and Camp. Ambassador Approval    .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>11.Recruitment of new official member on Assistant Creative Manager Position  .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>15 April, 2021</td>
+<td><a href="assets/notice/Notice no.11.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
+</tr>
+<tr>
+<td>10. Concerning Operating Hours of Researchsio   .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>15 April, 2021</td>
+<td><a href="assets/notice/Notice no. 10.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
+</tr>
+<tr>
+<td>9. Concerning the position of Documentation Manager of Researchsio   .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>15 April, 2021</td>
+<td><a href="assets/notice/Notice no. 09.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
+</tr>
+<tr>
+<td>8. Trainer, Membership and Camp. Ambassador Approval </td>
 <td>20 October, 2020</td>
 <td><a href="assets/notice/Notice no. 08.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
 </tr>
 <tr>
-<td>7. Acknowledgement of Review Panel Members addition    .<neon contenteditable spellcheck="false">  New  </neon>   </td>
+<td>7. Acknowledgement of Review Panel Members addition   </td>
 <td>20 October, 2020</td>
 <td><a href="assets/notice/Notice no. 7.pdf"><img src="assets/images/pdf.png" alt="Download" width="35" height="40"></a></td>
 </tr>

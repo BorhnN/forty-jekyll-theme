@@ -57,8 +57,8 @@ https://templatemo.com/tm-535-softy-pinko
                         <ul class="nav">
                             <li><a href="#features">Work Field</a></li>
                             <li><a href="#blog">Training</a></li>
+                            <li><a href="#ablog"> Ongoing</a></li>
                             <li><a href="#testimonials"> Upcoming Workshop</a></li>
-			    <li><a href="#ablog"> Ongoing</a></li>
                             <li><a href="#pricing-plans">Book & Software Store</a></li>
 			    
                         </ul>

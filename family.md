@@ -450,14 +450,14 @@ https://templatemo.com/tm-535-softy-pinko
 		 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
-                            <img src="assets/images/teachers/Roy.JPG" alt="Proshanto">
+                            <img src="assets/images/teachers/" alt="Proshanto">
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Proshanta Roy </a>
+                                <a href="#"> Atikul Islam </a>
                             </h3>
                             <div class="text">
-                            Phd research fellow (Neuroscience) <br>Department of Public Health and experimental medicine, University of Camerino, Italy <br><br> Reviewer on- &#8226; Biotechnology. &#8226;Neuroscience. &#8226;Immunology.
+                           Research and Training Assistant <br> Institute of Biomedical Science, National chung Shing University, Taiwan <br><br> Reviewer on- &#8226; Pharmacology. &#8226;Cancer Biology. &#8226; Pharmacognosy.
 			     </div> 
                         </div>
                     </div>

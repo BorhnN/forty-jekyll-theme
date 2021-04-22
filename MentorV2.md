@@ -1,3 +1,11 @@
+---
+layout: mentorV2
+title: Researchsio Mentors
+description: 'Our Mentors'
+nav-menu: false
+show_tile: false
+---
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +17,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
 
-    <title>Softy Pinko - Bootstrap 4.0 Theme</title>
+    <title>Mentors</title>
 <!--
 SOFTY PINKO
 https://templatemo.com/tm-535-softy-pinko

@@ -559,7 +559,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="text">
                               R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
 				</div>
-                            <a href="mentors.html#R" class="main-button">Mentor</a>
+                            <a href="MentorV2.html" class="main-button">Mentor</a>
                         </div>
                     </div>
                 </div>

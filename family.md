@@ -450,7 +450,7 @@ https://templatemo.com/tm-535-softy-pinko
 		 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
-                            <img src="assets/images/teachers/Atik.jpg" alt="Atikul Islam">
+                            <img src="assets/images/teachers/Atik (2).jpg" alt="Atikul Islam">
                         </div>
                         <div class="blog-content">
                             <h3>

@@ -347,7 +347,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
 		</div>
         </div>
-    </section>
+   
     
     <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
@@ -364,8 +364,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
     
     <!-- ***** Testimonials End ***** -->
-    
-   </section>
+    </section>
 
   <!-- ***** Pricing Plans Start ***** -->
     <section class="section colored" id="pricing-plans">

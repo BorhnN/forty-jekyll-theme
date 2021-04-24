@@ -611,12 +611,12 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Workshop/W1.jpg" alt=""></i>
-                            <p><strong>Study Abroad: Preparation and Relation aspects</strong><br>Scheduled on 25 th April 2021 at 8:00pm</p>
+                            <p>Study Abroad: Preparation and Relation aspects<br>Scheduled on 25 th April 2021 at 8:00pm</p>
                             <div class="user-image">
                                 <img src="assets/icons/event 1.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">For More vist</h2>
+                                <h2 class="user-name">For More visit</h2>
                                 <span><a href="https://www.facebook.com/researchsio/posts/297756591799685">Facebook Post</a></span>
                             </div>
                         </div>
@@ -634,7 +634,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <img src="assets/icons/event 1.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">For More vist Our</h2>
+                                <h2 class="user-name">For More visit Our</h2>
                                 <span>Event Details </span>
                             </div>
                         </div>
@@ -652,7 +652,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <img src="assets/icons/event 1.png" alt="event">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">For More vist Our</h3>
+                                <h3 class="user-name">For More visit Our</h3>
                                 <span>Event Details</span>
                             </div>
                         </div>

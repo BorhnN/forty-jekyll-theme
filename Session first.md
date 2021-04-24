@@ -362,7 +362,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <!-- ***** Testimonials Item End ***** -->
     
     <!-- ***** Testimonials End ***** -->
-  </section>    
+<!-- ***** Section Title End ***** -->   
 
   <!-- ***** Pricing Plans Start ***** -->
     <section class="section colored" id="pricing-plans">
@@ -392,6 +392,7 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
 	 </div>
     </section>
+    
     <!-- ***** Pricing Plans End ***** -->
 
    

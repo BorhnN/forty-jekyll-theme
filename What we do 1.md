@@ -611,7 +611,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Workshop/W1.jpg" alt=""></i>
-                            <p>Study Abroad: Preparation and Relation aspects.<br><br>Scheduled on 25 th April 2021 at 8:00pm</p>
+                            <p>WOrkshop on-<br>"Study Abroad: Preparation and Relation aspects".<br><br>Scheduled on <br>25 th April 2021 at 8:00pm</p>
                             <div class="user-image">
                                 <img src="assets/icons/event 1.png" alt="">
                             </div>

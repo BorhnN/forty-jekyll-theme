@@ -360,9 +360,10 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
-    
-    <!-- ***** Testimonials End ***** -->
-<!-- ***** Section Title End ***** -->   
+    	    </div>
+        </div>
+    </section>
+    <!-- ***** Testimonials End ***** --> 
 
   <!-- ***** Pricing Plans Start ***** -->
     <section class="section colored" id="pricing-plans">

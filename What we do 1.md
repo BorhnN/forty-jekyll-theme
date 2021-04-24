@@ -610,14 +610,14 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/testimonial-icon.png" alt=""></i>
-                            <p>Coming Soon!.</p>
+                            <i><img src="assets/images/Workshop/W1.jpg" alt=""></i>
+                            <p>Study Abroad: Preparation and Relation aspects</p>
                             <div class="user-image">
                                 <img src="assets/icons/event 1.png" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">For More vist Our</h2>
-                                <span>Event Details </span>
+                                <h2 class="user-name">For More vist</h2>
+                                <span><a href="https://www.facebook.com/researchsio/posts/297756591799685">Facebook Post</a></span>
                             </div>
                         </div>
                     </div>

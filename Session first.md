@@ -348,9 +348,24 @@ https://templatemo.com/tm-535-softy-pinko
 		</div>
         </div>
     </section>
+    
+    <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/ambassador/meem.jpg" alt="" class="rounded-cornersone"></i>
+                           
+			    
+                            
+			    
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+    
     <!-- ***** Testimonials End ***** -->
     
-   
+   </section>
 
   <!-- ***** Pricing Plans Start ***** -->
     <section class="section colored" id="pricing-plans">

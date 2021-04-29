@@ -298,6 +298,61 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 	
+	<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/post- first session/23.jpg" alt="" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+
+<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/post- first session/24.jpg" alt="" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		
+<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/post- first session/25.jpg" alt="" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->		
+		
+<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/post- first session/26.jpg" alt="" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->	
+		
+<!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/members/post- first session/27.jpg" alt="" class="rounded-cornersone"></i>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->		
+		
 		</div>
         </div>
     </section>

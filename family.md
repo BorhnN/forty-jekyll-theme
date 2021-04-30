@@ -521,7 +521,8 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
 		    </div>
-		    </section>
+		    </div>
+	     </section>
     <!-- ***** Blog End ***** -->
    
 

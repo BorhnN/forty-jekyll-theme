@@ -60,6 +60,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <li><a href="#testimonials">Founding Members</a></li>
                             <li><a href="#blog">Review Pannel</a></li>
                             <li><a href="#pricing-plans">Members</a></li>
+			    <li><a href="#blog">Review Pannel</a></li>
 			    
                         </ul>
                         <a class='menu-trigger'>

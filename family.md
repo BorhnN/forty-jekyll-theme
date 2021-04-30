@@ -59,7 +59,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <li><a href="#features">Founder</a></li>
                             <li><a href="#testimonials">Founding Members</a></li>
                             <li><a href="#blog">Review Pannel</a></li>
-			    <li><a href="#blog">Trainer</a></li>
+			    <li><a href="#log">Trainer</a></li>
                             <li><a href="#pricing-plans">Members</a></li>
 			   
 			    
@@ -485,8 +485,8 @@ https://templatemo.com/tm-535-softy-pinko
     </section>
     <!-- ***** Blog End ***** -->
     
-    <!-- ***** Blog Start ***** -->
-    <section class="section" id="blog">
+    <!-- ***** log Start ***** -->
+    <section class="section" id="log">
         <div class="container">
            
 	   <!-- ***** Section Title Start ***** -->
@@ -508,14 +508,14 @@ https://templatemo.com/tm-535-softy-pinko
 	      <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                     <div class="blog-post-thumb">
                         <div class="img">
-                            <img src="assets/images/teachers/Anwar.jpg" alt="Anwar">
+                            <img src="assets/images/teachers/.jpg" alt="Saqline Mostaq">
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Prof. Anwar H. Joarder </a>
+                                <a href="#">Saqline Mostaq</a>
                             </h3>
                             <div class="text">
-                            Dean, Faculty of Science & Engineering <br>NUBT, Khulna. <br><br> Online Lecturer/Trainer (Researchsio)
+                           Bio Health Engineering <br>University of Grenoble Alpes, Frnce. <br><br> Online Lecturer/Trainer (Researchsio)
                             </div> 
                         </div>
                     </div>
@@ -531,7 +531,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#"> More Qualified Individuals will be added shortly!</a>
                             </h3>
                             <div class="text">
-                            We are in a process of adding more skilled Reviewers, Researchers and Project coordinators. Stay with us!
+                            We are in a process of adding more skilled Trainer and Mentors. Stay with us!
                             </div>
                         </div>
                     </div>

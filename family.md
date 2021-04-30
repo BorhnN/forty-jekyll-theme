@@ -520,6 +520,22 @@ https://templatemo.com/tm-535-softy-pinko
                         </div>
                     </div>
                 </div>
+		
+		<div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/icons/coming Soon 1.png" alt="Coming Soon!">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#"> More Qualified Individuals will be added shortly!</a>
+                            </h3>
+                            <div class="text">
+                            We are in a process of adding more skilled Reviewers, Researchers and Project coordinators. Stay with us!
+                            </div>
+                        </div>
+                    </div>
+                </div>
 		    </div>
 		    </div>
 	     </section>

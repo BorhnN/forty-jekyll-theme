@@ -32,6 +32,7 @@ https://templatemo.com/tm-535-softy-pinko
     
     <body>
     
+    
     <!-- ***** Preloader Start ***** -->
     <div id="preloader">
         <div class="jumper">

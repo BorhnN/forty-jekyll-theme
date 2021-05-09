@@ -559,7 +559,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="text">
                               R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
 				</div>
-                            <a href="MentorV2.html" class="main-button">Mentor</a>
+                            <a href="#" class="main-button">Mentor: Mr. Ahmad Tarique Hasan</a>
                         </div>
                     </div>
                 </div>
@@ -576,7 +576,7 @@ https://templatemo.com/tm-535-softy-pinko
                             <div class="text">
                             The study of pharmacology overlaps with biomedical sciences and is the study of the effects of drugs on living organisms. Pharmacological research can lead to new drug discoveries, and promote a better understanding of human physiology.
                             </div>
-                            <a href="mentors.html#Pharmacology" class="main-button">Mentors</a>
+                            <a href="#" class="main-button">Mentors of First Phase: Md. Salman Faisal & Nuosaibaton Morsheda Tohfa  </a>
                         </div>
                     </div>
                 </div>

@@ -2,7 +2,7 @@
 layout: What we do 1
 title: What We Do...
 description: 'Learn about our work field'
-image: assets/images/pic13.jpg
+
 nav-menu: true
 ---
     

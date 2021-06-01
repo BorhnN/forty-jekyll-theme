@@ -254,7 +254,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/Founders/Nishan.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
-                            <p>Nishan Chakrabarty<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Research Advisor</p>
+                            <p>Nishan Chakrabarty<br> &#8226; B.Pharm (IIUC), M.Pharm(JNU)<br> &#8226; Publication Manager</p>
                             <div class="team-info">
                                  <span> <h3 class="user-name"><a href="https://www.researchsio.com">Follow On</a></h3> </span>
                             </div>

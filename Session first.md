@@ -379,6 +379,9 @@ https://templatemo.com/tm-535-softy-pinko
         </div>
     </section>
     <!-- ***** Testimonials End ***** -->
+	    
+	    
+	    
     
     <!-- ***** Testimonials Start ***** -->
     <section class="section" id="atestimonials">
@@ -398,23 +401,7 @@ https://templatemo.com/tm-535-softy-pinko
             </div>
             <!-- ***** Section Title End ***** -->
 		
-	   <!-- ***** Testimonials Start ***** -->
-    <section class="section" id="atestimonials">
-        <div class="container">
-            <!-- ***** Section Title Start ***** -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="left-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                       <a href="#" class="main-button-gray">Campus Ambassador</a>
-                    </div>
-                </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p> <br> </p>
-                    </div>
-                </div>
-            </div>
-            <!-- ***** Section Title End ***** -->	
+
 	    
 	    <div class="row">
 	    <!-- ***** Testimonials Item Start ***** -->
@@ -422,10 +409,7 @@ https://templatemo.com/tm-535-softy-pinko
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/ambassador/meem.jpg" alt="" class="rounded-cornersone"></i>
-                           
-			    
-                            
-		
+                     
                         </div>
                     </div>
                 </div>
@@ -445,6 +429,23 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
+		    
+		    
+		     <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/ambassador/Riaz.jpg" alt="" class="rounded-cornersone"></i>
+                           
+			    
+                            
+			    
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+		    
+		    
     	    </div>
         </div>
     </section>

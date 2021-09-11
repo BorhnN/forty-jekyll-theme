@@ -430,8 +430,23 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 		    
+		   
+     <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/ambassador/Al Araf.png" alt="" class="rounded-cornersone"></i>
+                           
+			    
+                            
+			    
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->	    
 		    
-		     <!-- ***** Testimonials Item Start ***** -->
+		    
+       <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
@@ -444,6 +459,8 @@ https://templatemo.com/tm-535-softy-pinko
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
+		    
+		    
 		    
 		    
 		    		     <!-- ***** Testimonials Item Start ***** -->

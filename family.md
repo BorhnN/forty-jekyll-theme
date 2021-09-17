@@ -567,6 +567,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                         <div class="pricing-body">
                             <div class="price-wrapper">
+				    <a href="Session Ambassador.html" class="main-button">Campus Ambassador</a>
                                <a href="Session first.html" class="main-button">First Session Members</a>
 				    <br><br><a href="Session second.html" class="main-button">Second Session Members</a>
 			      <br><br> <a href="first session Coming Soon.html" class="main-button">Second Session Recruitment</a>

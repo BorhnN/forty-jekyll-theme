@@ -1,6 +1,6 @@
 ---
 layout: Session first
-title: Researchsio Members
+title: Campus Ambassador
 description: 'Our First Session Members'
 nav-menu: false
 show_tile: false

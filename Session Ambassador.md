@@ -81,8 +81,8 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                         <h1>Our <strong>Campus Ambassadors</strong></h1>
-			<p> Ambassadors are the representitive and heart of Researchsio. Let get familiar with our Campus Ambassadors who get themselves engaged with us in first session.</p> 
-			<br><br><a href="#atestimonials" class="main-button-slider">Campus Ambassador</a>
+			<p> Ambassadors are the representitive and heart of Researchsio. Let get familiar with our Campus Ambassadors who get themselves engaged with us.</p> 
+			
                     </div>
                 </div>
             </div>

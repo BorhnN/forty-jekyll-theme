@@ -6,7 +6,7 @@ show_tile: false
 ---
 <html lang="en">
 <head>
-	<title>First Session Members</title>
+	<title>Second Session Recruitment</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -42,7 +42,7 @@ show_tile: false
 
 			<p class="m2-txt1 txt-center p-b-48">
 				Our Member Recruitment for Second Session is going on!.
-				<br> <br> Before being a member of second session please contact with:<br><br> <strong> Nusaibatoon Morsheda Tohfa</strong>.<br>Communication Supervisor.<br> Cell. <strong> +8801687 067 630</strong> <br><br> In the meantime, take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details.  <br> <br> Possible date for ending second session recruitment is 31<sup>st</sup> December. 
+				<br> <br> Before being a member of second session please contact with:<br><br> <strong> Nusaibatoon Morsheda Tohfa</strong>.<br>Communication Supervisor.<br> Cell. <strong> +8801687 067 630</strong> <br><br> In the meantime, take a look at the <a href="https://researchsio.com//Notice%20Board.html"> Notice Board</a> for details.  <br> <br> Possible deadline for second session recruitment is 31<sup>st</sup> December. 
 			</p>
 
 			<div class="flex-w flex-c-m cd100 p-b-33">

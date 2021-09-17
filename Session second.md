@@ -1,7 +1,7 @@
 ---
 layout: Session first
 title: Researchsio Members
-description: 'Our First Session Members'
+description: 'Our Second Session Members'
 nav-menu: false
 show_tile: false
 ---
@@ -80,8 +80,8 @@ https://templatemo.com/tm-535-softy-pinko
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-                        <h1>Our <strong>First Session Members</strong></h1>
-			<p> Members are the heart of Researchsio. Let get familiar with our Members and Campus Ambassador who get themselves engaged with us in first session.</p> 
+                        <h1>Our <strong>Second Session Members</strong></h1>
+			<p> Members are the heart of Researchsio. Let get familiar with our Members and Campus Ambassador who get themselves engaged with us in second session.</p> 
 			<br><br><a href="#testimonials" class="main-button-slider"> Members </a>   . <a href="#atestimonials" class="main-button-slider">Campus Ambassador</a>
                     </div>
                 </div>
@@ -116,7 +116,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/members/first session/1.jpg" alt="" class="rounded-cornersone"></i>
+                            <i><img src="assets/images/members/second session/5.jpg" alt="" class="rounded-cornersone"></i>
                            
 			    
                             
@@ -126,22 +126,13 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 		
-		<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/2.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
+
 		
 		<!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/members/first session/3.jpg" alt="" class="rounded-cornersone"></i>
+                            <i><img src="assets/images/members/second session/3.jpg" alt="" class="rounded-cornersone"></i>
                             
 
                         </div>
@@ -153,7 +144,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/members/first session/4.jpg" alt="" class="rounded-cornersone"></i>
+                            <i><img src="assets/images/members/second session/4.jpg" alt="" class="rounded-cornersone"></i>
                             
                         </div>
                     </div>
@@ -164,216 +155,16 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="assets/images/members/first session/5.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
+                            <i><img src="assets/images/members/second session/6.jpg" alt="" class="rounded-cornersone"></i>
                             
                         </div>
                     </div>
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 		
-		<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/6.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
+		    
+		    
 		
-    
-                <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/7.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-              
-		
-		<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/9.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		
-		
-	       <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/11.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		
-	    <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/12.jpg" alt="Gazzalee" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		
-		<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/13.jpg" alt="Nishan Chk" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/14.jpg" alt="" class="rounded-cornersone"></i>
-                           
-			    
-                            
-			    
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		
-		<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/15.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		
-		<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/16.jpg" alt="" class="rounded-cornersone"></i>
-                            
-
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-	       
-	       <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/first session/17.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-	
-	<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/post- first session/22.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-	
-	<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/post- first session/23.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-
-<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/post- first session/24.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		
-<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/post- first session/25.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->		
-		
-<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/post- first session/26.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->	
-		
-<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter right move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/post- first session/27.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->		
-	
-<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/post- first session/28.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->	
-	
-<!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/members/post- first session/29.jpg" alt="" class="rounded-cornersone"></i>
-                            
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->	
 	
 		</div>
         </div>
@@ -383,106 +174,6 @@ https://templatemo.com/tm-535-softy-pinko
 	    
 	    
     
-    <!-- ***** Testimonials Start ***** -->
-    <section class="section" id="atestimonials">
-        <div class="container">
-            <!-- ***** Section Title Start ***** -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="left-heading" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                       <a href="#" class="main-button-gray">Campus Ambassador</a>
-                    </div>
-                </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <p> <br> </p>
-                    </div>
-                </div>
-            </div>
-            <!-- ***** Section Title End ***** -->
-		
-
-	    
-	    <div class="row">
-	    <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/ambassador/meem.jpg" alt="" class="rounded-cornersone"></i>
-                     
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-	
-    
-    <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/ambassador/Riaz.jpg" alt="" class="rounded-cornersone"></i>
-                           
-			    
-                            
-			    
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		    
-		   
-     <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/ambassador/Tasnuba Tabassum Ritu.jpg" alt="" class="rounded-cornersone"></i>
-                           
-			    
-                            
-			    
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->	    
-		    
-		    
-       <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/ambassador/Al Araf.png" alt="" class="rounded-cornersone"></i>
-                           
-			    
-                            
-			    
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		    
-		    
-		    
-		    
-		    		     <!-- ***** Testimonials Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <i><img src="assets/images/ambassador/SM Rahimuzzaman.png" alt="" class="rounded-cornersone"></i>
-                           
-			    
-                            
-			    
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Testimonials Item End ***** -->
-		    
-		    
-    	    </div>
-        </div>
-    </section>
-    <!-- ***** Testimonials End ***** --> 
-
   <!-- ***** Pricing Plans Start ***** -->
     <section class="section colored" id="pricing-plans">
         <div class="container">

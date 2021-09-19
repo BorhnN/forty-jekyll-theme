@@ -428,7 +428,7 @@ https://templatemo.com/tm-535-softy-pinko
                                 <a href="#">Abrar Wahab </a>
                             </h3>
                             <div class="text">
-                                Masters in Public Health <br>Evaluation and Research Officer<br> Shornokishoree Network Foundation <br><br>Area of expertise are: &#8226; Epidemiology &#8226;Mental Health &#8226;Internet Addiction &#8226;Sleep Disturbance &#8226;Antibiotic Resistance &#8226;Adolescent Health &#8226;Nutrition 
+                                Masters in Public Health <br>Research Associate<br> Centre for Injury Prevention and Research Bangladesh (CIPRB) <br><br>Area of expertise are: &#8226; Epidemiology &#8226;Mental Health &#8226;Internet Addiction &#8226;Sleep Disturbance &#8226;Antibiotic Resistance &#8226;Adolescent Health &#8226;Nutrition 
                             </div> 
                         </div>
                     </div>

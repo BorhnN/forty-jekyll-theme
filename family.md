@@ -154,7 +154,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <h2 class="section-title">MD. Salman Faisal</h2>
                     </div>
                     <div class="left-text">
-                        <p>&#8226;Founder & CEO <br>&#8226;Researchsio. <span> <br><br> Follow on </span> <br> <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/icons/Researchgate.png" height="55" width="55" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="www.linkedin.com/in/salmanfr6"><img src="assets/icons/in.png" height="55" width="55" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
+                        <p>&#8226;Founder & CEO <br>&#8226;Researchsio. <span> <br><br> Follow on </span> <br> <a href="https://www.researchgate.net/profile/Md_Faisal18"><img src="assets/icons/Researchgate.png" height="55" width="55" class="rounded-cornersone" alt="ResearchGate Logo"></a> <a href="www.linkedin.com/in/salmanfr6/"><img src="assets/icons/in.png" height="55" width="55" class="rounded-cornersone" alt="Linkedin Logo"></a></p>
 
                     </div>
                 </div>

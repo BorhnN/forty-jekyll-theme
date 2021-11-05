@@ -10,7 +10,7 @@ city: Dhaka North City
 state: Dhaka
 zip_code: 1216
 country: Bangladesh
-phone: +8801791925491
+phone: +8801791925491; +8801687-067630
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
